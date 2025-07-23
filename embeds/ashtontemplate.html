@@ -1,6 +1,7 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 <script>
 	const ashtontemplate = document.createElement('script');
-	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/ashtontemplate.js")
+	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/embed.js")
 		.then(response => response.text())
 		.then(data => ashtontemplate.innerHTML = data)
 	document.body.appendChild(ashtontemplate);
