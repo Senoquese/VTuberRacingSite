@@ -22,5 +22,11 @@
 			.then(response => response.text())
 			.then(data => gitscripts.innerHTML = data)
 		document.body.appendChild(gitscripts);
+
+		const trophiesscript = document.createElement('script');
+		fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/trophies.js")
+			.then(response => response.text())
+			.then(data => trophiesscript.innerHTML = data)
+		document.body.appendChild(trophiesscript);
 	})
 </script>
