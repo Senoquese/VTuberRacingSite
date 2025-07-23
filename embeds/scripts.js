@@ -6,7 +6,11 @@ $(function(){
 	$(headerbarmore).slideUp(0);
 	
 	var headerBar = $(header);
-	headerBar.css("position", "fixed")
+	$(headerbar).css("position","fixed")
+	$(headerbar).css("top","0px")
+	$(headerbar).css("height","2.25rem")
+	$(headerbar).css("width","100%")
+	$(headerbar).css("z-index","100")
 	if (document.getElementById("home-section").classList.contains("active")) {
 		headerBar.slideUp(500);
 	}
