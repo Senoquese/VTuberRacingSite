@@ -6,6 +6,7 @@ $(function(){
 	$(headerbarmore).slideUp(0);
 	
 	var headerBar = $(header);
+	headerBar.css("position", "fixed")
 	if (document.getElementById("home-section").classList.contains("active")) {
 		headerBar.slideUp(500);
 	}
