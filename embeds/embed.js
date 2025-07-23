@@ -3,8 +3,6 @@ function runAshtonTemplate(hideHeader){
 		.then(response => response.text())
 		.then(data => $(header)[0].innerHTML = data)
 
-	window.shouldHideHeader = hideHeader
-
 	var headerBar = $(header)
 	headerBar.css("position", "fixed")
 	headerBar.css("top", "0px")
