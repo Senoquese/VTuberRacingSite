@@ -1,0 +1,438 @@
+<style> 
+	#trophyNotificationImage:not(:first-child) {
+		margin-top: 0rem !important;
+	}
+
+	#trophyNotificationImage:not(:last-child) {
+		margin-bottom: 0rem !important;
+	}
+
+	#trophyNotificationImage .frame {
+		width: 18rem;
+		height: 18rem;
+		transition: none;
+	}
+
+	#trophyNotificationImage img {
+		height: 100% !important;
+		object-fit: cover;
+		object-position: center;
+		width: 100% !important;
+		-webkit-touch-callout: none;
+		user-select: none;
+	}
+
+	#trophyNotificationImage .frame img {
+		transition: none;
+	}
+
+	#trophyNotification:not(:first-child) {
+		margin-top: 0rem !important;
+	}
+
+	#trophyNotification:not(:last-child) {
+		margin-bottom: 0rem !important;
+	}
+
+	#trophyNotification > .wrapper {
+		display: block;
+		margin: 0 0 0 auto;
+		width: 34rem;
+		background-attachment: scroll;
+		background-image: radial-gradient(50% 50% at 50% 50%, rgba(250,210,67,0.471) 50%, transparent 100%), url('images/trophyNotification.png');
+		background-position: 0% 0%, 50% 50%;
+		background-repeat: repeat, no-repeat;
+		background-size: cover, auto;
+	}
+
+	#trophyNotification > .wrapper > .inner {
+		--gutters: 0rem;
+		--padding-horizontal: 0rem;
+		--padding-vertical: 2.5rem;
+		padding: var(--padding-vertical) var(--padding-horizontal);
+	}
+
+	#trophyNotification.default > .wrapper > .inner > * {
+		margin-bottom: var(--spacing);
+		margin-top: var(--spacing);
+	}
+
+	#trophyNotification.default > .wrapper > .inner > *:first-child {
+		margin-top: 0 !important;
+	}
+
+	#trophyNotification.default > .wrapper > .inner > *:last-child {
+		margin-bottom: 0 !important;
+	}
+
+	#trophyNotification.columns > .wrapper > .inner {
+		flex-wrap: wrap;
+		display: flex;
+		align-items: flex-start;
+	}
+
+	#trophyNotification.columns > .wrapper > .inner > * {
+		flex-grow: 0;
+		flex-shrink: 0;
+		max-width: 100%;
+		text-align: var(--alignment);
+		padding: 0 0 0 var(--gutters);
+	}
+
+	#trophyNotification.columns > .wrapper > .inner > * > * {
+		margin-bottom: var(--spacing);
+		margin-top: var(--spacing);
+	}
+
+	#trophyNotification.columns > .wrapper > .inner > * > *:first-child {
+		margin-top: 0 !important;
+	}
+
+	#trophyNotification.columns > .wrapper > .inner > * > *:last-child {
+		margin-bottom: 0 !important;
+	}
+
+	#trophyNotification.columns > .wrapper > .inner > *:first-child {
+		margin-left: calc(var(--gutters) * -1);
+	}
+
+	#trophyNotification.default > .wrapper > .inner > .full {
+		margin-left: calc(var(--padding-horizontal) * -1);
+		max-width: none !important;
+		width: calc(100% + (var(--padding-horizontal) * 2) + 0.4725px);
+	}
+
+	#trophyNotification.default > .wrapper > .inner > .full:first-child {
+		margin-top: calc(var(--padding-vertical) * -1) !important;
+		border-top-left-radius: inherit;
+		border-top-right-radius: inherit;
+	}
+
+	#trophyNotification.default > .wrapper > .inner > .full:last-child {
+		margin-bottom: calc(var(--padding-vertical) * -1) !important;
+		border-bottom-left-radius: inherit;
+		border-bottom-right-radius: inherit;
+	}
+
+	#trophyNotification.columns > .wrapper > .inner > div > .full {
+		margin-left: calc(var(--gutters) * -0.5);
+		max-width: none !important;
+		width: calc(100% + var(--gutters) + 0.4725px);
+	}
+
+	#trophyNotification.columns > .wrapper > .inner > div:first-child > .full {
+		margin-left: calc(var(--padding-horizontal) * -1);
+		width: calc(100% + var(--padding-horizontal) + calc(var(--gutters) * 0.5) + 0.4725px);
+	}
+
+	#trophyNotification.columns > .wrapper > .inner > div:last-child > .full {
+		width: calc(100% + var(--padding-horizontal) + calc(var(--gutters) * 0.5) + 0.4725px);
+	}
+
+	#trophyNotification.columns > .wrapper > .inner > div > .full:first-child {
+		margin-top: calc(var(--padding-vertical) * -1) !important;
+	}
+
+	#trophyNotification.columns > .wrapper > .inner > div > .full:last-child {
+		margin-bottom: calc(var(--padding-vertical) * -1) !important;
+	}
+
+	#trophyNotification.columns > .wrapper > .inner > div:first-child, #trophyNotification.columns > .wrapper > .inner > div:first-child > .full:first-child {
+		border-top-left-radius: inherit;
+	}
+
+	#trophyNotification.columns > .wrapper > .inner > div:last-child, #trophyNotification.columns > .wrapper > .inner > div:last-child > .full:first-child {
+		border-top-right-radius: inherit;
+	}
+
+	#trophyNotification.columns > .wrapper > .inner > .full {
+		align-self: stretch;
+	}
+
+	#trophyNotification.columns > .wrapper > .inner > .full:first-child {
+		border-bottom-left-radius: inherit;
+		border-top-left-radius: inherit;
+	}
+
+	#trophyNotification.columns > .wrapper > .inner > .full:last-child {
+		border-bottom-right-radius: inherit;
+		border-top-right-radius: inherit;
+	}
+
+	#trophyNotification.columns > .wrapper > .inner > .full > .full:first-child:last-child {
+		border-radius: inherit;
+		height: calc(100% + (var(--padding-vertical) * 2));
+	}
+
+	#trophyNotification.columns > .wrapper > .inner > .full > .full:first-child:last-child > * {
+		border-radius: inherit;
+		height: 100%;
+		position: absolute;
+		width: 100%;
+	}
+
+	#trophyNotificationText:not(:first-child) {
+		margin-top: 0rem !important;
+	}
+
+	#trophyNotificationText:not(:last-child) {
+		margin-bottom: 0rem !important;
+	}
+
+	#trophyNotificationText {
+		text-align: center;
+		color: #FFFFFF;
+		font-family: 'Trebuchet MS', sans-serif;
+		font-size: 1.75em;
+		line-height: 0.75;
+		font-weight: 700;
+		text-shadow: 0rem 0rem 0.5rem #000000;
+	}
+
+	#trophyNotificationText a {
+		color: #713D99;
+		text-decoration: underline;
+	}
+
+	#trophyNotificationText a:hover {
+		text-decoration: none;
+	}
+
+	#trophyNotificationText span.p:nth-child(n + 2) {
+		margin-top: 1rem;
+	}
+
+	#trophyNotificationName:not(:first-child) {
+		margin-top: 0.5rem !important;
+	}
+
+	#trophyNotificationName:not(:last-child) {
+		margin-bottom: 0.5rem !important;
+	}
+
+	#trophyNotificationName {
+		text-align: center;
+		color: #FFFFFF;
+		font-family: 'Tilt Warp', sans-serif;
+		font-size: 2em;
+		line-height: 0.75;
+		font-weight: 400;
+		text-shadow: 0rem 0rem 0.5rem #000000;
+	}
+
+	#trophyNotificationName u {
+		text-decoration: none;
+		box-shadow: inset 0 -0.25em 0 0 #8178C7;
+	}
+
+	#trophyNotificationName a {
+		color: #713D99;
+		text-decoration: underline;
+	}
+
+	#trophyNotificationName a:hover {
+		text-decoration: none;
+	}
+
+	#trophyNotificationName span.p:nth-child(n + 2) {
+		margin-top: 1rem;
+	}
+
+	@media (max-width: 980px) {
+		#trophyNotification.columns > .wrapper > .inner {
+			flex-direction: column !important;
+			flex-wrap: nowrap !important;
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > span {
+			height: 0;
+			margin-top: calc(var(--gutters) * -1);
+			pointer-events: none;
+			visibility: hidden;
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > *:first-child {
+			margin-left: 0 !important;
+			padding-top: 0 !important;
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > * {
+			padding: calc(var(--gutters) * 0.5) 0 !important;
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > *:last-child {
+			padding-bottom: 0 !important;
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > div > .full {
+			margin-left: calc(var(--padding-horizontal) * -1);
+			width: calc(100% + (var(--padding-horizontal) * 2) + 0.4725px);
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > div:first-of-type > .full {
+			margin-left: calc(var(--padding-horizontal) * -1);
+			width: calc(100% + (var(--padding-horizontal) * 2) + 0.4725px);
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > div:last-of-type > .full {
+			margin-left: calc(var(--padding-horizontal) * -1);
+			width: calc(100% + (var(--padding-horizontal) * 2) + 0.4725px);
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > div > .full:first-child {
+			margin-top: calc(var(--gutters) * -0.5) !important;
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > div > .full:last-child {
+			margin-bottom: calc(var(--gutters) * -0.5) !important;
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > div:first-of-type > .full:first-child {
+			margin-top: calc(var(--padding-vertical) * -1) !important;
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > div:last-of-type > .full:last-child {
+			margin-bottom: calc(var(--padding-vertical) * -1) !important;
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > div:first-of-type, #trophyNotification.columns > .wrapper > .inner > div:first-of-type > .full:first-child {
+			border-top-left-radius: inherit;
+			border-top-right-radius: inherit;
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > div:last-of-type, #trophyNotification.columns > .wrapper > .inner > div:last-of-type > .full:last-child {
+			border-bottom-left-radius: inherit;
+			border-bottom-right-radius: inherit;
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > div:first-of-type, #trophyNotification.columns > .wrapper > .inner > div:first-of-type > .full:last-child {
+			border-bottom-left-radius: 0 !important;
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > div:last-of-type, #trophyNotification.columns > .wrapper > .inner > div:last-of-type > .full:first-child {
+			border-top-right-radius: 0 !important;
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > .full > .full:first-child:last-child {
+			height: auto;
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > .full > .full:first-child:last-child > * {
+			height: auto;
+			position: relative;
+			width: auto;
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > .full > .full:first-child:last-child.image img {
+			max-height: 35rem;
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > .full > .full:first-child:last-child.slideshow .bg {
+			min-height: 35rem;
+		}
+	}
+
+	@media (max-width: 736px) {
+		#trophyNotificationImage:not(:first-child) {
+			margin-top: 0rem !important;
+		}
+		
+		#trophyNotificationImage:not(:last-child) {
+			margin-bottom: 0rem !important;
+		}
+		
+		#trophyNotificationImage .frame {
+			width: 18rem;
+			height: 22.5rem !important;
+		}
+		
+		#trophyNotificationImage img {
+			height: 100% !important;
+			object-fit: cover;
+			object-position: center;
+			width: 100% !important;
+		}
+		
+		#trophyNotification:not(:first-child) {
+			margin-top: 0rem !important;
+		}
+		
+		#trophyNotification:not(:last-child) {
+			margin-bottom: 0rem !important;
+		}
+		
+		#trophyNotification > .wrapper > .inner {
+			--gutters: 1.5rem;
+			--padding-horizontal: 0rem;
+			--padding-vertical: 2.5rem;
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > * {
+			padding: calc(var(--gutters) * 0.5) 0 !important;
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > .full > .full:first-child:last-child.image img {
+			max-height: none;
+		}
+		
+		#trophyNotification.columns > .wrapper > .inner > .full > .full:first-child:last-child.slideshow .bg {
+			min-height: auto;
+		}
+		
+		#trophyNotificationText:not(:first-child) {
+			margin-top: 0rem !important;
+		}
+		
+		#trophyNotificationText:not(:last-child) {
+			margin-bottom: 0rem !important;
+		}
+		
+		#trophyNotificationText {
+			letter-spacing: 0rem;
+			width: 100%;
+			font-size: 1.75em;
+			line-height: 0.75;
+		}
+		
+		#trophyNotificationName:not(:first-child) {
+			margin-top: 0.375rem !important;
+		}
+		
+		#trophyNotificationName:not(:last-child) {
+			margin-bottom: 0.375rem !important;
+		}
+		
+		#trophyNotificationName {
+			letter-spacing: 0rem;
+			width: 100%;
+			font-size: 2em;
+			line-height: 0.75;
+		}
+	}
+
+	@media (max-width: 480px) {
+		#trophyNotificationImage .frame {
+			height: 18rem !important;
+		}
+		}
+
+	@media (max-width: 360px) {
+		#trophyNotificationImage .frame {
+			height: 15.75rem !important;
+		}
+		
+		#trophyNotification > .wrapper > .inner {
+			--gutters: 1.5rem;
+			--padding-horizontal: 0rem;
+			--padding-vertical: 1.875rem;
+		}
+		
+		#trophyNotificationText {
+			font-size: 1.5em;
+		}
+		
+		#trophyNotificationName {
+			font-size: 1.5em;
+		}
+	}
+</style>
