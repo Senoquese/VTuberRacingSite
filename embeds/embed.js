@@ -10,7 +10,7 @@ $(function(){
 	headerBar.css("width", "100%")
 	headerBar.css("z-index", "100")
 
-	const overlays = document.createElement('section');
+	const overlays = document.createElement('div');
 	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/overlays.html")
 		.then(response => response.text())
 		.then(data => overlays.innerHTML = data)
