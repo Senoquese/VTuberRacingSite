@@ -1,11 +1,9 @@
-const shouldHideHeader = false
-
 function runAshtonTemplate(hideHeader){
 	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/header.html")
 		.then(response => response.text())
 		.then(data => $(header)[0].innerHTML = data)
 
-	shouldHideHeader = hideHeader
+	window.shouldHideHeader = hideHeader
 
 	var headerBar = $(header)
 	headerBar.css("position", "fixed")
