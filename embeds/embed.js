@@ -14,7 +14,6 @@ $(function(){
 	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/overlays.html")
 		.then(response => response.text())
 		.then(data => overlays.innerHTML = data)
-	document.body.appendChild(overlays);
 
 	const gitstyle = document.createElement('gitstyle');
 	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/styles.html")
