@@ -1,17 +1,19 @@
 <script>
-	const style = document.createElement('style');
-	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/styles.html")
-		.then(response => response.text())
-		.then(data => style.innerHTML = data)
-	document.head.appendChild(style);
-
 	$(function(){
-		const gitscripts = document.createElement('script');
+		fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/header.html")
+			.then(response => response.text())
+			.then(data => $(header)[0].innerHTML = data)
 
+		const style = document.createElement('style');
+		fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/styles.html")
+			.then(response => response.text())
+			.then(data => style.innerHTML = data)
+		document.head.appendChild(style);
+
+		const gitscripts = document.createElement('script');
 		fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/scripts.js")
 			.then(response => response.text())
 			.then(data => gitscripts.innerHTML = data)
-
 		document.body.appendChild(gitscripts);
 	})
 </script>
