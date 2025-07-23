@@ -1,4 +1,4 @@
-function runAshtonTemplate(){
+$(function(){
 	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/header.html")
 		.then(response => response.text())
 		.then(data => $(header)[0].innerHTML = data)
@@ -27,4 +27,4 @@ function runAshtonTemplate(){
 		.then(response => response.text())
 		.then(data => trophiesscript.innerHTML = data)
 	document.body.appendChild(trophiesscript);
-}
+})
