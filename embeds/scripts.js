@@ -5,7 +5,7 @@ $(function(){
 	$(headerbarmore).css("top", "100%")
 	$(headerbarmore).slideUp(0);
 	
-	document.body.className += " vtuberbg ";
+	document.body.classList.add("vtuberbg")
 
 	var headerBar = $(headertop)
 	if (document.getElementById("home-section").classList.contains("active")) {
