@@ -1,4 +1,10 @@
 <script>
+	const style = document.createElement('style');
+	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/styles.html")
+		.then(response => response.text())
+		.then(data => style.innerHTML = data)
+	document.head.appendChild(style);
+
 	$(function(){
 		const gitscripts = document.createElement('script');
 

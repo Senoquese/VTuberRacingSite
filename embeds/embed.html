@@ -3,9 +3,9 @@
 		.then(response => response.text())
 		.then(data => document.getElementsByTagName('header')[0].innerHTML = data)
 
-	const style = document.createElement('style');
-	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/styles.html")
-		.then(response => response.text())
-		.then(data => style.innerHTML = data)
-	document.head.appendChild(style);
+	document.getElementsByTagName('header')[0].style.position = "fixed"
+	document.getElementsByTagName('header')[0].style.top = "0px"
+	document.getElementsByTagName('header')[0].style.height = "2.25rem"
+	document.getElementsByTagName('header')[0].style.width = "100%"
+	document.getElementsByTagName('header')[0].style.zIndex = "100"
 </script>
