@@ -1,5 +1,5 @@
 $(function(){
-	$(headerbar)[0].children[4].firstChild.appendChild($(headerbarmore)[0])
+	$(headerbar)[0].children[4].children[0].appendChild($(headerbarmore)[0])
 	$(headerbarmore).css("display", "block")
 	$(headerbarmore).css("position", "absolute")
 	$(headerbarmore).css("top", "100%")
