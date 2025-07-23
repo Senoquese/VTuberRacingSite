@@ -15,7 +15,7 @@ $(function(){
 	window.onscroll = function() {window.thinkHeaderBar()};
 	
 	window.thinkHeaderBar = function() {
-		if (document.getElementById("home-section").classList.contains("active") && $(window).scrollTop() < 10) {
+		if (shouldHideHeader && $(window).scrollTop() < 10) {
 			headerBar.slideUp(500);
 			closeHeaderMore();
 		} else {

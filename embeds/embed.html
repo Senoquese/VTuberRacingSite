@@ -1,9 +1,11 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 <script>
-	$(function(){
+	function runAshtonTemplate(hideHeader){
 		fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/header.html")
 			.then(response => response.text())
 			.then(data => $(header)[0].innerHTML = data)
+
+		const shouldHideHeader = hideHeader
 
 		var headerBar = $(header)
 		headerBar.css("position", "fixed")
@@ -29,5 +31,5 @@
 			.then(response => response.text())
 			.then(data => trophiesscript.innerHTML = data)
 		document.body.appendChild(trophiesscript);
-	})
+	}
 </script>

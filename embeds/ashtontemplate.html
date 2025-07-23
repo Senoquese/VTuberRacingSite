@@ -1,0 +1,9 @@
+<script>
+	const ashtontemplate = document.createElement('script');
+	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/ashtontemplate.js")
+		.then(response => response.text())
+		.then(data => ashtontemplate.innerHTML = data)
+	document.body.appendChild(ashtontemplate);
+
+	runAshtonTemplate(true)
+</script>
