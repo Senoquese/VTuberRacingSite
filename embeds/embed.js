@@ -1,4 +1,4 @@
-function runAshtonTemplate(hideHeader){
+function runAshtonTemplate(){
 	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/header.html")
 		.then(response => response.text())
 		.then(data => $(header)[0].innerHTML = data)
