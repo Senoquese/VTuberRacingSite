@@ -4,6 +4,13 @@
 			.then(response => response.text())
 			.then(data => $(header)[0].innerHTML = data)
 
+		var headerBar = $(header)
+		headerBar.css("position", "fixed")
+		headerBar.css("top", "0px")
+		headerBar.css("height", "2.25rem")
+		headerBar.css("width", "100%")
+		headerBar.css("z-index", "100")
+
 		const style = document.createElement('style');
 		fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/styles.html")
 			.then(response => response.text())

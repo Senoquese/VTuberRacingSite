@@ -5,13 +5,6 @@ $(function(){
 	$(headerbarmore).css("top", "100%")
 	$(headerbarmore).slideUp(0);
 	
-	var headerBar = $(headertop)
-	headerBar.css("position", "fixed")
-	headerBar.css("top", "0px")
-	headerBar.css("height", "2.25rem")
-	headerBar.css("width", "100%")
-	headerBar.css("z-index", "100")
-
 	if (document.getElementById("home-section").classList.contains("active")) {
 		headerBar.slideUp(500);
 	}
