@@ -217,7 +217,7 @@ function playVideo(videoIndex, temp) {
 		playVideo(getVideoIndex("Default"), false);
 		return;
 	}
-	if (document.body.contains(document.getElementById("home-section"))) {
+	if (window.shouldHideHeader) {
 		var videoElement = $("#landingpage video").first()
 		if (videoElement.attr("src") != landingVideos[videoIndex].videofile) {
 			videoElement.attr("poster", landingVideos[videoIndex].thumbnail);
