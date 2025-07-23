@@ -1,9 +1,11 @@
 <script>
-	const gitscripts = document.createElement('div');
+	$(function(){
+		const gitscripts = document.createElement('script');
 
-	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/scripts.html")
-		.then(response => response.text())
-		.then(data => gitscripts.innerHTML = data)
+		fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/scripts.js")
+			.then(response => response.text())
+			.then(data => gitscripts.innerHTML = data)
 
-	document.body.appendChild(gitscripts);
+		document.body.appendChild(gitscripts);
+	})
 </script>
