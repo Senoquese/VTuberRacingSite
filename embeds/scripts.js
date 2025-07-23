@@ -5,7 +5,7 @@ $(function(){
 	$(headerbarmore).css("top", "100%")
 	$(headerbarmore).slideUp(0);
 	
-	var headerBar = $(header)
+	var headerBar = $(headertop)
 	headerBar.css("position", "fixed")
 	headerBar.css("top", "0px")
 	headerBar.css("height", "2.25rem")
