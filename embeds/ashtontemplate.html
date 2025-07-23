@@ -4,7 +4,7 @@
 	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/embed.js")
 		.then(response => response.text())
 		.then(data => ashtontemplate.innerHTML = data)
-	document.body.appendChild(ashtontemplate);
+	document.head.appendChild(ashtontemplate);
 
 	runAshtonTemplate(true)
 </script>
