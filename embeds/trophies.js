@@ -132,39 +132,41 @@ function updateTrophies() {
 }
 
 function updateTrophiesMenu() {
-	var videosList = document.getElementById("trophiesUnlocked").children[0].children[0]
+	if (window.shouldHideHeader) {
+		var videosList = document.getElementById("trophiesUnlocked").children[0].children[0]
 
-	videosList.children[0].children[0].children[0].children[0].src = landingVideos[0].thumbnail
-	videosList.children[0].children[1].children[0].innerHTML = landingVideos[0].name
-	videosList.children[0].onclick = function() {playVideo(0)}
+		videosList.children[0].children[0].children[0].children[0].src = landingVideos[0].thumbnail
+		videosList.children[0].children[1].children[0].innerHTML = landingVideos[0].name
+		videosList.children[0].onclick = function() {playVideo(0)}
 
-	for (let i = videosList.children.length; i > 1; i--) {
-		videosList.children[i-1].remove();
-	}
-
-	for (let i = 1; i < landingVideos.length; i++) {
-		if (landingVideos[i].visible) {
-			var newVideo = videosList.children[0].cloneNode(true);
-			videosList.appendChild(newVideo);
-
-			newVideo.children[0].children[0].children[0].src = landingVideos[i].thumbnail
-			newVideo.children[1].children[0].innerHTML = landingVideos[i].name
-
-			newVideo.onclick = function() {playVideo(i)}
+		for (let i = videosList.children.length; i > 1; i--) {
+			videosList.children[i-1].remove();
 		}
-	}
 
-	var trophiesList = $("#trophiesLocked")[0].children[0].children[0]
-	for (let i = trophiesList.children.length; i > 0; i--) {
-		trophiesList.children[i-1].remove();
-	}
+		for (let i = 1; i < landingVideos.length; i++) {
+			if (landingVideos[i].visible) {
+				var newVideo = videosList.children[0].cloneNode(true);
+				videosList.appendChild(newVideo);
 
-	for (let i = 0; i < trophies.length; i++) {
-		if (!trophies[i].unlocked) {
-			var newTrophy = videosList.children[0].cloneNode(true);
-			trophiesList.appendChild(newTrophy);
-			newTrophy.children[0].children[0].children[0].src = "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/lock.jpg"
-			newTrophy.children[1].children[0].innerHTML = trophies[i].name
+				newVideo.children[0].children[0].children[0].src = landingVideos[i].thumbnail
+				newVideo.children[1].children[0].innerHTML = landingVideos[i].name
+
+				newVideo.onclick = function() {playVideo(i)}
+			}
+		}
+
+		var trophiesList = $("#trophiesLocked")[0].children[0].children[0]
+		for (let i = trophiesList.children.length; i > 0; i--) {
+			trophiesList.children[i-1].remove();
+		}
+
+		for (let i = 0; i < trophies.length; i++) {
+			if (!trophies[i].unlocked) {
+				var newTrophy = videosList.children[0].cloneNode(true);
+				trophiesList.appendChild(newTrophy);
+				newTrophy.children[0].children[0].children[0].src = "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/lock.jpg"
+				newTrophy.children[1].children[0].innerHTML = trophies[i].name
+			}
 		}
 	}
 }
