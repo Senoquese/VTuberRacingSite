@@ -21,6 +21,12 @@ $(function(){
 		.then(data => gitstyle.innerHTML = data)
 	document.head.appendChild(gitstyle);
 
+	const gitstyleoverlay = document.createElement('gitstyle');
+	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/overlaystyles.html")
+		.then(response => response.text())
+		.then(data => gitstyleoverlay.innerHTML = data)
+	document.head.appendChild(gitstyleoverlay);
+
 	const gitscripts = document.createElement('script');
 	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/scripts.js")
 		.then(response => response.text())
