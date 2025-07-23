@@ -8,7 +8,7 @@ $(function(){
 	document.body.classList.add("vtuberbg")
 
 	var headerBar = $(headertop)
-	if (document.getElementById("home-section").classList.contains("active")) {
+	if (window.shouldHideHeader) {
 		headerBar.slideUp(500);
 	}
 		
