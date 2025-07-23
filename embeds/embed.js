@@ -3,18 +3,18 @@ $(function(){
 		.then(response => response.text())
 		.then(data => $(header)[0].innerHTML = data)
 
-	const overlays = document.createElement('section');
-	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/overlays.html")
-		.then(response => response.text())
-		.then(data => overlays.innerHTML = data)
-	document.body.appendChild(overlays);
-
 	var headerBar = $(header)
 	headerBar.css("position", "fixed")
 	headerBar.css("top", "0px")
 	headerBar.css("height", "2.25rem")
 	headerBar.css("width", "100%")
 	headerBar.css("z-index", "100")
+
+	const overlays = document.createElement('section');
+	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/overlays.html")
+		.then(response => response.text())
+		.then(data => overlays.innerHTML = data)
+	document.body.appendChild(overlays);
 
 	const gitstyle = document.createElement('gitstyle');
 	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/styles.html")
