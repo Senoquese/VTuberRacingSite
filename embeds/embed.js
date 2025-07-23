@@ -16,7 +16,7 @@ $(function(){
 		.then(data => overlays.innerHTML = data)
 
 	const gitstyle = document.createElement('gitstyle');
-	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/styles.html")
+	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/headerstyles.html")
 		.then(response => response.text())
 		.then(data => gitstyle.innerHTML = data)
 	document.head.appendChild(gitstyle);
