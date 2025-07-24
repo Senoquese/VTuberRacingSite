@@ -171,14 +171,16 @@ function updateTrophiesMenu() {
 	}
 }
 
-$("#trophyNotificationImage img")[0].src = "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/AshtonSpinFast.gif"
-$("#trophyNotification").hide();
-$("#trophyNotification").css('opacity','0');
-$("#trophyNotification").css('pointer-events','none');
-$("#trophyNotification").css('position','fixed');
-$("#trophyNotification").css('inset','0px');
-$("#trophyNotification").css('z-index','199');
-$("#main")[0].appendChild($("#trophyNotification")[0]);
+$(function() {
+	$("#trophyNotificationImage img")[0].src = "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/AshtonSpinFast.gif"
+	$("#trophyNotification").hide();
+	$("#trophyNotification").css('opacity','0');
+	$("#trophyNotification").css('pointer-events','none');
+	$("#trophyNotification").css('position','fixed');
+	$("#trophyNotification").css('inset','0px');
+	$("#trophyNotification").css('z-index','199');
+	$("#main")[0].appendChild($("#trophyNotification")[0]);
+}
 
 var timeTrophy;
 function showTrophyNotif(name) {
