@@ -180,7 +180,7 @@ $(function() {
 	$("#trophyNotification").css('inset','0px');
 	$("#trophyNotification").css('z-index','199');
 	$("#main")[0].appendChild($("#trophyNotification")[0]);
-}
+})
 
 var timeTrophy;
 function showTrophyNotif(name) {
