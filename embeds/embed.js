@@ -15,19 +15,19 @@ fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/m
 	.then(data => overlays.innerHTML = data)
 $(main)[0].appendChild(overlays);
 
-$(function(){
-	const gitstyle = document.createElement('gitstyle');
-	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/headerstyles.html")
-		.then(response => response.text())
-		.then(data => gitstyle.innerHTML = data)
-	document.head.appendChild(gitstyle);
+const gitstyle = document.createElement('gitstyle');
+fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/headerstyles.html")
+	.then(response => response.text())
+	.then(data => gitstyle.innerHTML = data)
+document.head.appendChild(gitstyle);
 
-	const gitstyleoverlay = document.createElement('gitstyle');
-	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/overlaystyles.html")
-		.then(response => response.text())
-		.then(data => gitstyleoverlay.innerHTML = data)
+const gitstyleoverlay = document.createElement('gitstyle');
+fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/overlaystyles.html")
+	.then(response => response.text())
+	.then(data => gitstyleoverlay.innerHTML = data)
 	document.head.appendChild(gitstyleoverlay);
 
+$(function(){
 	const gitscripts = document.createElement('script');
 	fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/scripts.js")
 		.then(response => response.text())
