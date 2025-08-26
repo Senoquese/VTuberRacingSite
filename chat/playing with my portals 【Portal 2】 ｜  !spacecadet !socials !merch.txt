@@ -1,0 +1,1525 @@
+[0:00:15] demon_dandy: Were back ashton51Baby ashton51Baby
+[0:00:19] katsuragi_kakeruvt: hi ashi :3
+[0:00:34] metaconstruct: ashton51Woo ashton51Woo ashton51Woo
+[0:00:49] DatBoiVLC: ashton51Dumpy
+[0:00:51] demon_dandy: hiii hiii hiii
+[0:00:52] mrp0p1nfr3sh: ashton51Bongo ashton51Bongo ashton51Bongo ashton51Bongo ashton51Bongo ashton51Bongo ashton51Bongo ashton51Bongo ashton51Bongo ashton51Bongo ashton51Bongo ashton51Bongo ashton51Bongo ashton51Bongo ashton51Bongo ashton51Bongo
+[0:00:59] metaconstruct: ya do it as admin
+[0:01:03] metaconstruct: why notte
+[0:01:08] Senoquese: cant hurt
+[0:01:17] demon_dandy: PLEASE PLEASE PLEASE PLEASE PLEASE ashton51Wibble
+[0:01:20] metaconstruct: holy fuck
+[0:01:25] rikkaonline: :(
+[0:01:26] JTBun: ashton51Cry
+[0:01:38] Paperguide: pzin
+[0:01:40] Navy_Mongoose: what the fuuuuuuuck
+[0:01:41] Paperguide: pain*
+[0:01:42] JTBun: did like the save corrupt and fuck over the whole game or some shit
+[0:01:50] ApocalypseSC: did you try the compatibility setting?
+[0:01:51] metaconstruct: reinstall ;;
+[0:01:53] Senoquese: saves dont load til the main menu fully loads
+[0:02:03] Senoquese: uhhhh i have some ideas
+[0:02:04] metaconstruct: oh you already did???
+[0:02:04] JaAmfan: it has a chapter select so its not so big a deal
+[0:02:08] DatBoiVLC: when it switches from the fmv intro to the actual rendering engine for the game it crashes so more likely than not some configs somewhere is messed up
+[0:02:20] rikkaonline: you dont still have the second keyboard plugged in or anything like that?
+[0:02:22] JTBun: I was having this same problem. I was able to get it to work by going into Steam\Steamapps\Common\Portal2 & locating the portal2.exe (application) file. Right click & select properties. Go to the "Compatibility" tab & uncheck "Run this program in compatibility mode". Once I did that, it now works fine. Good luck!
+[0:02:23] Senoquese: @DatBoiVLC thats why i wanted her to delete the cfgs
+[0:02:31] JaAmfan: you can try and delete the local save folder in document
+[0:02:31] JTBun: this was what nier put in gaming
+[0:02:33] Senoquese: @JTBun ^^^^
+[0:02:34] JaAmfan: documetns
+[0:02:35] Senoquese: cant hurt trying this
+[0:02:41] Dragoon790: Usually a full restart will fix most problems. If a reinstall and restart don't fix it, and you're not pushing your performance to the limit, I don't think there's much else you can do. rikkuShrug
+[0:02:44] InsaneLoke: imagine
+[0:02:45] DatBoiVLC: aww HELL naw
+[0:02:47] demon_dandy: Please not the keyboard...
+[0:02:50] Navy_Mongoose: oh lmao that would be funny but I doubt it
+[0:02:57] DingusMcBaseball: do both of these them try it, why not
+[0:02:58] metaconstruct: it could actaully be rhe keyboard
+[0:03:05] metaconstruct: i would not be suprised
+[0:03:06] rikkaonline: i know you had other weird usb issues
+[0:03:15] horribleham: welcome back Ashton!
+[0:03:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[0:03:19] metaconstruct: thats why i asked abt controller
+[0:03:20] Senoquese: okay yeah fuck it could be that
+[0:03:20] demon_dandy: Also you disappeared ashton51Wah
+[0:03:27] JTBun: compatibility can be finicky at times
+[0:03:30] DatBoiVLC: she ran away rainyrenShy
+[0:03:40] Senoquese: i can totally imagine source crashing cuz it cant recognize which keyboard to track ashton51Despair
+[0:03:41] Dragoon790: USB extenders/hubs can cause issues as well. Found that out the hard way myself.
+[0:03:46] StreamElements: Feel the softness of the cuddliest animal on Earth! Get your Ashton Marten dakimakura today and bury yourself in the softest... fur of any VTuber! https://cuddlyoctopus.com/product/ashton-marten/
+[0:03:51] Navy_Mongoose: yeah I hate that. I have to put my mic on a different hub from my everything else because it likes to fuck with other usb devices
+[0:03:51] metaconstruct: gaben diss track eta
+[0:04:04] JTBun: yeah nier put that in gaming
+[0:04:08] Senoquese: #gaming
+[0:04:09] tobeesko: hurray she's back tobeesKoempty
+[0:04:18] Dragoon790: They can work fine on console most of the time.
+[0:04:39] InsaneLoke: if its the keyboard this would truly be a source moment and make a lot of sense
+[0:04:49] DatBoiVLC: I thought it was supposed to be unchecked according to the copy pasta
+[0:05:03] demon_dandy: ???
+[0:05:09] Senoquese: i have an idea
+[0:05:15] Returner7: give it like a minute or two?
+[0:05:16] Senoquese: on launch parameters try adding "-novid -vulkan"
+[0:05:26] Senoquese: it will skip all the valve videos
+[0:05:45] demon_dandy: This is a load of barnaclessss ninoegCRINGE
+[0:05:45] DatBoiVLC: doesn't that also set it to Vulkan rendering?
+[0:05:49] Senoquese: could help
+[0:05:51] Senoquese: cant hurt
+[0:06:05] rikkaonline: gotta make sure directx9 is up to date lol
+[0:06:12] Returner7: it could be hanging up just a little bit on a startup process
+[0:06:23] Returner7: the game
+[0:06:27] JaAmfan: definitely the game
+[0:06:28] Dragoon790: @Senoquese That reminds me of a bug on the first Bloodrayne game. If you watched a specific cutscene to the end, it tended to crash the game. If you skipped the cutscene, it would play fine.
+[0:06:30] DatBoiVLC: let me install portal to and try to break it LMAO
+[0:06:34] TheAsterite: this is just normal source engine shenanigans
+[0:06:37] Mastermind_Marx: conquer
+[0:06:39] horribleham: who was chewing the wires?
+[0:06:54] Returner7: ashton51Pathetic ashton51Pathetic ashton51Pathetic
+[0:06:58] rikkaonline: lol
+[0:06:58] DatBoiVLC: brute Force troubleshooting
+[0:07:06] T33bags: ok ashton boot up fortnite
+[0:07:14] Nintendorable: LMAOOOO
+[0:07:17] Senoquese: ashton51Tehe
+[0:07:19] TheAsterite: call up valve help desk tomorrow to troublshoot
+[0:07:20] metaconstruct: did you change keeb tho
+[0:08:01] Dragoon790: Yeah. It does that to me as well.
+[0:08:02] Navy_Mongoose: yeah
+[0:08:03] JaAmfan: do you use clipboard history
+[0:08:04] JaAmfan: ?
+[0:08:06] InsaneLoke: yes
+[0:08:10] JaAmfan: windows+V
+[0:08:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[0:08:23] Senoquese: yep looks all fine
+[0:08:33] Dragoon790: I've made that mistake and lost a message I was going to post in a Twitch chat.
+[0:08:49] Senoquese: OH
+[0:08:52] JTBun: that did it
+[0:08:53] demon_dandy: I HEAR IT
+[0:08:57] Paperguide: no fuckin way
+[0:09:02] killinglev: 10 raiders from killinglev have joined! 
+[0:09:04] metaconstruct: what in the duck
+[0:09:04] InsaneLoke: lets go
+[0:09:06] IAmNepNep: DUMB DOG RAID ૮( ˃ ꒳ ˂)ა ◟/づ🦴 DUMB DOG RAID ૮( ˃ ꒳ ˂)ა ◟/づ🦴
+[0:09:09] Paperguide: LFG
+[0:09:17] killinglev: DUMB DOG RAID ૮( ˃ ꒳ ˂)ა ◟/づ🦴 DUMB DOG RAID ૮( ˃ ꒳ ˂)ა ◟/づ🦴 DUMB DOG RAID ૮( ˃ ꒳ ˂)ა ◟/づ🦴 DUMB DOG RAID ૮( ˃ ꒳ ˂)ა ◟/づ🦴 DUMB DOG RAID ૮( ˃ ꒳ ˂)ა ◟/づ🦴 DUMB DOG RAID ૮( ˃ ꒳ ˂)ა ◟/づ🦴
+[0:09:18] Senoquese: -vulkan makes it a different exe so its a different obs source
+[0:09:18] demon_dandy: Hi hi raiders ashton51Wave ashton51Wave
+[0:09:25] Returner7: ashton51Steer ashton51Steer WELCOME RAIDERS!!! COME TAKE THE WHEEL!!! ashton51Steer ashton51Steer
+[0:09:30] metaconstruct: so wack
+[0:09:33] Dragoon790: So it's working now the OBS isn't capturing it?
+[0:09:38] DatBoiVLC: yeah seno killed two birds with one stone with that command combo
+[0:09:38] Dragoon790: *that
+[0:09:43] IAmNepNep: i am still alive work has been ending me ;-;
+[0:09:50] demon_dandy: That bald guy turning was way too intense to run ashton51Wibble
+[0:09:53] killinglev: capture always freaks on me i hate it
+[0:10:00] metaconstruct: Woooo
+[0:10:01] JaAmfan: there it is
+[0:10:02] metaconstruct: ashton51Woo ashton51Woo ashton51Woo
+[0:10:06] Senoquese: yeah vulkan is a different exe so obs wont recognize it at first
+[0:10:30] demon_dandy: were backkkk ashton51Wah
+[0:10:30] metaconstruct: fuck a direct x
+[0:10:34] JaAmfan: make sure to bill chat at a rate of $159/hr for tech support
+[0:10:35] InsaneLoke: yaaaaay
+[0:10:55] Senoquese: is it because of opening as admin?
+[0:10:58] metaconstruct: oh god
+[0:11:06] InsaneLoke: you have a 2060 right? the 20 series famously has issues with direct X
+[0:11:06] demon_dandy: A new problem ashton51Wah
+[0:11:24] katsuragi_kakeruvt: uhhhh
+[0:11:29] Senoquese: try removing the "run as admin" compatibility in the exe
+[0:11:29] InsaneLoke: idk
+[0:11:35] demon_dandy: And on a 10 year old game no less ashton51Tehe
+[0:11:40] Dragoon790: Probably because some tech person changed something.
+[0:11:42] DatBoiVLC: This is actually metagame, Portal 2 doesn't want you to beat it so quickly so it's corrupting itself so you can't win
+[0:11:45] InsaneLoke: it took 3 years with a 2080 for me to have direct x issues
+[0:11:53] JaAmfan: this is the portal 2 ARG
+[0:12:06] IAmNepNep: i will try to be back in streams more ;-; sorry for being MIA for so long
+[0:12:19] ReyJaggy: ashton51Cheer
+[0:12:22] Senoquese: did you set the exe to be admin when you set it to run as windows 8?
+[0:12:30] Navy_Mongoose: glados doesn't want you learn about the romantic robo-sexual plot point that's in the next chapter, they made a musical about it
+[0:12:45] Senoquese: weirdge.....
+[0:12:50] metaconstruct: all facets of this are so fucked wth
+[0:13:08] demon_dandy: sisyphus wept ashton51Despair
+[0:13:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[0:13:27] Senoquese: change the launch parameters to be "-window -noborder -novid -vulkan"
+[0:13:29] the_ol_regular: !lurk
+[0:13:29] StreamElements: the_ol_regular is a sneaky squeaky lurky lil mouse!
+[0:13:46] demon_dandy: sisyphus
+[0:13:48] DatBoiVLC: dignity? where we're going we don't need dignity.
+[0:14:07] demon_dandy: ashton51Wah
+[0:14:10] InsaneLoke: lmao
+[0:14:25] DatBoiVLC: I seem to have missed a lot last stream ashton51Blush
+[0:14:30] demon_dandy: OKAY
+[0:14:32] Dragoon790: @DatBoiVLC I read that in the voice of Doc Brown. rikkuLOL
+[0:14:37] metaconstruct: OK OK
+[0:14:39] rikkaonline: woo
+[0:14:39] Senoquese: ashton51Tehe
+[0:14:41] JTBun: ashton51Happi
+[0:14:41] demon_dandy: WERE BACKKKK
+[0:14:42] horribleham: LETS GOOOO
+[0:14:44] JaAmfan: gee wiz
+[0:14:44] ApocalypseSC: ashton51Spin ashton51Spin ashton51Spin
+[0:14:44] mrp0p1nfr3sh: WE ARE SO BACK
+[0:14:46] ApocalypseSC: ashton51Woo ashton51Woo ashton51Woo
+[0:14:52] Navy_Mongoose: ashton51Squisher ashton51Squisher ashton51Squisher ashton51Squisher ashton51Squisher ashton51Squisher
+[0:14:54] Returner7: don't forget to turn off your bgm! ashton51Baby
+[0:14:56] Senoquese: oh yeah your graphics are probably all at low now LOL
+[0:14:59] demon_dandy: bgm is on ashton51Baby
+[0:14:59] metaconstruct: what a clusterfuck
+[0:14:59] InsaneLoke: thats our genius!!!
+[0:15:00] JTBun: bgm
+[0:15:05] DatBoiVLC: I was touching grass im sorry it won't happen again ashton51Kneel
+[0:15:06] DingusMcBaseball: oh my god did it actually work
+[0:15:20] JaAmfan: moment of truth
+[0:15:22] Senoquese: whys it all blurry..
+[0:15:38] JaAmfan: yeah its great
+[0:15:49] DatBoiVLC: @senoquese Vulkan lmao
+[0:15:50] Senoquese: okay yeah maybe that texture in specific is just ugly LMAOOO
+[0:15:52] niertlwal: vulkan
+[0:15:55] DingusMcBaseball: lets not mess with it right away, it's working
+[0:15:56] demon_dandy: NO STORY SPOILERS/NO PUZZLE BACKSEATING (ASHTONS FIRST PLAYTHROUGH)
+[0:16:09] Senoquese: would vulkan fuck with the texture resolution tho?
+[0:16:10] Mastermind_Marx: conquer all puzzles
+[0:16:15] DatBoiVLC: every copy of portal 2 is personalized
+[0:16:20] DatBoiVLC: ashton51Baby
+[0:16:41] JaAmfan: what was the genesis of all the game issues?
+[0:17:02] JaAmfan: like did you get to play earlier or was it borked all stream?
+[0:17:03] Senoquese: it was either the opening videos or vulkan
+[0:17:08] Senoquese: @JaAmfan all stream
+[0:17:09] rikkaonline: yeah
+[0:17:10] DatBoiVLC: Vulkan is a completely different rendering engine from DirectX so some instruction sets that are used for lighting or rendering just don't exist anymore
+[0:17:11] JaAmfan: DMAN
+[0:17:11] Senoquese: she only got to play it yesterday
+[0:17:24] JaAmfan: discord cloud save thats my story and I'm sticking to it
+[0:17:27] Senoquese: @DatBoiVLC this should be a native port tho, source engine completely supports vulkan
+[0:17:28] JaAmfan: steam**8
+[0:17:40] Senoquese: so weirdge
+[0:17:44] demon_dandy: ashton51Tensai ashton51Tensai
+[0:17:54] DatBoiVLC: @senoquese and then they added HD updates at some point right?  idk man, you did get it running ashton51Happi
+[0:18:05] Senoquese: yes LOL
+[0:18:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[0:18:48] DatBoiVLC: the blue goo looks tasty ashton51Durr
+[0:18:49] demon_dandy: blue goo  is so fun ashton51Baby
+[0:19:12] DatBoiVLC: 2 types of pitcrew @demon_dandy ashton51Tehe
+[0:19:16] StreamElements: Get your scrungly Ashton Plushten before they're gone! https://studionekomata.com/collections/ashton-marten
+[0:19:16] Senoquese: LMAO
+[0:19:18] metaconstruct: now that i think harder about it, i feel like i had video problems when this shit came out Lol
+[0:19:45] Senoquese: @DatBoiVLC in the start of this chamber they say someone ate the blue gel and died LOL
+[0:20:00] DatBoiVLC: seno, they weren't me
+[0:20:04] DatBoiVLC: DIESOFCHILLA
+[0:20:06] InsaneLoke: trueeee
+[0:20:22] demon_dandy: Iirc it was a food additive ashton51Tensai
+[0:20:39] DatBoiVLC: you blue yourself smh
+[0:20:44] JaAmfan: Why are you BLUE
+[0:20:44] InsaneLoke: i love the half alpha pixels on the textures
+[0:20:45] demon_dandy: LOL
+[0:20:46] Navy_Mongoose: I love the music for this area
+[0:21:12] DatBoiVLC: !jump boing
+[0:21:20] demon_dandy: ashton51Happi ashton51Happi ashton51Happi
+[0:21:26] InsaneLoke: its like terraria music, what a good vibe
+[0:22:05] demon_dandy: Ohhh they must have made this portal impossible on accident ashton51Wah
+[0:22:05] DatBoiVLC: ashton51Thinker
+[0:22:11] demon_dandy: puzzle*
+[0:22:21] Dragoon790: Portal jumping is fun. rosedoSpin
+[0:22:51] justchiken: ashton51Smile
+[0:22:53] Senoquese: in one of the first levels in this chapter theres a hidden poster explaining that this gel was meant to be diet pudding and it bouncing stuff was by accident LOL
+[0:23:02] demon_dandy: We shootin blue ashton51Tensai
+[0:23:13] DatBoiVLC: shoot your blue my dude
+[0:23:14] InsaneLoke: yeeeeaah
+[0:23:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[0:23:18] demon_dandy: @senoquese yeah the picture has it on a spoon ashton51Tehe
+[0:23:27] katsuragi_kakeruvt: put your goo everywhere :3
+[0:23:34] InsaneLoke: shes a genius
+[0:23:36] demon_dandy: ashton51Pog ashton51Pog ashton51Pog
+[0:23:39] Senoquese: ashton51Pog
+[0:23:41] Dragoon790: yocciClap
+[0:23:53] DatBoiVLC: you do NOT need your frontal lobe dw
+[0:23:57] DatBoiVLC: ashton51Love
+[0:24:06] Senoquese: itll bump out your dent and make it normal again
+[0:24:15] DatBoiVLC: ashton51Dentge
+[0:24:19] demon_dandy: 🤯
+[0:24:23] rikkaonline: tiny postcard
+[0:24:28] demon_dandy: i love that line LOL
+[0:24:32] Senoquese: gsdhjkgsdjh
+[0:24:47] Senoquese: mmm milk gel
+[0:24:57] demon_dandy: wtf they stoppin my blue ashton51Despair
+[0:25:01] rikkaonline: what this is cutting edge realism
+[0:25:14] Senoquese: that water looks soo milky and gross
+[0:25:32] demon_dandy: Its like that thick water
+[0:25:40] Senoquese: @demon_dandy LOL EWWW
+[0:25:54] demon_dandy: ashton51Tehe
+[0:26:02] metaconstruct: giant purel faucet
+[0:26:12] Senoquese: ashton51First
+[0:26:18] InsaneLoke: om
+[0:26:20] JTBun: EZ
+[0:26:30] demon_dandy: BALLS
+[0:26:31] JTBun: BALLS
+[0:26:36] Senoquese: BALLS
+[0:27:12] metaconstruct: ashton51Woo ashton51Woo ashton51Woo
+[0:27:45] Senoquese: ashton51Tensai
+[0:28:00] demon_dandy: Need a lil my shproing mayhaps ashton51Tensai
+[0:28:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[0:28:44] demon_dandy: LOL
+[0:28:45] InsaneLoke: BALLS
+[0:29:23] Senoquese: looks goo-d to me
+[0:29:39] demon_dandy: ashton51Tensai ashton51Tensai
+[0:29:58] InsaneLoke: yer
+[0:30:07] demon_dandy: you didnt hit the goo properly ashton51Tehe
+[0:30:53] Senoquese: ashton51Tehe
+[0:31:09] demon_dandy: Soft locked ashton51Wibble
+[0:31:14] Senoquese: agsdkhjsgd
+[0:31:20] katsuragi_kakeruvt: she can get back up haha
+[0:31:28] demon_dandy: ashton51Tehe ashton51Tehe
+[0:31:31] Senoquese: ashton51Tensai
+[0:31:51] Senoquese: LOL
+[0:31:55] JTBun: hjkhjksdhjksdg
+[0:31:58] DingusMcBaseball: i like her moments of realization
+[0:32:01] demon_dandy: hueh ashton51Cry
+[0:32:05] katsuragi_kakeruvt: I can see how shes calculating the optimal goo(ning) angle
+[0:32:06] ReyJaggy: Da goop
+[0:32:09] metaconstruct: ashton51Pop goop
+[0:32:10] Senoquese: idk if the goop helps ashton51Wibble
+[0:32:16] ReyJaggy: HypePopcorn
+[0:32:22] ReyJaggy: Ear the goop
+[0:32:30] InsaneLoke: surfin
+[0:32:40] ReyJaggy: We csgoin
+[0:32:42] demon_dandy: Csgo surfin tech ashton51Tensai
+[0:32:50] InsaneLoke: i dont think so too LOL
+[0:32:52] katsuragi_kakeruvt: chinchilla finds only cage in the game
+[0:32:56] katsuragi_kakeruvt: cant make this up
+[0:33:15] InsaneLoke: despite all her rage, she is still just a chilla in a cage
+[0:33:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[0:33:29] Senoquese: 🍼 ashton51Baby chilla needs baby cage
+[0:33:41] InsaneLoke: where are you even supposed to go
+[0:33:46] StreamElements: Feel the softness of the cuddliest animal on Earth! Get your Ashton Marten dakimakura today and bury yourself in the softest... fur of any VTuber! https://cuddlyoctopus.com/product/ashton-marten/
+[0:33:56] Senoquese: @InsaneLoke go on deez
+[0:34:02] InsaneLoke: wow
+[0:34:06] Senoquese: sorry
+[0:34:14] InsaneLoke: lmao
+[0:34:20] niertlwal: this puzzle is fun
+[0:34:21] katsuragi_kakeruvt: I think its really funny when you go "am I really supposed to do that" and its just the solution
+[0:34:39] InsaneLoke: can you even use to goo
+[0:34:42] InsaneLoke: the
+[0:34:42] Navy_Mongoose: yeah this area confused the fuck out of me several times
+[0:34:44] ReyJaggy: She is literally gamin
+[0:34:47] rikkaonline: yes
+[0:34:47] Senoquese: yes
+[0:34:48] katsuragi_kakeruvt: yes
+[0:34:55] demon_dandy: you have everythin at your disposal ashton51Tensai
+[0:34:58] Navy_Mongoose: yes, but good luck piecing it all together
+[0:35:07] ReyJaggy: "Accidents hurt"
+[0:35:20] Navy_Mongoose: I remember this area being particularly tricky
+[0:35:25] katsuragi_kakeruvt: you're currently trying to solve a puzzle with half the puzzle missing, you just need to find the missing pieces :3
+[0:35:43] metaconstruct: ^^^^
+[0:35:50] Navy_Mongoose: portal, as an IP, peaked in the abandoned facility levels
+[0:35:58] rikkaonline: you have all the portal surfaces
+[0:35:59] demon_dandy: No its all here
+[0:36:04] InsaneLoke: lmao
+[0:36:07] demon_dandy: ashton51Tehe
+[0:36:08] JTBun: lmao
+[0:36:14] Senoquese: yeahh ashton51Tehe
+[0:36:15] ReyJaggy: You did "see" it
+[0:36:16] katsuragi_kakeruvt: now to find the optimal gooning angle
+[0:36:23] Navy_Mongoose: boioioioioing
+[0:36:24] TheAsterite: she's beginning to believe
+[0:36:37] TheAsterite: jetsNerd
+[0:36:49] Senoquese: the trick isnt finding the secret spot but the secret within the obvious spots
+[0:37:12] demon_dandy: I was scared you were gonna make too much progress for a part 3 but maybe were good
+[0:37:18] Senoquese: @demon_dandy LMAO......
+[0:37:25] katsuragi_kakeruvt: gamers trying to look up challenge impossible....
+[0:37:34] InsaneLoke: lol
+[0:37:36] rikkaonline: lol
+[0:37:51] JTBun: djhgjkdfhdkfj
+[0:37:57] demon_dandy: ashton51Tensai
+[0:37:58] Senoquese: ashton51Tehe
+[0:38:04] Sgt_Gunso: I love the voice acting in this game
+[0:38:08] Senoquese: BOUNCY CUBE
+[0:38:13] KelnixHK: CaitlynS
+[0:38:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[0:38:17] katsuragi_kakeruvt: its a new pokemone
+[0:38:22] Senoquese: thats what we do at the paddock when ashtons gone
+[0:38:25] InsaneLoke: dont get hit in the back of the head
+[0:38:33] demon_dandy: Thats what blue goo do to your skeleton ashton51Wibble
+[0:39:13] katsuragi_kakeruvt: ok fellas, would you eat the gel, yah or nah
+[0:39:18] metaconstruct: yumblie
+[0:39:19] Senoquese: hmmmm
+[0:39:54] demon_dandy: ashton51Tensai
+[0:40:18] Senoquese: let it free to roam the wilds
+[0:40:22] ReyJaggy: Be free cube
+[0:40:25] demon_dandy: blue cube trueee ashton51Tensai
+[0:40:34] niertlwal: lmao
+[0:40:34] demon_dandy: RIDING
+[0:40:44] T33bags: RIDING
+[0:40:49] ReyJaggy: RIDING
+[0:40:53] Senoquese: RIDING
+[0:41:03] InsaneLoke: oh boy here come the renaissance men
+[0:41:08] Senoquese: LMAO
+[0:41:11] Navy_Mongoose: ewww you covered it in blue goop
+[0:41:18] ReyJaggy: Perhaps
+[0:41:28] InsaneLoke: yes
+[0:41:37] JTBun: RIDING
+[0:41:37] brogod45438n: Hello
+[0:41:37] Senoquese: im goooping ahhh im gooping
+[0:41:45] Senoquese: GAMER
+[0:41:48] demon_dandy: ashton51Pog
+[0:41:52] katsuragi_kakeruvt: WOW SHE LOOKED UP YIPPEE
+[0:41:53] ReyJaggy: She is thinking in goop now
+[0:41:53] St4ticHamm3rL1fe: ashton51Squish ashton51Squish ashton51Squish ashton51Squish
+[0:42:06] Senoquese: what happened to the chillas you tested on
+[0:42:11] katsuragi_kakeruvt: you literally had it solved but just didnt look up haha
+[0:42:20] ReyJaggy: Nevada?
+[0:42:21] rikkaonline: underground
+[0:42:24] Not_Falco_: a salt mine in Michigan iirc
+[0:42:24] InsaneLoke: michigan
+[0:42:25] Navy_Mongoose: right next door to Black Mesa
+[0:42:26] demon_dandy: Earth i believe
+[0:42:27] Senoquese: michigan
+[0:42:47] Navy_Mongoose: Area 51?
+[0:42:49] Paperguide: Munising, Michigan
+[0:43:05] Navy_Mongoose: door's broke
+[0:43:08] demon_dandy: hiii byee carolineee
+[0:43:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[0:43:25] Senoquese: i was just waiting for you to say that
+[0:43:26] JTBun: nope...
+[0:43:33] demon_dandy: WTF ashton51Despair
+[0:43:34] InsaneLoke: i always find it hilarious when you ask us a question than dont look at the answers LMAOOO
+[0:43:35] Navy_Mongoose: oh yeah I've played plenty of public betas
+[0:43:47] Senoquese: @InsaneLoke ashton51Tehe
+[0:44:18] demon_dandy: Its better that way in case people give too helpful a hint ashton51Tehe
+[0:44:22] metaconstruct: protal
+[0:44:35] Senoquese: where aperture is located
+[0:44:47] DatBoiVLC: Classic
+[0:44:48] InsaneLoke: silly trivia
+[0:45:00] Senoquese: missingan
+[0:45:03] Paperguide: yes
+[0:45:05] Paperguide: Munising, Michigan
+[0:45:07] metaconstruct: municigan
+[0:45:11] InsaneLoke: its probably how they get power
+[0:45:16] Senoquese: watch this ashton51Dumpy
+[0:45:18] Navy_Mongoose: Municipal Michellin
+[0:45:27] InsaneLoke: either that or some valve writer thought it would be funny
+[0:45:39] Niamocha: 586 raiders from Niamocha have joined! 
+[0:45:39] midwestearner: YOU ARE BEARY PAWESOME niamocHellos YOU ARE BEARY PAWESOME niamocHellos YOU ARE BEARY PAWESOME niamocHellos YOU ARE BEARY PAWESOME niamocHellos
+[0:45:41] TaHexorSeDon: YOU ARE BEARY PAWESOME niamocHellos YOU ARE BEARY PAWESOME niamocHellos YOU ARE BEARY PAWESOME niamocHellos YOU ARE BEARY PAWESOME niamocHellos
+[0:45:43] Tosmasko: YOU ARE BEARY PAWESOME niamocHellos YOU ARE BEARY PAWESOME niamocHellos YOU ARE BEARY PAWESOME niamocHellos YOU ARE BEARY PAWESOME niamocHellos
+[0:45:44] Senoquese: HI RAIDERS ashton51Wave ashton51Wave ashton51Wave ashton51Wave ashton51Wave ashton51Wave
+[0:45:47] Navy_Mongoose: LET THE GOOP FLOW....
+[0:45:50] demon_dandy: Hihi raiderssss ashton51Wave ashton51Wave ashton51Wave
+[0:45:51] tacoimp: YOU ARE BEARY PAWESOME niamocHellos YOU ARE BEARY PAWESOME niamocHellos YOU ARE BEARY PAWESOME niamocHellos YOU ARE BEARY PAWESOME niamocHellos
+[0:45:53] ReyJaggy: ashton51Happi ashton51Happi ashton51Happi ashton51Happi ashton51Happi ashton51Happi ashton51Happi
+[0:45:53] CowboyFoxx: YOU ARE BEARY PAWESOME  niamocHellos   YOU ARE BEARY PAWESOME  niamocHellos   YOU ARE BEARY PAWESOME  niamocHellos   YOU ARE BEARY PAWESOME  niamocHellos
+[0:45:59] metaconstruct: ashton51Woo ashton51Woo ashton51Woo ashton51Woo ashton51Woo
+[0:46:00] nezumili_: YOU ARE BEARY PAWESOME niamocHellos YOU ARE BEARY PAWESOME niamocHellos YOU ARE BEARY PAWESOME niamocHellos YOU ARE BEARY PAWESOME niamocHellos
+[0:46:00] ReyJaggy: WELCOME RAIDERS
+[0:46:03] ReyJaggy: ashton51Dance ashton51Dance ashton51Dance ashton51Dance ashton51Dance ashton51Dance ashton51Dance
+[0:46:09] metaconstruct: ashton51Wave ashton51Wave ashton51Wave ashton51Wave ashton51Wave ashton51Wave ashton51Wave
+[0:46:09] Returner7: ashton51Steer ashton51Steer WELCOME RAIDERS!!! COME TAKE THE WHEEL!!! ashton51Steer ashton51Steer
+[0:46:10] teddyreckless: YOU ARE BEARY PAWESOME niamocHellos YOU ARE BEARY PAWESOME niamocHellos YOU ARE BEARY PAWESOME niamocHellos YOU ARE BEARY PAWESOME niamocHellos
+[0:46:37] Niamocha: <3
+[0:46:38] Senoquese: ashton51Happi ashton51Happi ashton51Happi ashton51Happi
+[0:46:39] demon_dandy: NO STORY SPOILERS/NO PUZZLE BACKSEATING (ASHTONS FIRST PLAYTHROUGH)
+[0:46:48] Senoquese: venom denim mizzle rizzle
+[0:46:48] Niamocha: I must rest ; w ;/ gotta wake up early for FFXIV raid
+[0:46:53] Niamocha: went well <3
+[0:46:58] kamiira_vt: 13 raiders from kamiira_vt have joined! 
+[0:46:59] galax0man: kamiirFrogheartshower  kamiirFrogheartshower    kamiirFrogwiggle    kamiirFrogwiggle   froggy raid!!!  kamiirFrogwiggle    kamiirFrogwiggle   kamiira's frog pond is here!!  kamiirFrogwiggle    kamiirFrogwiggle    kamiirFrogheartshower    kamiirFrogheartshower
+[0:47:00] enlyus: kamiirFrogheartshower kamiirFrogheartshower kamiirFrogwiggle kamiirFrogwiggle froggy raid!!! kamiirFrogwiggle kamiirFrogwiggle kamiira’s frog pond is here!! kamiirFrogwiggle kamiirFrogwiggle kamiirFrogheartshower kamiirFrogheartshower
+[0:47:01] lazy_dino11: kamiirFrogheartshower kamiirFrogheartshower kamiirFrogwiggle kamiirFrogwiggle froggy raid!!! kamiirFrogwiggle kamiirFrogwiggle kamiira’s frog pond is here!! kamiirFrogwiggle kamiirFrogwiggle kamiirFrogheartshower kamiirFrogheartshower
+[0:47:02] DrGruesome: kamiirFrogheartshower kamiirFrogheartshower kamiirFrogwiggle kamiirFrogwiggle froggy raid!!! kamiirFrogwiggle kamiirFrogwiggle kamiira's frog pond is here!! kamiirFrogwiggle kamiirFrogwiggle kamiirFrogheartshower kamiirFrogheartshower
+[0:47:05] Senoquese: HI RAIDERS ashton51Wave ashton51Wave ashton51Wave ashton51Wave ashton51Wave ashton51Wave
+[0:47:07] Navy_Mongoose: have a good shleep
+[0:47:16] metaconstruct: ashton51Wave ashton51Wave ashton51Wave ashton51Wave ashton51Wave
+[0:47:17] Returner7: woah double raid!!!
+[0:47:17] DrGruesome: ashton51Bum ashton51Bum ashton51Bum ashton51Bum
+[0:47:20] Deathmask666GER: kamiirFrogheartshower kamiirFrogheartshower kamiirFrogwiggle kamiirFrogwiggle froggy raid!!! kamiirFrogwiggle kamiirFrogwiggle kamiira's frog pond is here!! kamiirFrogwiggle kamiirFrogwiggle kamiirFrogheartshower kamiirFrogheartshower
+[0:47:27] InsaneLoke: ahhh
+[0:47:29] kamiira_vt: hellooo! !wave
+[0:47:39] Returner7: ashton51Steer ashton51Steer WELCOME RAIDERS!!! COME TAKE THE WHEEL!!! ashton51Steer ashton51Steer
+[0:47:40] Navy_Mongoose: I see.... ashton51Heh
+[0:47:45] demon_dandy: ashton51Wave ashton51Wave ashton51Wave
+[0:47:50] JTBun: LMAO
+[0:47:50] Senoquese: LOL
+[0:47:56] Senoquese: thats like a million today
+[0:48:09] TheAsterite: bit of a downgrade from getting a limo every day
+[0:48:09] Senoquese: LMAOOO
+[0:48:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[0:48:28] Navy_Mongoose: wait, TF2 canonically takes place during 1972
+[0:48:37] demon_dandy: Oh theres a pretty important easter egg in this section so check every corner ashi ashton51Baby
+[0:48:40] InsaneLoke: no
+[0:48:45] InsaneLoke: tf2 is in its own
+[0:48:56] metaconstruct: ashton51Run ashton51Run
+[0:48:57] Navy_Mongoose: WAIT WHEN DOES DOTA2 TAKE PLACE
+[0:49:15] InsaneLoke: lmao
+[0:49:16] StreamElements: Get your scrungly Ashton Plushten before they're gone! https://studionekomata.com/collections/ashton-marten
+[0:49:17] demon_dandy: LOL
+[0:49:18] Kaelaron: Hiyas. <3
+[0:49:26] Senoquese: iirc valve games like tf2 are still considered games within the main valve universe
+[0:49:27] JTBun: this is a hero shooter moba tho
+[0:49:31] demon_dandy: Hero shooter, moba, all the same
+[0:49:31] JTBun: so it's different
+[0:49:35] Kaelaron: I find all my Vtubers through other Vtubers. :3
+[0:49:36] Navy_Mongoose: no, they paid the guy who made DotA to break free from the shackles of Blizzard
+[0:49:46] StreamElements: Up your streaming game with Elgato! From their 4K60 Pro Capture Card to their Stream Deck, I use their products every single stream! Check them out now using my link: https://elgato.sjv.io/AshtonMarten
+[0:49:54] demon_dandy: BALLS
+[0:49:55] katsuragi_kakeruvt: how does left for dead factor into this :3
+[0:49:58] katsuragi_kakeruvt: BALLS
+[0:50:00] Senoquese: in l4d some characters mention playing counter strike
+[0:50:02] sp8cequeen: YOOOO THE BEST GAME EVER
+[0:50:05] InsaneLoke: @Senoquese australium existing along side black mesa and aperture would be really funny
+[0:50:16] TheAsterite: ashton51Omegalul
+[0:50:20] DatBoiVLC: Classic x2
+[0:50:26] Navy_Mongoose: Yeah, L4D is 100% Valve
+[0:50:27] Senoquese: @InsaneLoke LMAO
+[0:50:48] demon_dandy: ashton51Tensai
+[0:51:05] InsaneLoke: LOL\
+[0:51:10] DingusMcBaseball: do we
+[0:51:11] Senoquese: game sux
+[0:51:20] InsaneLoke: turn it off 0/10
+[0:51:22] Senoquese: best game ever doesnt even have collision ashton51Dentge
+[0:51:24] demon_dandy: ashton51Despair
+[0:51:25] Navy_Mongoose: really? Portal 1 was so great it spawned this sequel
+[0:51:28] sp8cequeen: this game, it is one of my favourites of all time. one of my first pc games that i was allowed to buy as a kid
+[0:51:29] Senoquese: ( jk )
+[0:51:47] DingusMcBaseball: that room has something cool ash
+[0:51:51] InsaneLoke: did someone say, the door to darkness?
+[0:51:54] JTBun: more like kingdom farts...
+[0:51:56] demon_dandy: Portal 1 makes this better ashton51Tehe
+[0:52:11] Navy_Mongoose: Portal 1 was a very experimental tech demo that everybody loved so Valve went ahead and made a huge game with it
+[0:52:19] horribleham: Game only looks bad standing next to portal 2. for it's time portal 1 was extremely mindblowing
+[0:52:28] JTBun: GLADOS
+[0:52:34] Senoquese: YOOOOO
+[0:52:37] Senoquese: 🥔
+[0:52:41] metaconstruct: LOOL
+[0:52:42] InsaneLoke: tato
+[0:52:44] Navy_Mongoose: potato wife ashton51Love
+[0:52:47] demon_dandy: ashton51Love
+[0:53:09] Senoquese: ashton51Tehe
+[0:53:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[0:53:22] InsaneLoke: SD GLaDOS
+[0:53:23] Navy_Mongoose: OH HEY, WHAT'S EVERYONE'S FAVORITE WAY TO EAT POTATO
+[0:53:27] JTBun: see this is why you needed to see the gun
+[0:53:38] Senoquese: yeah gsdhjgshj
+[0:53:38] DatBoiVLC: she potato on my gun til I GLADoS
+[0:53:41] horribleham: Lol this is why we wanted you to fix
+[0:53:49] DingusMcBaseball: the room upstairs has something interesting btw
+[0:54:03] Senoquese: this too is yuri
+[0:54:04] InsaneLoke: many such cases
+[0:54:15] demon_dandy: Check every corner ashton51Baby
+[0:54:27] Senoquese: hes based on kitkat
+[0:54:29] InsaneLoke: steven valve
+[0:54:33] DatBoiVLC: TRUE
+[0:54:33] rikkaonline: you read the sign pointing to this room then kept walking lol
+[0:54:51] demon_dandy: Damn thats what kitkats gonna look like later? Flirt
+[0:54:58] Senoquese: @demon_dandy VILE
+[0:55:02] demon_dandy: LMAOOO
+[0:55:09] InsaneLoke: they must have used the wrong version when blocking the environment
+[0:55:30] metaconstruct: HAHAH
+[0:55:43] demon_dandy: my peanut water went sour ashton51Despair
+[0:55:53] Senoquese: agkhjsdhgjkshjgsd
+[0:56:01] InsaneLoke: LOL
+[0:56:08] InsaneLoke: AAAAAAAAAAAAH
+[0:56:09] niertlwal: THIS IS LORE
+[0:56:11] Senoquese: ashton51Pog
+[0:56:13] Navy_Mongoose: gonna fry ourselves... FOR SCIENCE!!!
+[0:56:15] demon_dandy: ashton51Nightmare
+[0:56:15] metaconstruct: LORE LOEE LORE
+[0:56:19] metaconstruct: OOOO
+[0:56:19] InsaneLoke: LOOOOOOOORE
+[0:56:22] Paperguide: LOOOOOOOOOORE
+[0:56:26] JTBun: LOOOOOORE
+[0:56:30] Navy_Mongoose: yup
+[0:56:33] 0NIB0: hiii LOOOOOOORE
+[0:56:40] demon_dandy: I was half afraid this easter egg was just gonna piss you off ashton51Omegalul
+[0:56:41] TheAsterite: hiiichilla LORE
+[0:57:08] Navy_Mongoose: friendship ended with Half-Life, Portal is my best friend now
+[0:57:16] Senoquese: yeahhh
+[0:57:48] demon_dandy: I thought itd just be like " this reminds me of  that fuck ass noncanon ending ashton51Bork
+[0:57:52] Senoquese: LMAO yeah
+[0:58:14] JTBun: they tried and never followed through sjgsjkdghkdjs
+[0:58:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[0:58:53] Senoquese: if you fall into a portal itll automatically push you slightly onto the middle of it
+[0:58:57] Senoquese: so dont worry
+[0:59:16] demon_dandy: Imagine this in vr ashton51Despair
+[0:59:30] JTBun: throw up
+[0:59:34] Senoquese: if you put a portal and then jump into it, itll make you fall onto the middle instead of hitting the edge
+[0:59:37] Senoquese: so you dont need to do it last second
+[0:59:37] TheAsterite: mopSick
+[0:59:39] 0NIB0: portal VR ft. barf
+[0:59:47] metaconstruct: portal 3d ashton51Clap
+[0:59:54] InsaneLoke: most valve games have a console command for VR
+[0:59:56] Senoquese: @Senoquese as long as youre staring into the portal as you fall atleast
+[1:00:05] JTBun: you havent
+[1:00:13] niertlwal: you got everything you need to unlock it
+[1:00:14] sp8cequeen: you're not doing anything wrong dw
+[1:00:26] demon_dandy: ahh she didnt bring the blue  goo gun
+[1:00:36] InsaneLoke: a
+[1:00:38] demon_dandy: ninoegNERDGE ashton51Wah
+[1:00:45] metaconstruct: a
+[1:00:47] sp8cequeen: skeleTrolled
+[1:00:47] Senoquese: ashton51Tehe
+[1:00:50] JTBun: open sesame
+[1:00:52] mrsol4n: DOOR STUCK DOOR STUCK
+[1:00:54] 0NIB0: say please
+[1:00:58] Dragoon790: It worked.....kinda.
+[1:01:04] Senoquese: you just did a silly
+[1:01:07] Senoquese: dw
+[1:01:36] demon_dandy: Do we just tell her, this feels unfair ashton51Tehe
+[1:01:43] niertlwal: no
+[1:01:47] Senoquese: nah
+[1:01:47] niertlwal: she can do it
+[1:01:47] Senoquese: shes fine
+[1:01:56] sp8cequeen: she can do it, she's so close
+[1:02:07] Senoquese: ashton51Tehe
+[1:02:13] InsaneLoke: try tha door
+[1:02:14] Senoquese: you did it right you just had it too low
+[1:02:17] sp8cequeen: just go a little higher
+[1:02:17] niertlwal: rhetorical questions
+[1:02:24] JTBun: yup
+[1:02:31] Senoquese: LOL yeah...
+[1:02:44] sp8cequeen: momentum is the number one mechanic in portal
+[1:02:44] metaconstruct: ashton51Clap ashton51Clap
+[1:02:49] demon_dandy: Yeah you had the answer so i was just like ashton51Tehe
+[1:02:50] Senoquese: thats what i mean, you did a silly LOL
+[1:03:07] JTBun: yeah you called it
+[1:03:08] 0NIB0: :)
+[1:03:09] JTBun: lmao
+[1:03:11] Senoquese: ashton51Pog
+[1:03:14] InsaneLoke: you are so smart
+[1:03:16] sp8cequeen: the amount of puzzles that are solved by you flinging yourself in someway or building up speed. all momentum baby
+[1:03:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[1:03:20] demon_dandy: Clueless
+[1:03:24] Senoquese: Clueless
+[1:03:27] Senoquese: idk what shes talking about
+[1:03:27] DatBoiVLC: Clueless
+[1:03:28] 0NIB0: she's just a potato wdym Clueless
+[1:03:30] Paperguide: Clueless
+[1:03:32] JTBun: Clueless
+[1:03:35] demon_dandy: Aware
+[1:03:41] 0NIB0: Aware
+[1:03:43] Senoquese: ground up chillas
+[1:03:46] StreamElements: Feel the softness of the cuddliest animal on Earth! Get your Ashton Marten dakimakura today and bury yourself in the softest... fur of any VTuber! https://cuddlyoctopus.com/product/ashton-marten/
+[1:03:47] InsaneLoke: it sucks you in
+[1:03:50] JTBun: speed
+[1:03:51] DatBoiVLC: Orange goo Clueless
+[1:04:01] JTBun: this is where it gets really fun
+[1:04:11] Kaelaron: Speed! Like coom! XD
+[1:04:11] DatBoiVLC: oh wow
+[1:04:12] Senoquese: it does this to you SCHIZO SCHIZO
+[1:04:14] DatBoiVLC: chilla spray!
+[1:04:18] InsaneLoke: ohhhh splatoon
+[1:04:24] sp8cequeen: fun fact the music gets a lil different when ur walking on/bouncing on goo
+[1:04:25] DatBoiVLC: ashton51Clap
+[1:04:31] X_Rok: evening xrokYo orange paint time
+[1:04:37] katsuragi_kakeruvt: it gets even more fun later on but yea the orange goop levels are fun
+[1:04:53] DatBoiVLC: potato wife ashton51Baby
+[1:05:08] demon_dandy: ashton51Omegalul
+[1:05:18] ReyJaggy: Moar Goop!
+[1:05:39] Senoquese: ashton51Happi me on blue gel ashton51Run me on orange gel
+[1:05:40] InsaneLoke: round hole square peg
+[1:05:46] horribleham: It goes in the square hole
+[1:05:58] demon_dandy: Ashton failed the round hole test ashton51Despair
+[1:05:58] InsaneLoke: ultimately it went in the oval hole
+[1:06:01] InsaneLoke: many such cases
+[1:06:22] Senoquese: this bgm is so funky and cool
+[1:06:29] demon_dandy: ashton51Tensai ashton51Tensai
+[1:06:37] Navy_Mongoose: I wonder if the utility workers would get mad if I played with the excavator they left in my yard....
+[1:06:55] DatBoiVLC: moe mentum moe worries ashton51Despair
+[1:07:09] Navy_Mongoose: oh fuck yes speedy goop
+[1:07:17] JTBun: yessss
+[1:07:25] JTBun: there you go
+[1:07:25] Senoquese: ashton51Pog
+[1:07:27] demon_dandy: damn shes good ashton51Tensai
+[1:07:30] Senoquese: GAMER!!!
+[1:07:36] DatBoiVLC: SO SMART ashton51Baby
+[1:07:45] Navy_Mongoose: ashton51Squisher ashton51Squisher ashton51Squisher ashton51Squisher ashton51Squisher
+[1:07:46] sp8cequeen: WAHOO
+[1:07:46] horribleham: she's gaming
+[1:07:55] Senoquese: yeahh i get you glados i also shut down when im emotional
+[1:08:00] 0NIB0: gamer !clap
+[1:08:03] InsaneLoke: omm
+[1:08:06] katsuragi_kakeruvt: @horribleham shes goo(n)ping!!
+[1:08:14] demon_dandy: om
+[1:08:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[1:08:40] InsaneLoke: you are gonna make a nice grey color
+[1:08:45] Senoquese: ashton51Tehe
+[1:08:51] DatBoiVLC: ashton51Tehe
+[1:08:55] demon_dandy: classic
+[1:09:05] niertlwal: oh this is the funny puzzle
+[1:09:06] niertlwal: lmfao
+[1:09:17] Senoquese: LMAO
+[1:09:22] demon_dandy: LOL
+[1:09:31] DatBoiVLC: how to levitate:
+[1:09:36] Senoquese: mix in oil with the blue gel, wait for it to rain
+[1:10:08] demon_dandy: Theres a lil easter egg if you go one door back ashton51Baby
+[1:10:47] Senoquese: ashton51Pog
+[1:10:54] demon_dandy: ashton51Pog
+[1:10:55] katsuragi_kakeruvt: WOMAN!!
+[1:10:58] demon_dandy: LOL
+[1:11:05] Senoquese: i didnt know kitkat had a lady..
+[1:11:12] Navy_Mongoose: remember to thank your daily potato
+[1:11:15] InsaneLoke: gaben visiting bathesda:
+[1:11:24] katsuragi_kakeruvt: yea ok pinky
+[1:11:30] Senoquese: LOL
+[1:11:46] demon_dandy: Day drinkin ojisan ashton51Tehe
+[1:12:11] Senoquese: akhjghdsjksg
+[1:12:15] demon_dandy: LOL
+[1:12:16] Navy_Mongoose: quit pissin in the elevator
+[1:12:24] Senoquese: new loading screen!
+[1:12:32] rikkaonline: most animals go in the corner
+[1:12:40] demon_dandy: This puzzle is awesomeee
+[1:12:40] Navy_Mongoose: in the fake plants ffs
+[1:12:42] X_Rok: new loading screen, new cave johnson attitude
+[1:12:47] DatBoiVLC: maybe the giant pools of wastewater...
+[1:12:49] T33bags: ashton misted everywhere and we're relegated to scrubbing the walls
+[1:13:00] metaconstruct: hwhaa
+[1:13:04] demon_dandy: LOL
+[1:13:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[1:13:17] Navy_Mongoose: ashton51Pien ashton51Pien ashton51Pien ashton51Pien
+[1:13:26] katsuragi_kakeruvt: yea being sad is for the weak
+[1:13:29] DatBoiVLC: Clueless
+[1:13:32] horribleham: ashton please
+[1:13:45] Navy_Mongoose: Venga Bus?
+[1:13:58] DatBoiVLC: LMAO
+[1:14:03] Senoquese: ashton51Tehe
+[1:14:03] DatBoiVLC: THE LEN VERSION?!
+[1:14:09] InsaneLoke: LOOOOOOL
+[1:14:14] Senoquese: that feels like a fallout thing
+[1:14:16] metaconstruct: too much jimmy neutron movie
+[1:14:20] Navy_Mongoose: that's a cool song though
+[1:14:29] T33bags: thats so authentically cringe brings a tear to my eye
+[1:14:34] Navy_Mongoose: yeah I tie Jimmy Neutron to that a lot
+[1:14:37] Senoquese: LMAO
+[1:14:42] demon_dandy: I was so mad for no reason when meet the robinsons had that cover
+[1:14:48] JTBun: LMAO
+[1:14:54] Navy_Mongoose: yes, but Jimmy and his friends were flying into space to that song
+[1:14:55] DatBoiVLC: Len is the Steal Your Sunshine group, their cover of Kids In America was in the US release of the Digimon Movie
+[1:15:05] Dragoon790: I could see Rin and Len singing that song.
+[1:15:17] demon_dandy: ashton51Tensai
+[1:15:35] metaconstruct: orange goo too holyshitt
+[1:15:41] demon_dandy: mixing the goo ashton51Wibble
+[1:15:47] metaconstruct: wait really
+[1:15:52] DatBoiVLC: WELL DAVIS
+[1:15:53] Navy_Mongoose: lmao wait what
+[1:15:53] katsuragi_kakeruvt: fist in rage
+[1:16:10] metaconstruct: the only one i remember from digimon movie was that barenaked ladies track
+[1:16:19] DatBoiVLC: (adventure spoilers) davis was the american digidestend...
+[1:16:42] Senoquese: YOOOOO
+[1:16:49] Navy_Mongoose: CUBE
+[1:16:53] demon_dandy: Free coob ashton51Pog
+[1:16:55] DatBoiVLC: @metaconstruct the OST was the first CD I ever bought mintma1Tehe
+[1:17:01] DatBoiVLC: nice cube
+[1:17:11] metaconstruct: hellyeah
+[1:18:10] Senoquese: ashton51Tensai
+[1:18:10] metaconstruct: ok ok lets goop this guy
+[1:18:12] demon_dandy: ashton51Tensai
+[1:18:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[1:18:27] horribleham: the wheels are turning
+[1:18:30] Navy_Mongoose: gotta go super speedy
+[1:18:40] Senoquese: i feel like after this stream your iq will have increased 10 points
+[1:18:47] DatBoiVLC: shy goop...
+[1:19:01] metaconstruct: the fastjuice
+[1:19:16] StreamElements: Get your scrungly Ashton Plushten before they're gone! https://studionekomata.com/collections/ashton-marten
+[1:19:27] InsaneLoke: lol
+[1:19:28] demon_dandy: ashton51Omegalul ashton51Omegalul
+[1:19:33] Senoquese: watch her play the countries quiz after beating portal 2 and she gets it all right
+[1:19:36] Navy_Mongoose: go swimmin in the brown goop
+[1:19:41] DatBoiVLC: I mean, you haven't TRIED the dirty brown water this stream
+[1:19:43] DatBoiVLC: ashton51Sip
+[1:20:06] horribleham: 888888
+[1:20:07] Senoquese: LETS GOO COOL BUNNYHOP
+[1:20:10] JTBun: ashton51Happi
+[1:20:10] Navy_Mongoose: boioioioing
+[1:20:11] katsuragi_kakeruvt: little smart cookie
+[1:20:14] demon_dandy: This puzzle stumps people ngl ashton51Tehe you kinda killed that
+[1:20:23] Senoquese: yeah you did that real fast
+[1:20:37] DingusMcBaseball: details
+[1:20:39] katsuragi_kakeruvt: theres a fist chilla???
+[1:20:41] JTBun: this aperture logo is so good
+[1:20:49] Paperguide: smort chilla
+[1:20:52] DatBoiVLC: fistula? nice.
+[1:21:16] InsaneLoke: 3 stack hats
+[1:21:16] metaconstruct: mmm beard dirt
+[1:21:23] katsuragi_kakeruvt: they're trying to release you like the wild animal you are! ashton51Clap ashton51Clap
+[1:21:24] Navy_Mongoose: back in those days, maybe a whole car
+[1:21:25] InsaneLoke: mister cave
+[1:21:37] metaconstruct: 60 dollars change my name to Cave
+[1:21:42] InsaneLoke: hes like evil mr beast
+[1:21:50] JTBun: she cave on my johnson
+[1:21:59] DatBoiVLC: he's like a slightly less evil mr beast*
+[1:22:05] rikkaonline: cynical and burnt out
+[1:22:26] InsaneLoke: i mean hes performing cruel and unusual experiments, id classify it as evil
+[1:22:28] Senoquese: mr beasts sells chocolate bars at 7/11 and he might as well go to hell for that
+[1:22:51] Navy_Mongoose: @Senoquese they aren't even good, which definitely cements him as evil
+[1:23:13] T33bags: Mr beasts chocolate sucks so he’s doomed to hell
+[1:23:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[1:23:17] Navy_Mongoose: mr beast chocolate
+[1:23:23] katsuragi_kakeruvt: its made out of blue duh
+[1:23:25] InsaneLoke: i still will eat 6 Hershey bars
+[1:23:30] rikkaonline: probably hersheys but im not buying either
+[1:23:33] InsaneLoke: bever butt juice?
+[1:23:36] katsuragi_kakeruvt: welcome to the CUM zone
+[1:23:38] InsaneLoke: CEMENT
+[1:23:39] Navy_Mongoose: I have several hershey's bars in my cabinet right now
+[1:23:39] Senoquese: LOOOOOL
+[1:23:42] demon_dandy: ashton51Wibble
+[1:23:43] Navy_Mongoose: YES
+[1:23:43] rikkaonline: ashton51Omegalul
+[1:23:46] metaconstruct: wuh oh
+[1:23:46] DatBoiVLC: 🥛
+[1:23:47] Navy_Mongoose: I WAS WAITING FOR HTIS
+[1:23:48] Senoquese: me when i see that ashton51Dumpy
+[1:23:49] DingusMcBaseball: mr beast is like building houses for people, i dont get the hate
+[1:23:49] horribleham: chromuuuGao chromuuuGao chromuuuGao chromuuuGao chromuuuGao chromuuuGao chromuuuGao chromuuuGao
+[1:23:52] DatBoiVLC: 🥛 🥛 🥛 🥛
+[1:23:53] T33bags: Mr beast chocolate tastes like beaver butt juice but not good
+[1:23:55] Kaelaron: Hooray for coom!
+[1:23:57] 0NIB0: it's just white Clueless
+[1:23:58] justchiken: ashton51Stare
+[1:24:01] demon_dandy: LOL
+[1:24:03] katsuragi_kakeruvt: dont get your BALLS crushed in the CUM zone
+[1:24:05] Senoquese: CLEAN
+[1:24:09] katsuragi_kakeruvt: oop too late
+[1:24:12] TheAsterite: ashton51Despair ashton51Despair_SQ
+[1:24:13] JTBun: Flirt
+[1:24:15] yolochicken2002: erosSquish hi
+[1:24:17] gozuutennoh: majinoBuss
+[1:24:20] DatBoiVLC: dicksmasher: 1
+[1:24:27] TheAsterite: ashton51Despair_SQ ashton51Despair_SQ
+[1:24:28] rikkaonline: its sticky
+[1:24:30] JTBun: what else can you use white stuff for
+[1:24:34] demon_dandy: They just wanted white goo ashton51Wah
+[1:24:36] metaconstruct: eeeh, eeeeeh
+[1:24:42] InsaneLoke: what else is white that you look for
+[1:24:42] Senoquese: thats not a gel thats cave johnsons reserve so he can have children after dying
+[1:24:48] horribleham: shhh
+[1:24:52] Navy_Mongoose: DO YOU SEE WHY WOMEN LOVE THIS GAME SO MUCH?
+[1:24:52] JTBun: @Senoquese aw hell nah
+[1:24:53] horribleham: I think she will get it
+[1:24:53] InsaneLoke: or rather
+[1:24:58] InsaneLoke: nvm
+[1:25:01] InsaneLoke: she figured it out
+[1:25:01] horribleham: there we go
+[1:25:02] katsuragi_kakeruvt: its the official ashton dicksmasher ride
+[1:25:05] metaconstruct: HAHA
+[1:25:05] DatBoiVLC: so cute brain moment
+[1:25:06] horribleham: LOL
+[1:25:08] DatBoiVLC: ashton51Clap
+[1:25:08] Senoquese: ashton51Pog
+[1:25:08] demon_dandy: almost passed out supplying aperture with more white good
+[1:25:09] InsaneLoke: its MOON JUICE
+[1:25:09] 0NIB0: now you're thinking with coom i mean portals
+[1:25:12] T33bags: the neurons are connecting
+[1:25:17] horribleham: I LOVE THAT YOU COULD SEE IT ON HER FACE
+[1:25:30] JTBun: now you know why it's white
+[1:25:31] Senoquese: @horribleham dont say that when you have white goop on screen
+[1:25:33] demon_dandy: LOL
+[1:25:36] horribleham: yeah! lolol
+[1:25:46] JTBun: @Senoquese gjhsdghdsjghskjghsdkj
+[1:25:56] InsaneLoke: they really mined the fuck out of the moon for all this moon rock
+[1:25:59] Mastermind_Marx: conquer
+[1:26:03] demon_dandy: Ahhh
+[1:26:11] katsuragi_kakeruvt: shoot your WHAT ashton go ahead
+[1:26:30] demon_dandy: Loke stfu with the spoilers ninoegCRINGE
+[1:26:30] InsaneLoke: it is
+[1:26:31] K_annibell: gotta go fast
+[1:26:33] JTBun: youre fast enough
+[1:26:37] Senoquese: ashton51Tehe
+[1:26:41] InsaneLoke: @demon_dandy WHAAAT, i thought that was in the first game...
+[1:26:41] Navy_Mongoose: https://clips.twitch.tv/AcceptableFrozenPigeonKippa-q2T5w3O1aYI9f47_
+[1:26:46] Senoquese: aghkjsgsdj
+[1:26:54] Senoquese: i love her
+[1:26:57] katsuragi_kakeruvt: glados got bird trauma now
+[1:27:16] Navy_Mongoose: this is Glagod operating at low voltage
+[1:27:17] JTBun: big brain ashy
+[1:27:19] demon_dandy: ashton51Pog ashton51Pog
+[1:27:32] T33bags: shins are non existent
+[1:27:40] InsaneLoke: he ate too much teleported bread
+[1:27:42] JTBun: awwww he's getting sick ashton51Cry
+[1:27:48] JTBun: @InsaneLoke hsdjhgkjsdhgskj
+[1:28:03] Navy_Mongoose: that's why it's white
+[1:28:04] InsaneLoke: mfw
+[1:28:06] JTBun: yup
+[1:28:09] demon_dandy: ashton51Baby ashton51Baby
+[1:28:10] GManx0: Has Ashton yapped all over the lore?
+[1:28:13] katsuragi_kakeruvt: its mixed with BALLS
+[1:28:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[1:28:17] demon_dandy: @insaneloke like one room over LMAO
+[1:28:24] InsaneLoke: @demon_dandy im cryin
+[1:28:25] metaconstruct: MOON JICE
+[1:28:25] Senoquese: LOL...
+[1:28:38] Senoquese: thats so cool
+[1:28:38] InsaneLoke: i swear it was mentioned in portal 1
+[1:28:47] rikkaonline: cave: "its deadly poison" ashton: "i want to roll in it"
+[1:28:48] Senoquese: LMAO
+[1:28:49] metaconstruct: looool
+[1:28:50] JTBun: gjlskdgjsdklgjgsdkl
+[1:28:52] demon_dandy: :/
+[1:28:53] katsuragi_kakeruvt: bro is a doppleganger
+[1:29:02] horribleham: Didn't you know valve invented the wojak?
+[1:29:13] InsaneLoke: loool
+[1:29:13] GManx0: We are all deadly sick
+[1:29:16] Senoquese: valve invented this ashton51Dumpy
+[1:29:18] 0NIB0: the 2nd concert was so good that I died actually
+[1:29:20] rikkaonline: they also invented steam
+[1:29:23] InsaneLoke: valve invented the computer
+[1:29:23] metaconstruct: gayben
+[1:29:24] JTBun: they invented video games actually
+[1:29:28] InsaneLoke: and peach pie
+[1:29:28] horribleham: ashton51Dumpy
+[1:29:29] Navy_Mongoose: Valve didn't invent DotA, IceFrog did
+[1:29:35] Senoquese: i guess LOL
+[1:29:36] horribleham: the only cure is more Ashton concerts
+[1:29:44] JTBun: this room
+[1:29:46] T33bags: @metaconstruct bisexualben
+[1:29:46] JTBun: hehe
+[1:29:53] horribleham: It's like Macross, only her singing can keep the sick away
+[1:29:54] rikkaonline: blastin goo everywhere
+[1:30:00] Navy_Mongoose: bukkake that entire room
+[1:30:01] Senoquese: gabe newell did work on early versions of windows so youre kinda right about the computer stuff???
+[1:30:06] InsaneLoke: peaches and cream pie didnt exist before 2004 when valve published the recipe with their first release of steam
+[1:30:06] DatBoiVLC: ashton51Smile
+[1:30:10] T33bags: ashton51Heh
+[1:30:16] katsuragi_kakeruvt: "yes mr. johnson it took me 5 months and I couldn't stand for 4 weeks but your moon portal fluid is done"
+[1:30:17] Paperguide: ashton51Modcheck
+[1:30:21] Senoquese: LMAO
+[1:30:21] demon_dandy: me when ya girl- ya girl when she- when ya girl sees me she she- ashton51Despair
+[1:30:24] JTBun: yes
+[1:30:24] DrHidaka: WOOMY
+[1:30:25] metaconstruct: jfc
+[1:30:28] TheAsterite: ashton51Omegalul ashton51Omegalul
+[1:30:30] Navy_Mongoose: ashton51Despair
+[1:30:34] JTBun: @demon_dandy gjsdgjsdhgjkg
+[1:30:34] Senoquese: we splatoon gamers only play for the yuri
+[1:30:39] 0NIB0: Aware
+[1:30:41] InsaneLoke: can it kill you?
+[1:30:42] horribleham: khsdfjkl
+[1:30:43] demon_dandy: LMAO
+[1:30:43] JTBun: @Senoquese so true
+[1:30:43] DatBoiVLC: Aware
+[1:30:46] Navy_Mongoose: HUH
+[1:30:46] katsuragi_kakeruvt: it keeps WHAT now?
+[1:30:51] T33bags: Aware
+[1:30:58] InsaneLoke: this one is supposed to be more lethal?
+[1:31:07] katsuragi_kakeruvt: ashton you need to have the vine boom ready for this one haha
+[1:31:09] Senoquese: 100% valve knew and it was intentional
+[1:31:10] Mastermind_Marx: the best part is fighting for your Idol
+[1:31:15] DatBoiVLC: this one is moon dust which is UBER lethal but know
+[1:31:20] DatBoiVLC: chel bill dipperly
+[1:31:20] demon_dandy: Aware
+[1:31:21] metaconstruct: ouogugh
+[1:31:22] InsaneLoke: i was thinking cement mixer smell
+[1:31:24] Mastermind_Marx: and then inking everything
+[1:31:30] Senoquese: LOL
+[1:31:34] JTBun: lmao
+[1:31:35] Senoquese: well gabe is a brony soooo
+[1:31:37] Kaelaron: It smells like spuz! XD
+[1:31:41] horribleham: why do you think he's named Gayben?
+[1:31:42] Paperguide: ashton....
+[1:31:43] JTBun: Im sure there is a ton of furrys at valve
+[1:32:02] demon_dandy: She knows too much ashton51Nightmare
+[1:32:05] Navy_Mongoose: well the rules were already "white walls = portal" and "color gel = smear on everything" and someone said "can we smear portal walls too?"
+[1:32:05] Mastermind_Marx: more gloo
+[1:32:13] demon_dandy: spesecretly ashton51Tehe
+[1:32:15] DatBoiVLC: valve invented furries ashton51Nightmare
+[1:32:23] JTBun: @DatBoiVLC true
+[1:32:23] DingusMcBaseball: estoy goopin
+[1:32:28] GManx0: Premature Chilla
+[1:32:32] Navy_Mongoose: isn't Gabe's son a furry
+[1:32:37] Senoquese: gabe has gotta be into some secret weird shit if he admitted being a brony
+[1:32:54] InsaneLoke: i dont think he is mad about it
+[1:32:56] InsaneLoke: lmao
+[1:33:06] metaconstruct: hmm
+[1:33:08] T33bags: all of this moon juice probably costs billions and you’re spilling it everywhere and calling it goop
+[1:33:09] DatBoiVLC: based on what I know about TF2, pretty sure that valve WANTS to turn people furry
+[1:33:11] InsaneLoke: it runs in the family
+[1:33:12] DrHidaka: Gumshoe Gooper
+[1:33:14] demon_dandy: ashton51Dance ashton51Dance ashton51Dance
+[1:33:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[1:33:18] Senoquese: LOL......
+[1:33:21] JTBun: ashton51Woo ashton51Woo ashton51Woo
+[1:33:25] Navy_Mongoose: tbh some of them little ponies be baddies
+[1:33:29] DatBoiVLC: marimariCORNDOG marimariCORNDOG marimariCORNDOG
+[1:33:32] yolochicken2002: erosGrooving erosGrooving erosGrooving erosGrooving erosGrooving
+[1:33:35] Paperguide: ashtonashton_en
+[1:33:38] horribleham: Gabe is Also the Real Ringo from The Beatles
+[1:33:40] Navy_Mongoose: yes
+[1:33:44] DatBoiVLC: marimariDORO marimariDORO marimariDORO
+[1:33:46] katsuragi_kakeruvt: new objective: cum on EVERYTHING
+[1:33:46] StreamElements: Feel the softness of the cuddliest animal on Earth! Get your Ashton Marten dakimakura today and bury yourself in the softest... fur of any VTuber! https://cuddlyoctopus.com/product/ashton-marten/
+[1:33:51] rikkaonline: its the powerwash simulator level
+[1:33:51] demon_dandy: LOL
+[1:33:58] JTBun: GSDHGHSDHJ
+[1:34:01] justchiken: ashton51Omegalul
+[1:34:01] T33bags: ??????
+[1:34:01] DatBoiVLC: rainyrenHuh
+[1:34:04] rikkaonline: lol
+[1:34:07] InsaneLoke: kegals for men section of the game
+[1:34:07] Paperguide: ashton.....
+[1:34:15] metaconstruct: rope simulator 2011
+[1:34:17] DatBoiVLC: shes learning too much
+[1:34:19] tobeesko: I'm now haunted by that song...
+[1:34:19] Navy_Mongoose: Mike Stoklasa: "that's a lot of cum"
+[1:34:19] demon_dandy: We are vindicated
+[1:34:20] GManx0: Very idol like
+[1:34:23] TheAsterite: marimariDizzy marimariDizzy
+[1:34:30] katsuragi_kakeruvt: BUSTIN ropes
+[1:34:36] InsaneLoke: shower cup?
+[1:34:40] T33bags: glazing everything
+[1:34:48] Senoquese: ashton51Despair
+[1:34:49] JTBun: we do not do that inthe shower
+[1:34:52] DatBoiVLC: she doesn't know about the cell transformation from dbz
+[1:34:54] InsaneLoke: please enlighten
+[1:34:54] DatBoiVLC: nobody tell her
+[1:34:57] InsaneLoke: what is shower cup
+[1:34:59] demon_dandy: RIDING
+[1:35:00] Senoquese: nobody ask about the shower cup
+[1:35:05] katsuragi_kakeruvt: glaze THIS -> ashton51Dumpy
+[1:35:05] T33bags: RIDING
+[1:35:07] JTBun: RIDING
+[1:35:10] metaconstruct: its not abs, its thigh tense first of all
+[1:35:11] JTBun: WE DONT
+[1:35:12] justchiken: I swear no one really does the shower cup
+[1:35:14] DatBoiVLC: RIDING
+[1:35:18] T33bags: glaze THIS -> ashton51Dumpy
+[1:35:18] Senoquese: RIDING
+[1:35:23] GManx0: Truly Rotten Idol
+[1:35:28] demon_dandy: ashton51Omegalul ashton51Omegalul
+[1:35:32] InsaneLoke: shower cup.... what could she possibly mean...
+[1:35:33] JTBun: yeah you dont
+[1:35:36] DatBoiVLC: she can NOT be trusted with goop...
+[1:35:38] Paperguide: yab
+[1:35:40] JTBun: ...
+[1:35:42] Senoquese: what if you do tho...
+[1:35:45] rikkaonline: once you can, you want to goop everything
+[1:35:52] Navy_Mongoose: @InsaneLoke when you take a big cup into the shower with you to fill up and dump all over yourself. a little redundant in the shower, but it's still fun
+[1:35:58] tobeesko: i know of shower beer, but not shower cup
+[1:36:00] katsuragi_kakeruvt: but this is the best part of the game IMO the devs just give you the tools and say have at it
+[1:36:04] DatBoiVLC: now we know why boyshton must remain in a coma 364 days...
+[1:36:06] JTBun: like that
+[1:36:11] Senoquese: LOL
+[1:36:13] InsaneLoke: @Navy_Mongoose significantly more innocent than i was thinking
+[1:36:18] Navy_Mongoose: I lvoe seeing Ashton's gears turning
+[1:36:21] Senoquese: @InsaneLoke haha yeah
+[1:36:24] Kaelaron: Coom cannon!
+[1:36:28] demon_dandy: damn shes goop ashton51Tensai
+[1:36:28] tobeesko: @Navy_Mongoose ooo that's fun tho tobeesKoempty
+[1:36:28] DatBoiVLC: haha yeah
+[1:36:36] T33bags: it’s very funny to see you learn things
+[1:36:46] InsaneLoke: thats actually a good idea, the shower cup. im usually taller than the shower head so i might need to get my own
+[1:36:47] Senoquese: @T33bags me talking to my infant son
+[1:36:49] DatBoiVLC: ipkSip
+[1:36:52] JTBun: here it is
+[1:36:56] katsuragi_kakeruvt: HERES THE LEMON SPEECH RAAAHHHHHHHHHHH
+[1:36:58] JTBun: YEAH
+[1:37:03] Paperguide: YEAH
+[1:37:04] T33bags: @senoquese LMAOOOOOOOOOOOOO
+[1:37:07] Navy_Mongoose: tbh you didn't goop enough
+[1:37:18] metaconstruct: lmao
+[1:37:20] Kaelaron: Why does he sound like J. Jonah Jameson?
+[1:37:21] InsaneLoke: TONY STARK BUILT THAT SUIT IN A CAVE WITH A BOX OF SCRAPS
+[1:37:31] InsaneLoke: shes in love with him.... sigh
+[1:37:37] Senoquese: ashton51Pog
+[1:37:38] demon_dandy: ashton51Pog ashton51Pog
+[1:37:40] DatBoiVLC: @Navy_Mongoose yeah she could have had more coverage, 6/10 paintjob
+[1:37:44] Navy_Mongoose: @Kaelaron because it is
+[1:37:53] Senoquese: ashton51Pog ashton51Pog ashton51Pog ashton51Pog
+[1:37:56] JTBun: yup
+[1:37:57] tobeesko: wait, is this where the lemons quote is from???
+[1:38:00] Kaelaron: @Navy_Mongoose Oh, good, I was worried for a second there. lol
+[1:38:11] Senoquese: aw
+[1:38:14] Senoquese: the goodbye..
+[1:38:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[1:38:24] horribleham: ashton51Wibble goodbye sir...
+[1:38:31] Navy_Mongoose: Chel doesn't talk though
+[1:38:37] Navy_Mongoose: we don't know what Chel's thinking
+[1:38:39] DatBoiVLC: love triangle with a dead man
+[1:38:41] DatBoiVLC: ashton51Omegalul
+[1:38:56] demon_dandy: Comp het  is crazy ashton51Omegalul
+[1:38:59] JTBun: and woman turned robot
+[1:39:10] Navy_Mongoose: mods
+[1:39:14] InsaneLoke: LOL
+[1:39:14] Senoquese: you were in one
+[1:39:16] JTBun: huh?
+[1:39:16] vectri: yes
+[1:39:17] GManx0: Yes
+[1:39:18] niertlwal: 200%
+[1:39:19] justchiken: yes
+[1:39:20] DatBoiVLC: yes
+[1:39:20] T33bags: yea
+[1:39:20] JTBun: yes
+[1:39:20] yolochicken2002: Yes
+[1:39:21] Paperguide: yes
+[1:39:22] rikkaonline: yes
+[1:39:22] horribleham: yes
+[1:39:23] wavesinereverse: saavtuNodders saavtuNodders saavtuNodders saavtuNodders
+[1:39:24] Navy_Mongoose: don't you currently lead one?
+[1:39:25] demon_dandy: You forgot?
+[1:39:30] DatBoiVLC: she forgor..
+[1:39:39] Paperguide: >disney adult
+[1:39:42] Paperguide: Clueless
+[1:39:48] T33bags: Ashton you whimper when you don’t understand the puzzle in like 10 minutes
+[1:39:49] tobeesko: a little?
+[1:39:53] K_annibell: thats what all cult members say at first
+[1:39:58] JTBun: thats normally what happens
+[1:40:03] horribleham: Ashton, you are super smart, but I can 100% see you becoming a cult member
+[1:40:04] JTBun: in cults
+[1:40:06] TheAsterite: it's ok, we know ashton's weakness
+[1:40:08] InsaneLoke: bro theres a fox screaming outside i thought it was coming from ashton i got so scared
+[1:40:12] Senoquese: im casting a spell on you right now
+[1:40:19] Senoquese: im getting my jars
+[1:40:20] DatBoiVLC: she thinks its 2 hours ashton51Omegalul
+[1:40:22] metaconstruct: rhat doesnt sound very fun
+[1:40:23] rikkaonline: you volunteered to sit through it in the first place lol
+[1:40:25] niertlwal: "im very resistant to cults"  "when i fall for religion im going to be the best religious cog"
+[1:40:26] Navy_Mongoose: no you are not
+[1:40:27] demon_dandy: Shes repressing the cult memory ashton51Despair
+[1:40:36] Paperguide: ashton...
+[1:40:56] niertlwal: self-aware cog???
+[1:41:00] GManx0: Self aware is nothing if you dont put it in practice
+[1:41:08] JTBun: so you are but arent is what you are saying
+[1:41:09] Senoquese: her mind is so gigantic yall dont understand what she means
+[1:41:17] wavesinereverse: she will get the complementary lunch at the timeshare presentation
+[1:41:19] InsaneLoke: what do you think the pitcrew it
+[1:41:21] InsaneLoke: is
+[1:41:23] demon_dandy: Theyll make a catchy song and youll fall for it
+[1:41:31] Paperguide: lead her own cult? Clueless
+[1:41:35] 0NIB0: this is a cult? Aware
+[1:41:39] metaconstruct: good word
+[1:41:53] JTBun: oh boy
+[1:42:00] JTBun: lmao
+[1:42:00] DatBoiVLC: touche
+[1:42:02] Navy_Mongoose: Ashton we used a room party as a diguise to worhsip you... twice
+[1:42:05] GManx0: Says the Con goer vtuber
+[1:42:05] wavesinereverse: Hot Topic girl
+[1:42:06] demon_dandy: ahh touche ashton51Tehe
+[1:42:20] JTBun: keeping it weird I see
+[1:42:20] rikkaonline: born baked
+[1:42:22] metaconstruct: mmm
+[1:42:23] Paperguide: oh no
+[1:42:27] Senoquese: she yells at me and im not paid and i cant leave but im here willingly i promise
+[1:42:31] katsuragi_kakeruvt: man portland is NOT that good haha
+[1:42:45] DatBoiVLC: ashton51Sip
+[1:42:47] Paperguide: nice to visit not to live
+[1:43:01] wavesinereverse: did she have an Invader Zim keychain
+[1:43:11] horribleham: You know Ashton judged us after the meet n greet
+[1:43:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[1:43:22] DatBoiVLC: @wavesinereverse ^was it gir or was it another character is the followup lmao
+[1:43:23] JTBun: youre getting there
+[1:43:32] GManx0: She is this close to calling her an NPC
+[1:43:33] InsaneLoke: loool
+[1:43:38] DatBoiVLC: "you kids love starwars?"
+[1:43:40] Navy_Mongoose: yeah, use Invader Zim as the litmus test
+[1:43:46] DatBoiVLC: "remember glupp shitto?"
+[1:43:47] JTBun: LMAO
+[1:43:53] Senoquese: you are slytherin
+[1:44:10] wavesinereverse: the correct answer to favorite star wars character is always 'gonk droid'
+[1:44:13] demon_dandy: ashton51Omegalul ashton51Omegalul
+[1:44:35] InsaneLoke: id out greek her and freak her out LOL
+[1:44:38] 0NIB0: LMAO
+[1:44:39] InsaneLoke: personally
+[1:44:40] Senoquese: hjgfjgfh
+[1:44:47] metaconstruct: wack
+[1:44:48] TheAsterite: imaHeck imaHeck
+[1:45:00] InsaneLoke: "as long as you dont like them" rolling my eyes
+[1:45:05] Navy_Mongoose: you outgeek her in nerd media that's actually good
+[1:45:06] DatBoiVLC: @InsaneLoke great move during ONBOARDING om
+[1:45:09] DatBoiVLC: gatekeep her first
+[1:45:18] horribleham: Ashton gets combative when someone matches her freak
+[1:45:31] metaconstruct: good play
+[1:45:32] 0NIB0: do you ever lie about liking something just to see what the other person would say
+[1:45:36] demon_dandy: trueeee ashton51Tehe
+[1:45:40] InsaneLoke: damn ur fam big af -ur coworkers
+[1:45:41] DatBoiVLC: "its my one aunt she has like 7 husbands"
+[1:45:47] DatBoiVLC: ashton51Tehe
+[1:45:59] katsuragi_kakeruvt: "wow you take some really random time off you got a lot of family?"
+[1:46:05] Navy_Mongoose: uh... no
+[1:46:07] Senoquese: ?
+[1:46:07] GManx0: How
+[1:46:08] Paperguide: no...
+[1:46:08] demon_dandy: let her cook
+[1:46:09] horribleham: shhhh
+[1:46:10] JTBun: no
+[1:46:11] TheAsterite: ashton51Stare
+[1:46:12] Paperguide: ashton...
+[1:46:12] niertlwal: shhhhhhhh
+[1:46:13] Paperguide: what
+[1:46:14] 0NIB0: ashton51Stare
+[1:46:19] horribleham: no confirmation of denial of spoilers
+[1:46:23] horribleham: let her cook
+[1:46:23] InsaneLoke: i thought wheatly was personified cereal
+[1:46:25] demon_dandy: ashton51Omegalul
+[1:46:27] niertlwal: let her cook at her own pace
+[1:46:29] tobeesko: bachelorette party?
+[1:46:33] TheAsterite: this game was slightly controversial when it came out
+[1:46:36] niertlwal: we got fire extinguishers
+[1:46:50] DatBoiVLC: makes sense to me ashton51Tehe
+[1:46:57] Senoquese: its not spoilers tbh it was already mentioned caroline would only be head boss if cave died
+[1:46:57] JTBun: I mean it was literally confirmed that he was just a core originated from her
+[1:47:01] metaconstruct: noggin user detected
+[1:47:08] Paperguide: bruh
+[1:47:13] DatBoiVLC: smh, I can't believe shes a thinker
+[1:47:15] demon_dandy: Theyre trying to cancel ashton? ashton51Tensai
+[1:47:21] InsaneLoke: he left the stream for you to run after he died remember
+[1:48:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[1:48:16] Navy_Mongoose: I mean it would be interesting, but I don't think I've ever heard anyone draw a connection between those two
+[1:48:22] Senoquese: its interesting but it goes against some previous dialogue about cave dying before anything happening ashton51Tehe
+[1:48:26] GManx0: I just wanna know the mental progress to that
+[1:48:28] metaconstruct: let her cooke
+[1:48:33] demon_dandy: LOL
+[1:48:43] rikkaonline: that is his character
+[1:48:44] GManx0: You have listened to no one but Glados
+[1:48:49] katsuragi_kakeruvt: but what if wheatley (cave johnson) and past cave johnson kissed LMAOOOO
+[1:49:01] Senoquese: when he screamed pathetically
+[1:49:01] JTBun: he was funny
+[1:49:05] GManx0: The Neurotoxin gas
+[1:49:16] StreamElements: Get your scrungly Ashton Plushten before they're gone! https://studionekomata.com/collections/ashton-marten
+[1:49:21] Navy_Mongoose: UHM, THERE WAS THAT TIME HE UH, SAID SOMETHING REALLY STUPID AND BRITISH, AND UH
+[1:49:23] Senoquese: he was the first to mention other humans being in aperture tbh
+[1:49:24] wavesinereverse: he hacked that one door open
+[1:49:36] DatBoiVLC: i mean you were right about the toxic yuri, GladOS is currently... impaled on your doohicky
+[1:49:46] StreamElements: Up your streaming game with Elgato! From their 4K60 Pro Capture Card to their Stream Deck, I use their products every single stream! Check them out now using my link: https://elgato.sjv.io/AshtonMarten
+[1:49:57] Navy_Mongoose: because he was an uke
+[1:50:12] Senoquese: him saying hes in charge of the humans is kinda a huge lore drop implying theres more people
+[1:50:15] Navy_Mongoose: I think you saw the animation though
+[1:50:22] JTBun: he was shyyyyy 👉 👈 🥺
+[1:50:37] katsuragi_kakeruvt: eepin time?
+[1:50:53] demon_dandy: ashton51Tehe
+[1:50:55] Senoquese: ashton51Tehe
+[1:51:09] metaconstruct: smoking_duck.png
+[1:51:14] GManx0: Couldnt you jump back when messing it up
+[1:51:15] metaconstruct: pissin me off
+[1:51:32] JTBun: we need Classic
+[1:51:34] Navy_Mongoose: I think the secret door was supposed to be the inverse of Alyx showing you the secret door ashton51Tensai
+[1:51:35] Senoquese: you added classic before and removed it ashton51Tehe
+[1:51:41] metaconstruct: looool
+[1:51:49] JTBun: you had it
+[1:51:57] metaconstruct: Joel Joel Joel
+[1:52:07] horribleham: lolol
+[1:52:08] GManx0: She is overthinkin
+[1:52:15] JTBun: Classic
+[1:52:17] Senoquese: yeah yeah she added that one but complained about it replacing text
+[1:52:18] DatBoiVLC: smh dripless
+[1:52:20] DatBoiVLC: classic
+[1:52:23] JTBun: classic
+[1:52:24] InsaneLoke: thank you dd classic
+[1:52:29] demon_dandy: classic
+[1:52:39] JTBun: who the fuck says classic
+[1:52:45] DatBoiVLC: you can set custom channel names for emotes so its capital C classic instead
+[1:52:53] 0NIB0: classic
+[1:52:55] demon_dandy: If you want the word, use two cs or somethin
+[1:52:58] metaconstruct: i do notta rememmboer
+[1:53:04] InsaneLoke: the potater rotting sound
+[1:53:04] DatBoiVLC: ClAsSiC
+[1:53:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[1:53:27] Senoquese: ashton51Pog
+[1:53:29] horribleham: 8888888
+[1:53:33] demon_dandy: Niceee ashton51Baby
+[1:53:47] JTBun: what da fawkkk
+[1:54:12] demon_dandy: ashton51Omegalul ashton51Omegalul
+[1:54:33] Senoquese: oh thats goopy alright
+[1:54:46] demon_dandy: yuhhhh goop gang come IN
+[1:54:54] JTBun: new boot goopin
+[1:55:59] demon_dandy: ashton51Tehe ashton51Tehe
+[1:56:06] horribleham: no stream tomorrow would also give us time to sleep lol
+[1:56:08] Senoquese: no stream means ill get some sleep...
+[1:56:10] Senoquese: jinx
+[1:56:13] demon_dandy: LOL
+[1:56:16] rikkaonline: lol
+[1:56:39] InsaneLoke: nearly 3am on the east lol
+[1:56:41] JTBun: yeah... but I wake up at 5 AM
+[1:56:46] katsuragi_kakeruvt: LMAOOOO
+[1:56:49] Senoquese: i fell asleep to nap just to immediately wake up with the stream LOL
+[1:56:54] metaconstruct: zuzuzu
+[1:57:15] demon_dandy: This portal game aimt half bad ashton51Tensai
+[1:57:26] JTBun: @demon_dandy actually mid
+[1:57:27] wavesinereverse: the vtuber urge to goop
+[1:57:32] GManx0: Now she is thinking with Goop
+[1:57:49] demon_dandy: @jtbun classic
+[1:57:51] Senoquese: overthinking with goop
+[1:58:02] barfchan: classic
+[1:58:05] horribleham: watching the cogs trun
+[1:58:10] metaconstruct: true
+[1:58:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[1:58:20] DatBoiVLC: 3 colors of goop is a lot of goop
+[1:58:29] Senoquese: @JTBun portal 2 fucking sucks LMFAO never played it and im watching audio only
+[1:58:42] katsuragi_kakeruvt: bless you
+[1:58:50] K_annibell: i usually just eat the colors
+[1:59:11] T33bags: aikatsu Vtubers announced can we get Ashton’s initial reaction and opinion
+[1:59:15] DatBoiVLC: portal 1 was actually better, it never crashed on launch either CarlSmile
+[1:59:23] horribleham: Maybe she's a little eepy
+[1:59:29] metaconstruct: well, you probably gotta get up there
+[1:59:29] katsuragi_kakeruvt: I think you should send it
+[1:59:37] Senoquese: @DatBoiVLC hey she only launched it once so we dont know if it would crash
+[1:59:49] demon_dandy: Shes cookinnnn ashton51Tensai
+[1:59:57] DatBoiVLC: @Senoquese thats another thing that was great about it, the pacing om
+[2:00:08] rikkaonline: lol
+[2:00:17] JTBun: overthinking
+[2:00:22] DatBoiVLC: goop glorpin everywhere
+[2:00:28] GManx0: What color would Ashton Goop be
+[2:00:35] Senoquese: @JTBun YOURE overthinking
+[2:00:44] DatBoiVLC: ashton urple goop...
+[2:00:51] JTBun: @Senoquese true actually, I overthink a lot
+[2:00:57] InsaneLoke: it would be neon yellow
+[2:00:57] demon_dandy: ourple ashton51Wah
+[2:00:58] AndrickDaBear: What would ashton goop DO?
+[2:00:58] Senoquese: it would be purple with pink flakes
+[2:01:03] metaconstruct: blimp mentioned
+[2:01:10] DatBoiVLC: @AndrickDaBear make u kiss boys
+[2:01:30] katsuragi_kakeruvt: one half of the puzzle done
+[2:01:38] JTBun: you have the right idea
+[2:01:38] horribleham: more like 80% of it lol
+[2:01:39] demon_dandy: Mince out of mignon ashton51Tehe
+[2:01:43] T33bags: hi sweaty
+[2:01:47] katsuragi_kakeruvt: you're forgetting one core concept of portal
+[2:01:50] Navy_Mongoose: it's Alaska
+[2:02:05] Senoquese: you just need to change 1 portal if that helps
+[2:02:09] JTBun: move the blue portal somewhere
+[2:02:11] demon_dandy: yerrrp
+[2:02:13] DatBoiVLC: yer, boowm
+[2:02:22] GManx0: Okay, i get that Chell has the leg things so she doesnt break them. How is her face not broken when she crashes like that
+[2:02:23] Senoquese: lol
+[2:02:25] demon_dandy: ashton51Omegalul ashton51Omegalul
+[2:02:29] JTBun: there you go sdhjgsjdkghkjsd
+[2:02:29] mrp0p1nfr3sh: ashton51Squish
+[2:02:32] DatBoiVLC: mintma1Tehe
+[2:02:44] horribleham: ashton51First
+[2:02:46] 0NIB0: ashton51Stare
+[2:02:47] metaconstruct: ashton51First ashton51First ashton51First
+[2:02:48] Navy_Mongoose: more blue goo
+[2:03:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[2:03:18] JTBun: ghjksdghjksdhgjk you are tired
+[2:03:21] Senoquese: oooh yyeah mhm i see Clueless
+[2:03:21] metaconstruct: my momenum ashton51Pathetic
+[2:03:32] DatBoiVLC: portal party tricks with ashton :3
+[2:03:39] horribleham: me when I lose my momentum
+[2:03:46] StreamElements: Feel the softness of the cuddliest animal on Earth! Get your Ashton Marten dakimakura today and bury yourself in the softest... fur of any VTuber! https://cuddlyoctopus.com/product/ashton-marten/
+[2:03:48] demon_dandy: ashton51Tehe ashton51Tehe
+[2:04:03] JTBun: goo
+[2:04:16] Navy_Mongoose: give yourself supoer boing boing feet
+[2:04:20] metaconstruct: you probablybgotta bince to the other side
+[2:04:24] DatBoiVLC: have you tried getting your goo everywhere?
+[2:04:31] demon_dandy: The goo is key ashton51Tensai
+[2:04:44] JTBun: there you go
+[2:04:46] JTBun: dhjgkjdgshgjkd
+[2:04:48] demon_dandy: CAUGHT
+[2:04:54] Senoquese: CAUGHT
+[2:04:55] katsuragi_kakeruvt: good!
+[2:05:04] katsuragi_kakeruvt: you got it!
+[2:05:06] JTBun: YIPPIE
+[2:05:08] horribleham: LETS GOOOOOOO
+[2:05:09] Senoquese: yaaaaaaaaaaay
+[2:05:13] Navy_Mongoose: it does
+[2:05:18] horribleham: She's believing!
+[2:05:29] Senoquese: ashton51First
+[2:05:50] demon_dandy: If its the actual surface thats white, it wont overwite its portalability
+[2:05:50] Navy_Mongoose: this is my kingdom come, this is my kingdom come
+[2:06:14] JTBun: CUM
+[2:06:14] Senoquese: ashton51Tehe
+[2:06:15] Navy_Mongoose: oh jesus
+[2:06:16] horribleham: Gooing the system
+[2:06:17] mrp0p1nfr3sh: STRAIGHT UP COOMING EVERYWHERE
+[2:06:17] katsuragi_kakeruvt: CUM
+[2:06:19] metaconstruct: fuckikk
+[2:06:20] Navy_Mongoose: I forgot about this
+[2:06:22] DatBoiVLC: DONT BREATHE IT IN
+[2:06:28] Senoquese: oh this rooms gotta STINK
+[2:06:28] mrp0p1nfr3sh: SHES FUCKING MISTING THE BUILDING WITH COOM
+[2:06:29] demon_dandy: TheVoices ITS EVERYWHERE
+[2:06:29] wavesinereverse: goop everywhere
+[2:06:31] DatBoiVLC: its raining men?
+[2:06:37] katsuragi_kakeruvt: remember when glados said that they just recycle the air down here ?? ashton51Clap ashton51Clap
+[2:06:39] AndrickDaBear: not the moon coom
+[2:06:42] GManx0: She is never going to bed
+[2:06:47] T33bags: biohazard
+[2:07:04] DatBoiVLC: this section is so disorienting
+[2:07:08] Navy_Mongoose: ashton you have 1 minute left to beat the game
+[2:07:09] DrHidaka: its a disorienting passage
+[2:07:16] demon_dandy: This is  such a weird parallax ashton51Tehe
+[2:07:19] mrp0p1nfr3sh: TheVoices TheVoices TheVoices TheVoices TheVoices TheVoices TheVoices TheVoices
+[2:07:27] Navy_Mongoose: probably
+[2:07:28] mrp0p1nfr3sh: Chillas are all terrain ashi
+[2:07:31] DatBoiVLC: mintma1Looking
+[2:07:42] mrp0p1nfr3sh: ashton51Clap
+[2:07:46] metaconstruct: awd
+[2:07:59] DatBoiVLC: the caboose is loose ashton51Dumpy
+[2:08:03] InsaneLoke: not really
+[2:08:08] mrp0p1nfr3sh: So whos gonna draw a potato pitcrew?
+[2:08:11] Senoquese: thats what its for kinda
+[2:08:12] T33bags: no you wouldnt
+[2:08:12] InsaneLoke: not unless you had some of the moon paint
+[2:08:14] Navy_Mongoose: well, you'd only be able to go where moon gel is
+[2:08:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[2:08:21] mrp0p1nfr3sh: but instead of a machine connected to a potato its a machine wired to a chilla
+[2:08:23] T33bags: you need the moon paint Ashton
+[2:08:25] Senoquese: the moon gel part is only half true
+[2:08:32] Senoquese: moon gel makes things portable but its not the ONLY portable thing
+[2:08:33] demon_dandy: When you finish this spot itll be a good ending point imo ashton51Baby
+[2:08:36] DatBoiVLC: this room is almost done iirc
+[2:08:48] InsaneLoke: like to use it irl lmao
+[2:08:49] Navy_Mongoose: wait, a keypad on the door? TF2 CONFIRMED?!
+[2:09:03] T33bags: no like irl LMAOO
+[2:09:07] JTBun: EZ
+[2:09:07] Senoquese: yeah canonically moon gel was just the easiest way to make things portable
+[2:09:13] Senoquese: but its not the only way
+[2:09:21] demon_dandy: ashton51Pog ashton51Pog ashton51Pog
+[2:09:26] wavesinereverse: new mission: refuse this mission
+[2:09:30] Senoquese: LMAO
+[2:09:34] demon_dandy: LOL
+[2:09:38] Navy_Mongoose: it's a white goo level
+[2:09:48] katsuragi_kakeruvt: imagine its a water level with the penis music from that one banjo level
+[2:09:48] T33bags: @senoquese if getting moon dust is the easiest way I can’t imagine the others are easier LMAOOOOOOOOOOOOOOOOOO
+[2:09:55] AndrickDaBear: We love gooey pipes
+[2:09:57] Senoquese: @T33bags GHKJSGKJHSD true
+[2:10:03] Navy_Mongoose: you need to swim through all of the different color goos
+[2:10:06] InsaneLoke: goop established
+[2:10:34] demon_dandy: Good endpoint if you want ashton51Baby
+[2:10:42] Senoquese: bah
+[2:10:43] metaconstruct: same
+[2:10:48] InsaneLoke: thats the point of playing the game though
+[2:10:51] Paperguide: you're fine
+[2:10:51] JTBun: thats what youre supposed to do ash ysjkghsdjkghg
+[2:10:52] demon_dandy: I mean were excited to see you experience it LOL
+[2:10:54] InsaneLoke: you should talk about the game you are playing
+[2:10:58] DatBoiVLC: ashton51Baby entertaining abshton
+[2:11:05] InsaneLoke: you are doing the correct thing
+[2:11:06] Navy_Mongoose: end of act 2 iirc
+[2:11:06] InsaneLoke: lmao
+[2:11:07] DrHidaka: Look at the massive shock absorbers the whole facility is on lmao
+[2:11:12] T33bags: that’s not alllll you do, you also whimper
+[2:11:12] niertlwal: yeah norad
+[2:11:20] metaconstruct: looool
+[2:11:24] wavesinereverse: yeah stargate command
+[2:11:27] katsuragi_kakeruvt: I think if you're not talking about the game you're playing the stream will be crazy haha
+[2:11:30] Senoquese: ashton51Tehe
+[2:11:33] niertlwal: @wavesinereverse that's NORAD
+[2:11:38] demon_dandy: LOL
+[2:11:47] AndrickDaBear: I never realized the goo pipes are connected to new aperture now
+[2:11:47] InsaneLoke: itchy
+[2:11:51] demon_dandy: Dont worry about em ashton51Tehe
+[2:11:52] JTBun: sleep
+[2:11:52] wavesinereverse: ashton51Tehe
+[2:11:54] katsuragi_kakeruvt: STOP STOP STOP
+[2:11:54] DatBoiVLC: CHAPTER 8: theres a cream for that
+[2:11:54] Navy_Mongoose: the comanion cube hates you now
+[2:11:57] JTBun: SLEEP
+[2:11:57] InsaneLoke: good time to leave off
+[2:11:58] katsuragi_kakeruvt: DAME DESU
+[2:11:58] AndrickDaBear: Welcome home :)
+[2:11:58] apotato7576: I want a gun with a ptoato on it that talks to me
+[2:12:00] rikkaonline: stop
+[2:12:14] T33bags: you should take a chomp out of glados’ head
+[2:12:15] horribleham: lololol
+[2:12:16] Paperguide: we aint makin it out of the basement with this one pitcrew
+[2:12:20] metaconstruct: ashton51Clap ashton51Clap ashton51Clap
+[2:12:21] horribleham: you know she wanna play more
+[2:12:24] Senoquese: im not sleeping tonight again ashton51Despair yay
+[2:12:26] horribleham: Thank you for the stream
+[2:12:29] TheAsterite: ashton51Clap ashton51Clap ashton51Clap
+[2:12:32] rikkaonline: potatoes are fine raw
+[2:12:36] JTBun: @Senoquese ...
+[2:12:42] horribleham: I need to go to sleep stat so byeeeeee! Thank you ashton!
+[2:12:50] Navy_Mongoose: no, the potato plant is poisonous, the potato itself is fine
+[2:12:54] Senoquese: @JTBun hey dont look at me
+[2:12:55] demon_dandy: yummy raw potato ashton51Stare
+[2:12:58] DingusMcBaseball: Clap
+[2:13:02] apotato7576: they're fine so long as they don't have roots
+[2:13:03] JTBun: @Senoquese silly
+[2:13:03] demon_dandy: nini ham ashton51Wave
+[2:13:04] katsuragi_kakeruvt: eating 15 raw potatoes challenge
+[2:13:07] GManx0: Why would you eat more than one potato like that
+[2:13:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[2:13:17] AndrickDaBear: I like to leave potatoes out so they get those cool arms and then eat those
+[2:13:21] metaconstruct: peanut water
+[2:13:23] DatBoiVLC: @GManx0 ireland
+[2:13:29] InsaneLoke: gumdum
+[2:13:30] Navy_Mongoose: also my dog looks at potatoes like "wtf is this bullshit?", he's not getting poisoned by them
+[2:13:31] mrp0p1nfr3sh: ashton51Pop
+[2:13:40] InsaneLoke: the sprouts are poisonous dont do that
+[2:13:44] AndrickDaBear: I am lying, I don't think you should do that
+[2:13:47] mrp0p1nfr3sh: YUP!
+[2:13:49] demon_dandy: da grunyun
+[2:13:52] DatBoiVLC: om classic
+[2:13:56] metaconstruct: i domt know probaly
+[2:13:57] Senoquese: love the game ash but if you play tomorrow i might collapse out of fatigue
+[2:13:57] mrp0p1nfr3sh: Has different flavors
+[2:14:02] InsaneLoke: you just shouldnt risk it LOL
+[2:14:04] DatBoiVLC: why dont u cut ur own fugu?
+[2:14:10] wavesinereverse: green onion bulb is fine
+[2:14:13] demon_dandy: bgm ashton51Baby
+[2:14:13] Navy_Mongoose: idk,I just eat em
+[2:14:15] AndrickDaBear: You are on another level with potato knowledge Ashton, my joke is backfiring
+[2:14:19] katsuragi_kakeruvt: you mean it looks so chilla? not bear right??
+[2:14:21] mrp0p1nfr3sh: i use the green part for going fresh on food and the white part i use for cooking.
+[2:14:23] DatBoiVLC: chilla blink
+[2:14:25] wavesinereverse: potato sprouts sound kind of sketchy
+[2:14:26] GManx0: Such a Zoomer
+[2:14:29] metaconstruct: gerdnight
+[2:14:29] Paperguide: as opposed to normally? tehepero
+[2:14:34] 0NIB0: thanks for stream!
+[2:14:39] demon_dandy: smart chilla ashton51Bum
+[2:14:42] wavesinereverse: teaowlNoted teaowlNoted
+[2:14:53] AndrickDaBear: a true racer
+[2:15:01] T33bags: Mexican people grill full green onions slathered in oil and chomp on them so I imagine it’s fine
+[2:15:19] demon_dandy: Im havin lots of fun watchin you go ooo and aaa at portal ashton51Baby
+[2:15:36] Senoquese: !raidpitcrew
+[2:15:36] StreamElements: ZOOMING IN 🐭💨💨💨💨 ASHTON RAID 💖💜ZOOMING IN 🐭💨💨💨💨 ASHTON RAID 💖💜ZOOMING IN 🐭💨💨💨💨 ASHTON RAID 💖💜ZOOMING IN 🐭💨💨💨💨 ASHTON RAID 💖💜
+[2:15:38] Senoquese: !raidsponsor
+[2:15:39] StreamElements: ZOOMING IN ashton51Baby 💨💨💨💨 ASHTON RAID 💖💜ZOOMING IN ashton51Baby 💨💨💨💨 ASHTON RAID 💖💜ZOOMING IN ashton51Baby 💨💨💨💨 ASHTON RAID 💖💜ZOOMING IN ashton51Baby 💨💨💨💨 ASHTON RAID 💖💜
+[2:15:49] demon_dandy: ashton51Wave ashton51Wave ashton51Wave
+[2:15:50] 0NIB0: byeee
+[2:16:03] Navy_Mongoose: byeee
+[2:16:06] Senoquese: prob either vulkan or the novid
+[2:16:09] mrp0p1nfr3sh: ashton51Despair
+[2:16:16] mrp0p1nfr3sh: yeah its vulkan
+[2:16:17] metaconstruct: yea
+[2:16:21] DatBoiVLC: byeee
+[2:16:22] demon_dandy: skippin that valve intro ashton51Tehe
+[2:16:23] Senoquese: no
+[2:16:32] Senoquese: could be either
+[2:16:38] Senoquese: but ur welcome ashton51Stare
+[2:16:43] demon_dandy: ashton51Wave ashton51Wave ashton51Wave
+[2:16:51] metaconstruct: no this has probably been broken for 10 years lol
+[2:17:07] Senoquese: i forgive you :)
+[2:17:09] demon_dandy: The last two chapters can be a good amount ashton51Baby
+[2:17:11] DatBoiVLC: didn't bully me enough imo
+[2:17:11] mrp0p1nfr3sh: She puzzle coded
+[2:17:13] DatBoiVLC: ashton51Angy
+[2:17:14] metaconstruct: orbular
+[2:17:27] mrp0p1nfr3sh: Thankie for stream!
+[2:17:27] yojamjam: byeee
+[2:17:35] justchiken: byeee
+[2:17:39] mrp0p1nfr3sh: ALSO good things happened today for soreyu
+[2:17:39] katsuragi_kakeruvt: yaoi binges....
+[2:17:40] laser3365: gn and thanks for the stream.
+[2:17:43] TheAsterite: byeee
+[2:17:46] JTBun: byeee
+[2:17:49] metaconstruct: goodnite boss ashton51Wave
+[2:17:50] demon_dandy: thanks for the stream ashi ashton51Wave ashton51Wave
+[2:17:51] NightHawk_the_Chilla: ashton51Wave
+[2:17:56] Senoquese: byeee
+[2:18:12] Navy_Mongoose: rrat?
+[2:18:13] unravenan: bye!
+[2:18:15] demon_dandy: !raidsponsor
+[2:18:16] StreamElements: ZOOMING IN ashton51Baby 💨💨💨💨 ASHTON RAID 💖💜ZOOMING IN ashton51Baby 💨💨💨💨 ASHTON RAID 💖💜ZOOMING IN ashton51Baby 💨💨💨💨 ASHTON RAID 💖💜ZOOMING IN ashton51Baby 💨💨💨💨 ASHTON RAID 💖💜
+[2:18:16] StreamElements: I have my own flavor of AdvancedGG Energy available for purchase through July right now!!! Get your tub of Race Queen Ramune and don't forget your Ashton Marten shaker for a crisp refreshing summer with me! 🥤  https://advanced.gg/pages/partner-ashton-marten?ref=ashton
+[2:18:16] Paperguide: OMG RAT
+[2:18:20] demon_dandy: !raidpitcrew
+[2:18:20] StreamElements: ZOOMING IN 🐭💨💨💨💨 ASHTON RAID 💖💜ZOOMING IN 🐭💨💨💨💨 ASHTON RAID 💖💜ZOOMING IN 🐭💨💨💨💨 ASHTON RAID 💖💜ZOOMING IN 🐭💨💨💨💨 ASHTON RAID 💖💜
+[2:18:31] Paperguide: ZOOMING IN ashton51Baby 💨💨💨💨 ASHTON RAID 💖💜ZOOMING IN ashton51Baby 💨💨💨💨 ASHTON RAID 💖💜ZOOMING IN ashton51Baby 💨💨💨💨 ASHTON RAID 💖💜ZOOMING IN ashton51Baby 💨💨💨💨 ASHTON RAID 💖💜
+[2:18:31] demon_dandy: !discord
+[2:18:31] StreamElements: take a rest, have a bowl of lugnuts and motor oil, and more in the paddock! https://discord.gg/pitcrewpaddock
+[2:18:39] Senoquese: oh... i wanted to ask that
+[2:18:41] InsaneLoke: goodnight lady
+[2:18:42] mrp0p1nfr3sh: DUBOIS if you will
+[2:18:57] Paperguide: dead dove do not eat
+[2:19:01] InsaneLoke: its so awesome to go ew every thurday
+[2:19:10] Paperguide: ZOOMING IN ashton51Baby 💨💨💨💨 ASHTON RAID 💖💜ZOOMING IN ashton51Baby 💨💨💨💨 ASHTON RAID 💖💜ZOOMING IN ashton51Baby 💨💨💨💨 ASHTON RAID 💖💜ZOOMING IN ashton51Baby 💨💨💨💨 ASHTON RAID 💖💜
+[2:19:13] DatBoiVLC: @Paperguide ashton51Despair I don't know what I expected...
+[2:19:16] StreamElements: Get your scrungly Ashton Plushten before they're gone! https://studionekomata.com/collections/ashton-marten
+[2:19:19] demon_dandy: That spider dude ashton51Despair
+[2:19:23] yojamjam: !socials
+[2:19:23] StreamElements: Check out my website which has links to all my socials! https://vtuber.racing/
+[2:19:24] Senoquese: bye bye
+[2:19:25] demon_dandy: nini ashton51Wave ashton51Wave
+[2:19:26] mrp0p1nfr3sh: get a sub then you can use emojis with abandon
+[2:19:29] katsuragi_kakeruvt: bai bai!
+[2:19:30] mrp0p1nfr3sh: and disreguard
