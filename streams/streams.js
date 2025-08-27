@@ -1,4 +1,3 @@
-<script>
 var streams =   [{
         game: 'Myst',
         boxart: 'games/myst.jpg',
