@@ -305,25 +305,10 @@ var streams =   [{
                 },
         ]
 },{
-        game: 'Jet Set Radio',
-        boxart: 'games/jetsetradio.jpg',
+        game: 'Jet Set Radio Future',
+        boxart: 'games/jetsetradiofuture.jpg',
         vids:
                 [{
-                        link: 'LesHtvOCChk',
-                        date: '2022-08-17'
-                },{
-                        link: 'CyccqaJ6ZxE',
-                        date: '2022-08-26'
-                },{
-                        link: 'bDCdGuYS-ws',
-                        date: '2024-05-08'
-                },{
-                        link: 'i-kJAFuNhVU',
-                        date: '2024-05-23'
-                },{
-                        link: 'SKYrPaldUNw',
-                        date: '2024-06-14'
-                },{
                         link: 'ww6mf6-qxIQ',
                         date: '2024-08-03'
                 },{
@@ -497,8 +482,8 @@ var streams =   [{
                 },
         ]
 },{
-        game: 'CollabwgrimmiVT',
-        boxart: 'games/collabwgrimmivt.jpg',
+        game: 'Mirrors Edge',
+        boxart: 'games/mirrorsedge.jpg',
         vids:
                 [{
                         link: 'YXe2XvD-s0k',
@@ -668,6 +653,27 @@ var streams =   [{
                 },
         ]
 },{
+        game: 'Jet Set Radio',
+        boxart: 'games/jetsetradio.jpg',
+        vids:
+                [{
+                        link: 'LesHtvOCChk',
+                        date: '2022-08-17'
+                },{
+                        link: 'CyccqaJ6ZxE',
+                        date: '2022-08-26'
+                },{
+                        link: 'bDCdGuYS-ws',
+                        date: '2024-05-08'
+                },{
+                        link: 'i-kJAFuNhVU',
+                        date: '2024-05-23'
+                },{
+                        link: 'SKYrPaldUNw',
+                        date: '2024-06-14'
+                },
+        ]
+},{
         game: 'Super Mario RPG',
         boxart: 'games/supermariorpg.jpg',
         vids:
@@ -765,6 +771,9 @@ var streams =   [{
         boxart: 'games/racinglagoon.jpg',
         vids:
                 [{
+                        link: 'oTwQs0nIKmg',
+                        date: '2024-03-23'
+                },{
                         link: 'OVJ5Pcbh2cc',
                         date: '2024-06-21'
                 },
@@ -845,15 +854,6 @@ var streams =   [{
                 },{
                         link: 'NsEkYzZ9trA',
                         date: '2024-02-10'
-                },
-        ]
-},{
-        game: 'Racing Lagoon',
-        boxart: 'games/racing lagoon.jpg',
-        vids:
-                [{
-                        link: 'oTwQs0nIKmg',
-                        date: '2024-03-23'
                 },
         ]
 },{
