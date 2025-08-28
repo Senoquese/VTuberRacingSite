@@ -1,0 +1,33 @@
+var streamtags = [{
+	completed:[
+		"DiddyKongRacing",
+		"Titanfall2",
+		"HamtaroHamHamsUnite",
+		"HamtaroHamHamHeartbreak",
+		"OMORI",
+		"TheMortuaryAssistant",
+		"Insaniquarium",
+		"LostinVivo",
+		"SpaceChannel5",
+		"BombRushCyberfunk",
+		"SuperMario64",
+		"SuperMarioRPG",
+		"BanjoKazooie",
+		"HalfLife",
+		"HalfLife2",
+		"HalfLife2EpisodeOne",
+		"HalfLife2EpisodeTwo",
+		"ZapperOneWickedCricket",
+		"NightmareKart",
+		"JetSetRadio",
+		"Megamanii",
+		"MirrorsEdge",
+		"Portal",
+		"Portal2",
+		"ResidentEvil1hd",
+		"ResidentEvil2",
+		"MetalGearSolid",
+		"MetalGearSolid2",
+		"JetSetRadioFuture"
+	]
+}]
