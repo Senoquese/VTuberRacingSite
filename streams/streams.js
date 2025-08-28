@@ -500,12 +500,15 @@ var streams =   [{
                 },
         ]
 },{
-        game: 'Portal',
-        boxart: 'games/portal.jpg',
+        game: 'VRChat',
+        boxart: 'games/vrchat.jpg',
         vids:
                 [{
-                        link: 'rrxg9evbfuQ',
-                        date: '2024-07-02'
+                        link: 'vjVrAYVwWlU',
+                        date: '2023-12-29'
+                },{
+                        link: 'IkBgG612rOA',
+                        date: '2024-06-29'
                 },{
                         link: 'Z-88JGpKeXE',
                         date: '2024-08-18'
@@ -575,6 +578,15 @@ var streams =   [{
                 [{
                         link: 'N31Q4n2fyCA',
                         date: '2024-08-29'
+                },
+        ]
+},{
+        game: 'Portal',
+        boxart: 'games/portal.jpg',
+        vids:
+                [{
+                        link: 'rrxg9evbfuQ',
+                        date: '2024-07-02'
                 },
         ]
 },{
@@ -776,18 +788,6 @@ var streams =   [{
                 },{
                         link: 'OVJ5Pcbh2cc',
                         date: '2024-06-21'
-                },
-        ]
-},{
-        game: 'VRChat',
-        boxart: 'games/vrchat.jpg',
-        vids:
-                [{
-                        link: 'vjVrAYVwWlU',
-                        date: '2023-12-29'
-                },{
-                        link: 'IkBgG612rOA',
-                        date: '2024-06-29'
                 },
         ]
 },{
