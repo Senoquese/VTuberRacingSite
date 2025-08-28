@@ -1,4 +1,4 @@
-var streamtags = [{
+var streamtags = {
 	completed:[
 		"DiddyKongRacing",
 		"Titanfall2",
@@ -30,4 +30,4 @@ var streamtags = [{
 		"MetalGearSolid2",
 		"JetSetRadioFuture"
 	]
-}]
+}
