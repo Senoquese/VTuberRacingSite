@@ -217,6 +217,7 @@ function playVideo(videoIndex, temp) {
 		playVideo(getVideoIndex("Default"), false);
 		return;
 	}
+
 	if (window.shouldHideHeader) {
 		var videoElement = $("#landingpage video").first()
 		if (videoElement.attr("src") != landingVideos[videoIndex].videofile) {
@@ -231,6 +232,13 @@ function playVideo(videoIndex, temp) {
 	}
 }
 
+function togglePerformanceMode() {
+	if (!localStorage.getItem("videoPerformanceMode") || localStorage.getItem("videoPerformanceMode") == 0) {
+		localStorage.setItem("videoPerformanceMode",1)
+	} else {
+		localStorage.setItem("videoPerformanceMode",0)
+	}
+}
 
 $(function(){
 	if (!localStorage.getItem("trophies")) {
@@ -243,6 +251,12 @@ $(function(){
 		}
 	} else {
 		updateTrophies()
+	}
+
+	if (localStorage.getItem("videoPerformanceMode") == 1) {
+		$("#fgimage").remove()
+		$("#bgimage").remove()
+		$("#flagvideonew").remove()
 	}
 
 	if (localStorage.getItem("ticketNutcrackerNumber") > 0) {
