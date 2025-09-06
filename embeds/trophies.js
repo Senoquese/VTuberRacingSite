@@ -254,6 +254,10 @@ $(function(){
 	}
 
 	if (localStorage.getItem("videoPerformanceMode") == 1) {
+		$("#landingpage").css("mask", "")
+		$("#landingpage video").css("mask", "")
+		$("#fullscreenOverlay").css("backdrop-filter","none")
+
 		$("#fgimage").remove()
 		$("#bgimage").remove()
 		$("#flagvideonew").remove()
