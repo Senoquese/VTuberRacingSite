@@ -1,3 +1,5 @@
+const defaultVideo = "Pit Crew Plushie"
+
 var landingVideos = [
 	{	name: "Default",
 		videofile: "assets/videos/landingpage.mp4",
@@ -230,7 +232,7 @@ function getTrophyIndex(trophyName) { return trophies.findIndex((trophyTable) =>
 
 function playVideo(videoIndex, temp) {
 	if (landingVideos[videoIndex].visible == false) {
-		playVideo(getVideoIndex("Pit Crew Plushie"), false);
+		playVideo(getVideoIndex(defaultVideo), false);
 		return;
 	}
 
@@ -305,14 +307,14 @@ document.onkeydown = resetTimer;
 document.addEventListener('scroll', resetTimer, true);
 
 function tryToIdle() {
-	if (document.body.contains(document.getElementById("home-section")) && landingVideos[localStorage.getItem("equippedVideo")].name == "Default") {
+	if (document.body.contains(document.getElementById("home-section")) && landingVideos[localStorage.getItem("equippedVideo")].name == defaultVideo) {
 		giveTrophy(getTrophyIndex("Idol Meeting"))
 		playVideo(getVideoIndex("BRB - Pitcrew Race"), true)
 	}
 }
 
 function resetTimer() {
-	if (document.body.contains(document.getElementById("home-section")) && landingVideos[localStorage.getItem("equippedVideo")].name == "Default") {
+	if (document.body.contains(document.getElementById("home-section")) && landingVideos[localStorage.getItem("equippedVideo")].name == defaultVideo) {
 		clearTimeout(time);
 		time = setTimeout(tryToIdle, 40000)
 	}
