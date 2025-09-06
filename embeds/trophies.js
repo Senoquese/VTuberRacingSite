@@ -6,56 +6,56 @@ var landingVideos = [
 		height: "115%",
 		visible: true
 	},{	name: "Starting Soon - Debut",
-		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/1st%20starting%20soon.mp4",
-		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/1st%20starting%20soon.jpg",
+		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/streams/landingpage/1st%20starting%20soon.mp4",
+		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/streams/landingpage/1st%20starting%20soon.jpg",
 		position: "center left",
 		height: "100%",
 		visible: false
 	},{	name: "Starting Soon - Garage",
-		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/starting%20soon.mp4",
-		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/starting%20soon.jpg",
+		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/streams/landingpage/starting%20soon.mp4",
+		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/streams/landingpage/starting%20soon.jpg",
 		position: "center left",
 		height: "100%",
 		visible: false
 	},{	name: "BRB - PS1",
-		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/brb%20ps1.mp4",
-		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/brb%20ps1.jpg",
+		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/streams/landingpage/brb%20ps1.mp4",
+		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/streams/landingpage/brb%20ps1.jpg",
 		position: "center left",
 		height: "100%",
 		visible: false
 	},{	name: "BRB - Pitcrew Race",
-		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/brb.mp4",
-		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/brb.jpg",
+		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/streams/landingpage/brb.mp4",
+		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/streams/landingpage/brb.jpg",
 		position: "center left",
 		height: "100%",
 		visible: false
 	},{	name: "We Need Cash",
-		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/we%20need%20cash.mp4",
-		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/we%20need%20cash.jpg",
+		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/streams/landingpage/we%20need%20cash.mp4",
+		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/streams/landingpage/we%20need%20cash.jpg",
 		position: "center center",
 		height: "100%",
 		visible: false
 	},{	name: "Glory",
-		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/glory.mp4",
-		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/glory.jpg",
+		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/streams/landingpage/glory.mp4",
+		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/streams/landingpage/glory.jpg",
 		position: "center left",
 		height: "100%",
 		visible: true
 	},{	name: "Warm Winter",
-		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/warm%20winter.mp4",
-		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/warm%20winter.jpg",
+		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/streams/landingpage/warm%20winter.mp4",
+		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/streams/landingpage/warm%20winter.jpg",
 		position: "center left",
 		height: "100%",
 		visible: true
 	},{	name: "Space Cadet",
-		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/spacecadet.mp4",
-		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/spacecadet.jpg",
+		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/streams/landingpage/spacecadet.mp4",
+		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/streams/landingpage/spacecadet.jpg",
 		position: "center left",
 		height: "100%",
 		visible: true
 	},{	name: "Nutcracker",
-		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/nutcracker.mp4",
-		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/nutcracker.jpg",
+		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/streams/landingpage/nutcracker.mp4",
+		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/streams/landingpage/nutcracker.jpg",
 		position: "center left",
 		height: "100%",
 		visible: false
@@ -168,7 +168,7 @@ function updateTrophiesMenu() {
 			if (!trophies[i].unlocked) {
 				var newTrophy = videosList.children[0].cloneNode(true);
 				trophiesList.appendChild(newTrophy);
-				newTrophy.children[0].children[0].children[0].src = "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/lock.jpg"
+				newTrophy.children[0].children[0].children[0].src = "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/streams/landingpage/lock.jpg"
 				newTrophy.children[1].children[0].innerHTML = trophies[i].name
 			}
 		}
@@ -176,7 +176,7 @@ function updateTrophiesMenu() {
 }
 
 $(function() {
-	$("#trophyNotificationImage img")[0].src = "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/AshtonSpinFast.gif"
+	$("#trophyNotificationImage img")[0].src = "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/streams/landingpage/AshtonSpinFast.gif"
 	$("#trophyNotification").hide();
 	$("#trophyNotification").css('opacity','0');
 	$("#trophyNotification").css('pointer-events','none');
