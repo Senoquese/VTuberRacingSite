@@ -156,6 +156,10 @@ function updateTrophiesMenu() {
 		}
 
 		var trophiesList = $("#trophiesLocked")[0].children[0].children[0]
+		if (trophiesList.children.length == 0) {
+			$("#trophiesLockedDivider").remove()
+		} 
+
 		for (let i = trophiesList.children.length; i > 0; i--) {
 			trophiesList.children[i-1].remove();
 		}
