@@ -59,6 +59,12 @@ var landingVideos = [
 		position: "center left",
 		height: "100%",
 		visible: false
+	},{	name: "Virtual Vacation 2025",
+		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/streams/landingpage/vv25.mp4",
+		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/streams/landingpage/vv25.jpg",
+		position: "center left",
+		height: "100%",
+		visible: true
 	}
 ];
 
