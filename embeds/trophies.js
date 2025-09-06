@@ -65,6 +65,12 @@ var landingVideos = [
 		position: "bottom left",
 		height: "100%",
 		visible: true
+	},{	name: "Pit Crew Plushie",
+		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/streams/landingpage/chillaplushiespin.mp4",
+		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/streams/landingpage/chillaplushiespin.jpg",
+		position: "bottom left",
+		height: "100%",
+		visible: true
 	}
 ];
 
@@ -224,7 +230,7 @@ function getTrophyIndex(trophyName) { return trophies.findIndex((trophyTable) =>
 
 function playVideo(videoIndex, temp) {
 	if (landingVideos[videoIndex].visible == false) {
-		playVideo(getVideoIndex("Default"), false);
+		playVideo(getVideoIndex("Pit Crew Plushie"), false);
 		return;
 	}
 
