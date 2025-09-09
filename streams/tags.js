@@ -56,7 +56,8 @@ var streamtags = {
 		"MegamanLegends",
 		"AutoModellista",
 		"KlonoaDoorToPhantomile",
-		"RuneFactory"
+		"RuneFactory",
+		"PokemonEmerald"
 	],
 	redeemsdone: [
 		"StarFox64",

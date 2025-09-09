@@ -149,6 +149,12 @@ var streams =   [{
                 [
         ]
 },{
+        game: 'Pokemon Emerald',
+        boxart: 'games/pokemonemerald.jpg',
+        vids:
+                [
+        ]
+},{
         game: 'Myst',
         boxart: 'games/myst.jpg',
         vids:
