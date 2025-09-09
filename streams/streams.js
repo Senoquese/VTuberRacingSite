@@ -71,8 +71,8 @@ var streams =   [{
                 [
         ]
 },{
-        game: 'Nightrunner',
-        boxart: 'games/nightrunner.jpg',
+        game: 'Nightrunners',
+        boxart: 'games/nightrunners.jpg',
         vids:
                 [
         ]

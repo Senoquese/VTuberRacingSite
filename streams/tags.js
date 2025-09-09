@@ -44,7 +44,7 @@ var streamtags = {
 		"SmugglersRun",
 		"ShadowOfTheColossus",
 		"SonicRiders",
-		"Nightrunner",
+		"Nightrunners",
 		"DeepRockGalactic",
 		"Mother3",
 		"BigCatchTackleBox",
