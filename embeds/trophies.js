@@ -1,4 +1,4 @@
-const defaultVideo = "Pit Crew Plushie"
+const defaultVideo = "Default"
 
 var landingVideos = [
 	{	name: "Default",
