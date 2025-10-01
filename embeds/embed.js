@@ -28,7 +28,7 @@ const overlays = document.createElement('div');
 fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/overlays.html")
 	.then(response => response.text())
 	.then(data => overlays.innerHTML = data)
-$(main)[0].appendChild(overlays);
+$(".site-main")[0].appendChild(overlays);
 
 const gitstyle = document.createElement('gitstyle');
 fetch("https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/embeds/headerstyles.html")
