@@ -101,7 +101,7 @@ if (window.shouldHideHeader) {
 	$("#fullscreenOverlay").css('position','fixed');
 	$("#fullscreenOverlay").css('inset','0px');
 	$("#fullscreenOverlay").css('z-index','199');
-	$("#main")[0].appendChild($("#fullscreenOverlay")[0]);
+	$(".site-main")[0].appendChild($("#fullscreenOverlay")[0]);
 	$("#fullscreenOverlay")[0].children[0].appendChild($("#trophiesOverlay")[0]);
 }
 
@@ -197,7 +197,7 @@ $(function() {
 	$("#trophyNotification").css('position','fixed');
 	$("#trophyNotification").css('inset','0px');
 	$("#trophyNotification").css('z-index','199');
-	$("#main")[0].appendChild($("#trophyNotification")[0]);
+	$(".site-main")[0].appendChild($("#trophyNotification")[0]);
 })
 
 var timeTrophy;
