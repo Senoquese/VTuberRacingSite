@@ -57,7 +57,9 @@ var streamtags = {
 		"AutoModellista",
 		"KlonoaDoorToPhantomile",
 		"RuneFactory",
-		"PokemonEmerald"
+		"PokemonEmerald",
+		"TinyToonAdventuresBustersHiddenTreasure",
+		"HaloCE"
 	],
 	redeemsdone: [
 		"StarFox64",
