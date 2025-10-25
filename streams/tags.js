@@ -26,6 +26,7 @@ var streamtags = {
 		"Portal2",
 		"ResidentEvil1hd",
 		"ResidentEvil2",
+		"ResidentEvil3",
 		"MetalGearSolid",
 		"MetalGearSolid2",
 		"JetSetRadioFuture",
