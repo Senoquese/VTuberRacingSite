@@ -5,15 +5,6 @@ var streams =	[{
 		[
 	]
 },{
-	game: 'Left 4 Dead 2',
-	boxart: 'games/left4dead2.jpg',
-	vids:
-		[{
-			link: 'KhEBMKeqmmg',
-			date: '2025-11-01'
-		},
-	]
-},{
 	game: 'Yakuza: Like A Dragon',
 	boxart: 'games/yakuzalikeadragon.jpg',
 	vids:
@@ -392,6 +383,15 @@ var streams =	[{
 		},{
 			link: 'EpasrR_9zZ0',
 			date: '2025-11-10'
+		},
+	]
+},{
+	game: 'Left 4 Dead 2',
+	boxart: 'games/left4dead2.jpg',
+	vids:
+		[{
+			link: 'KhEBMKeqmmg',
+			date: '2025-11-01'
 		},
 	]
 },{
