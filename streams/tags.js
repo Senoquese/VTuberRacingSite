@@ -34,7 +34,6 @@ var streamtags = {
 	],
 	redeems: [
 		"Vividlope",
-		"Left4Dead2",
 		"YakuzaLikeADragon",
 		"GoemonsGreatAdventure",
 		"JediFallenOrder",
@@ -64,6 +63,7 @@ var streamtags = {
 	],
 	redeemsdone: [
 		"StarFox64",
+		"Left4Dead2",
 		"MegamanII",
 		"AlanWake",
 		"KatamariDamacy",

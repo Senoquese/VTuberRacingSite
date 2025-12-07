@@ -1,4 +1,4 @@
-var streams =   [{
+var streams =	[{
 	game: 'Vividlope',
 	boxart: 'games/vividlope.jpg',
 	vids:
@@ -8,7 +8,10 @@ var streams =   [{
 	game: 'Left 4 Dead 2',
 	boxart: 'games/left4dead2.jpg',
 	vids:
-		[
+		[{
+			link: 'KhEBMKeqmmg',
+			date: '2025-11-01'
+		},
 	]
 },{
 	game: 'Yakuza: Like A Dragon',
@@ -167,216 +170,42 @@ var streams =   [{
 		[
 	]
 },{
-	game: 'Roblox',
-	boxart: 'games/roblox.jpg',
+	game: 'ResidentEvil4',
+	boxart: 'games/residentevil4.jpg',
 	vids:
 		[{
-			link: 'I5A0kUarcbs',
-			date: '2023-11-18'
+			link: '21j0CcKFaWg',
+			date: '2025-10-31'
 		},{
-			link: 'htE-v90IydQ',
-			date: '2024-09-16'
+			link: '-pmXhPLjbYI',
+			date: '2025-11-06'
 		},{
-			link: 'YvR1GbWIruM',
-			date: '2025-10-24'
+			link: 'f4FsuXj-uSU',
+			date: '2025-11-07'
+		},{
+			link: 'z30sNt1Mp5s',
+			date: '2025-11-13'
+		},{
+			link: 'kiI6Om8cm-s',
+			date: '2025-11-21'
+		},{
+			link: 'tC93YrPW994',
+			date: '2025-12-05'
 		},
 	]
 },{
-	game: 'Bioshock',
-	boxart: 'games/bioshock.jpg',
+	game: 'SuperMarioSunshine',
+	boxart: 'games/supermariosunshine.jpg',
 	vids:
 		[{
-			link: 'J71GAbXyG_M',
-			date: '2025-09-25'
+			link: 'O8vKXeZzyfQ',
+			date: '2025-11-22'
 		},{
-			link: 'XxPdZX4qtLo',
-			date: '2025-10-16'
-		},
-	]
-},{
-	game: 'AmongUs',
-	boxart: 'games/amongus.jpg',
-	vids:
-		[{
-			date: '2025-07-21'
+			link: 'lzrWywOkvk0',
+			date: '2025-11-29'
 		},{
-			link: 'z1yv3pPeqVE',
-			date: '2025-07-28'
-		},{
-			link: 'jqlTRG5gLFU',
-			date: '2025-10-13'
-		},
-	]
-},{
-	game: 'Bloodborne',
-	boxart: 'games/bloodborne.jpg',
-	vids:
-		[{
-			date: '2024-12-08'
-		},{
-			link: 'Pn2Mq0Jsv2w',
-			date: '2025-01-19'
-		},{
-			link: '62usIHIt5Y8',
-			date: '2025-02-17'
-		},{
-			date: '2025-06-16'
-		},{
-			link: 'jfldUEZmkeM',
-			date: '2025-08-18'
-		},{
-			link: 'PXTwGAOL1MI',
-			date: '2025-10-13'
-		},
-	]
-},{
-	game: 'NoImNotAHuman',
-	boxart: 'games/noimnotahuman.jpg',
-	vids:
-		[{
-			link: 'wzLFxuWI5tg',
-			date: '2025-10-10'
-		},
-	]
-},{
-	game: 'StarFox64',
-	boxart: 'games/starfox64.jpg',
-	vids:
-		[{
-			link: 'kkcj8249KO8',
-			date: '2025-07-24'
-		},{
-			link: 'LsOINw4v-Sg',
-			date: '2025-10-09'
-		},
-	]
-},{
-	game: 'SonicRacingCrossworlds',
-	boxart: 'games/sonicracingcrossworlds.jpg',
-	vids:
-		[{
-			link: 'xVNlVuEmqtY',
-			date: '2025-08-30'
-		},{
-			link: '1c0qeIF6m5c',
-			date: '2025-10-04'
-		},
-	]
-},{
-	game: 'Metal Gear Solid 3',
-	boxart: 'games/mgs3.jpg',
-	vids:
-		[{
-			link: '5GVRG62oQSI',
-			date: '2025-08-29'
-		},{
-			link: 'kEkTyxNDeu4',
-			date: '2025-09-04'
-		},{
-			link: 'l_WIy4fn6Mw',
-			date: '2025-09-12'
-		},{
-			link: '2oqPGU2YqPE',
-			date: '2025-10-03'
-		},
-	]
-},{
-	game: 'RollerCoasterTycoon',
-	boxart: 'games/rollercoastertycoon.jpg',
-	vids:
-		[{
-			link: 'Y4ltFH0C_tc',
-			date: '2025-10-01'
-		},
-	]
-},{
-	game: 'Deadlock',
-	boxart: 'games/deadlock.jpg',
-	vids:
-		[{
-			link: '5jayvQQVzMg',
-			date: '2025-09-23'
-		},
-	]
-},{
-	game: 'MarioKartWorld',
-	boxart: 'games/mariokartworld.jpg',
-	vids:
-		[{
-			date: '2025-06-25'
-		},{
-			date: '2025-07-01'
-		},{
-			link: 'KMUL682LUqY',
-			date: '2025-09-21'
-		},
-	]
-},{
-	game: 'Deltarune',
-	boxart: 'games/deltarune.jpg',
-	vids:
-		[{
-			link: 'mD151nhbSwo',
-			date: '2025-06-06'
-		},{
-			link: 'nE8KF502d14',
-			date: '2025-09-03'
-		},{
-			link: 'oD4SS9wJUTI',
-			date: '2025-09-17'
-		},
-	]
-},{
-	game: 'Mahjong Soul',
-	boxart: 'games/mahjongsoul.jpg',
-	vids:
-		[{
-			link: 'xqOUPgS6aIk',
-			date: '2022-09-01'
-		},{
-			link: 'gYH54kmrAkU',
-			date: '2023-01-11'
-		},{
-			link: 'QCLOFW_8Kzs',
-			date: '2023-05-27'
-		},{
-			link: 'DExKsT2iM0E',
-			date: '2024-02-26'
-		},{
-			link: 'gM0214rmyno',
-			date: '2025-09-09'
-		},
-	]
-},{
-	game: 'Flash Games',
-	boxart: 'games/flashgames.jpg',
-	vids:
-		[{
-			link: 'zTC-3zJIf-Q',
-			date: '2024-03-16'
-		},{
-			link: 'jcyGh1nXTBQ',
-			date: '2024-10-26'
-		},{
-			link: 'jS9CmRcnlS8',
-			date: '2025-09-07'
-		},
-	]
-},{
-	game: 'Katamari Damacy',
-	boxart: 'games/katamaridamacy.jpg',
-	vids:
-		[{
-			link: '45l0AgYfETo',
-			date: '2023-03-25'
-		},{
-			date: '2025-08-16'
-		},{
-			link: 'wMgqa-bH-50',
-			date: '2025-08-21'
-		},{
-			link: 'tpm37to-Uj0',
-			date: '2025-08-26'
+			link: 'rzLEglzYgtg',
+			date: '2025-12-04'
 		},
 	]
 },{
@@ -496,6 +325,231 @@ var streams =   [{
 		},{
 			link: 'b6DOP36zvdE',
 			date: '2025-07-27'
+		},{
+			link: 'gFkEYL5ZaJY',
+			date: '2025-12-01'
+		},
+	]
+},{
+	game: 'Metal Gear Solid 3',
+	boxart: 'games/mgs3.jpg',
+	vids:
+		[{
+			link: '5GVRG62oQSI',
+			date: '2025-08-29'
+		},{
+			link: 'kEkTyxNDeu4',
+			date: '2025-09-04'
+		},{
+			link: 'l_WIy4fn6Mw',
+			date: '2025-09-12'
+		},{
+			link: '2oqPGU2YqPE',
+			date: '2025-10-03'
+		},{
+			link: 'RZ2SpQu--Q8',
+			date: '2025-11-18'
+		},
+	]
+},{
+	game: 'Deltarune',
+	boxart: 'games/deltarune.jpg',
+	vids:
+		[{
+			link: 'mD151nhbSwo',
+			date: '2025-06-06'
+		},{
+			link: 'nE8KF502d14',
+			date: '2025-09-03'
+		},{
+			link: 'oD4SS9wJUTI',
+			date: '2025-09-17'
+		},{
+			link: 'KA9PJDZP6_8',
+			date: '2025-11-15'
+		},
+	]
+},{
+	game: 'Bloodborne',
+	boxart: 'games/bloodborne.jpg',
+	vids:
+		[{
+			date: '2024-12-08'
+		},{
+			link: 'Pn2Mq0Jsv2w',
+			date: '2025-01-19'
+		},{
+			link: '62usIHIt5Y8',
+			date: '2025-02-17'
+		},{
+			date: '2025-06-16'
+		},{
+			link: 'jfldUEZmkeM',
+			date: '2025-08-18'
+		},{
+			link: 'PXTwGAOL1MI',
+			date: '2025-10-13'
+		},{
+			link: 'EpasrR_9zZ0',
+			date: '2025-11-10'
+		},
+	]
+},{
+	game: 'Roblox',
+	boxart: 'games/roblox.jpg',
+	vids:
+		[{
+			link: 'I5A0kUarcbs',
+			date: '2023-11-18'
+		},{
+			link: 'htE-v90IydQ',
+			date: '2024-09-16'
+		},{
+			link: 'YvR1GbWIruM',
+			date: '2025-10-24'
+		},
+	]
+},{
+	game: 'Bioshock',
+	boxart: 'games/bioshock.jpg',
+	vids:
+		[{
+			link: 'J71GAbXyG_M',
+			date: '2025-09-25'
+		},{
+			link: 'XxPdZX4qtLo',
+			date: '2025-10-16'
+		},
+	]
+},{
+	game: 'AmongUs',
+	boxart: 'games/amongus.jpg',
+	vids:
+		[{
+			date: '2025-07-21'
+		},{
+			link: 'z1yv3pPeqVE',
+			date: '2025-07-28'
+		},{
+			link: 'jqlTRG5gLFU',
+			date: '2025-10-13'
+		},
+	]
+},{
+	game: 'NoImNotAHuman',
+	boxart: 'games/noimnotahuman.jpg',
+	vids:
+		[{
+			link: 'wzLFxuWI5tg',
+			date: '2025-10-10'
+		},
+	]
+},{
+	game: 'StarFox64',
+	boxart: 'games/starfox64.jpg',
+	vids:
+		[{
+			link: 'kkcj8249KO8',
+			date: '2025-07-24'
+		},{
+			link: 'LsOINw4v-Sg',
+			date: '2025-10-09'
+		},
+	]
+},{
+	game: 'Sonic Racing Crossworlds',
+	boxart: 'games/sonicracingcrossworlds.jpg',
+	vids:
+		[{
+			link: 'xVNlVuEmqtY',
+			date: '2025-08-30'
+		},{
+			link: '1c0qeIF6m5c',
+			date: '2025-10-04'
+		},
+	]
+},{
+	game: 'RollerCoasterTycoon',
+	boxart: 'games/rollercoastertycoon.jpg',
+	vids:
+		[{
+			link: 'Y4ltFH0C_tc',
+			date: '2025-10-01'
+		},
+	]
+},{
+	game: 'Deadlock',
+	boxart: 'games/deadlock.jpg',
+	vids:
+		[{
+			link: '5jayvQQVzMg',
+			date: '2025-09-23'
+		},
+	]
+},{
+	game: 'MarioKartWorld',
+	boxart: 'games/mariokartworld.jpg',
+	vids:
+		[{
+			date: '2025-06-25'
+		},{
+			date: '2025-07-01'
+		},{
+			link: 'KMUL682LUqY',
+			date: '2025-09-21'
+		},
+	]
+},{
+	game: 'Mahjong Soul',
+	boxart: 'games/mahjongsoul.jpg',
+	vids:
+		[{
+			link: 'xqOUPgS6aIk',
+			date: '2022-09-01'
+		},{
+			link: 'gYH54kmrAkU',
+			date: '2023-01-11'
+		},{
+			link: 'QCLOFW_8Kzs',
+			date: '2023-05-27'
+		},{
+			link: 'DExKsT2iM0E',
+			date: '2024-02-26'
+		},{
+			link: 'gM0214rmyno',
+			date: '2025-09-09'
+		},
+	]
+},{
+	game: 'Flash Games',
+	boxart: 'games/flashgames.jpg',
+	vids:
+		[{
+			link: 'zTC-3zJIf-Q',
+			date: '2024-03-16'
+		},{
+			link: 'jcyGh1nXTBQ',
+			date: '2024-10-26'
+		},{
+			link: 'jS9CmRcnlS8',
+			date: '2025-09-07'
+		},
+	]
+},{
+	game: 'Katamari Damacy',
+	boxart: 'games/katamaridamacy.jpg',
+	vids:
+		[{
+			link: '45l0AgYfETo',
+			date: '2023-03-25'
+		},{
+			date: '2025-08-16'
+		},{
+			link: 'wMgqa-bH-50',
+			date: '2025-08-21'
+		},{
+			link: 'tpm37to-Uj0',
+			date: '2025-08-26'
 		},
 	]
 },{
