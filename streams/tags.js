@@ -32,6 +32,12 @@ var streamtags = {
 		"JetSetRadioFuture",
 		"KatamariDamacy"
 	],
+	ongoing: [
+		"SuperMarioSunshine",
+		"Riven",
+		"MetalGearSolid3",
+		"Bioshock"
+	],
 	redeems: [
 		"Vividlope",
 		"YakuzaLikeADragon",
