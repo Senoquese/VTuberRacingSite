@@ -67,7 +67,7 @@ var streamtags = {
 		"PokemonEmerald",
 		"TinyToonAdventuresBustersHiddenTreasure",
 		"HaloCombatEvolved",
-		"SuperMarioSunshine"
+		"SlimeRancher"
 	],
 	redeemsdone: [
 		"StarFox64",
