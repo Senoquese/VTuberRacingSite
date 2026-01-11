@@ -30,7 +30,8 @@ var streamtags = {
 		"MetalGearSolid",
 		"MetalGearSolid2",
 		"JetSetRadioFuture",
-		"KatamariDamacy"
+		"KatamariDamacy",
+		"SuperMarioSunshine"
 	],
 	ongoing: [
 		"SuperMarioSunshine",
@@ -65,7 +66,8 @@ var streamtags = {
 		"RuneFactory",
 		"PokemonEmerald",
 		"TinyToonAdventuresBustersHiddenTreasure",
-		"HaloCombatEvolved"
+		"HaloCombatEvolved",
+		"SuperMarioSunshine"
 	],
 	redeemsdone: [
 		"StarFox64",
