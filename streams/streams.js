@@ -558,6 +558,10 @@ var streams =	[{
 			title: 'its over pit crew i bet the track on the horse race testing. i have nothing to my name pit crew 【Post-Vacay Yap + Gaming?】',
 			date: '2025-04-29'
 		},{
+			link: '_VCQSV4_-r8',
+			title: 'IM IN A VTUBER CONCERT WITH DOOBY, NIMI, & HYUNI!!!! ✨Virtual Vacation 2025✨',
+			date: '2025-05-02'
+		},{
 			link: 'uUgm589OQHY',
 			title: 'coming to you live from a new location: ashton marten! 🐭💜💖 【Zatsu + ?】',
 			date: '2025-05-07'
@@ -1029,10 +1033,6 @@ var streams =	[{
 			link: '1CVPhuyx6HU',
 			title: 'THE FINAL KARAOKE (in my current rat nest) 【Karaoke】',
 			date: '2025-05-01'
-		},{
-			link: '_VCQSV4_-r8',
-			title: 'IM IN A VTUBER CONCERT WITH DOOBY, NIMI, & HYUNI!!!! ✨Virtual Vacation 2025✨',
-			date: '2025-05-02'
 		},{
 			link: 'UdV29qCBN80',
 			title: 'concert practice! 🎙🐭 【Karaoke Night】',
