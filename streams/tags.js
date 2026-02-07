@@ -31,12 +31,14 @@ var streamtags = {
 		"MetalGearSolid2",
 		"JetSetRadioFuture",
 		"KatamariDamacy",
-		"SuperMarioSunshine"
+		"SuperMarioSunshine",
+		"Pikmin1",
+		"Returnoftheobradinn",
+		"Riven",
+		"MetalGearSolid3"
 	],
 	ongoing: [
-		"SuperMarioSunshine",
-		"Riven",
-		"MetalGearSolid3",
+		"LittleKingsStory",
 		"Bioshock"
 	],
 	redeems: [
