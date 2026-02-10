@@ -689,6 +689,8 @@ var streams =	[{
 	boxart: 'games/amongus.jpg',
 	vids:
 		[{
+			date: '2025-07-21'
+		},{
 			link: 'z1yv3pPeqVE',
 			date: '2025-07-28'
 		},{
@@ -713,6 +715,8 @@ var streams =	[{
 			link: 'vG_urzi0dh8',
 			date: '2024-04-02'
 		},{
+			date: '2025-04-02'
+		},{
 			link: '2G5CkdA9u4Y',
 			date: '2025-12-29'
 		},
@@ -724,6 +728,8 @@ var streams =	[{
 		[{
 			link: 'DGoEhRPWcog',
 			date: '2022-08-27'
+		},{
+			date: '2022-11-24'
 		},{
 			link: '7hLLH4wzy7s',
 			date: '2022-12-10'
@@ -791,6 +797,8 @@ var streams =	[{
 			link: 'W7mk4CE1GVc',
 			date: '2023-09-25'
 		},{
+			date: '2023-10-09'
+		},{
 			link: 'Qg7FHl34qC8',
 			date: '2023-10-15'
 		},{
@@ -830,6 +838,8 @@ var streams =	[{
 			link: 'mbWDRd97M-4',
 			date: '2025-05-18'
 		},{
+			date: '2025-06-09'
+		},{
 			link: 'b6DOP36zvdE',
 			date: '2025-07-27'
 		},{
@@ -845,6 +855,10 @@ var streams =	[{
 	boxart: 'games/mariokartworld.jpg',
 	vids:
 		[{
+			date: '2025-06-25'
+		},{
+			date: '2025-07-01'
+		},{
 			link: 'KMUL682LUqY',
 			date: '2025-09-21'
 		},{
@@ -886,6 +900,8 @@ var streams =	[{
 		},{
 			link: '62usIHIt5Y8',
 			date: '2025-02-17'
+		},{
+			date: '2025-06-16'
 		},{
 			link: '7seJRucYp1c',
 			date: '2025-08-18'
@@ -1166,6 +1182,9 @@ var streams =	[{
 			link: '45l0AgYfETo',
 			date: '2023-03-25'
 		},{
+			link: 'THzpZJje1Zw',
+			date: '2025-08-16'
+		},{
 			link: 'wMgqa-bH-50',
 			date: '2025-08-21'
 		},{
@@ -1316,6 +1335,14 @@ var streams =	[{
 		[{
 			link: 'aaTESfRjWFo',
 			date: '2025-06-04'
+		},{
+			date: '2025-06-11'
+		},{
+			date: '2025-06-26'
+		},{
+			date: '2025-07-15'
+		},{
+			date: '2025-07-17'
 		},
 	]
 },{
@@ -1376,6 +1403,8 @@ var streams =	[{
 		},{
 			link: 'y5803W5r1CQ',
 			date: '2025-04-10'
+		},{
+			date: '2025-04-19'
 		},
 	]
 },{
@@ -1383,6 +1412,8 @@ var streams =	[{
 	boxart: 'games/residentevil2.jpg',
 	vids:
 		[{
+			date: '2025-02-25'
+		},{
 			link: 'TV-iDHC4ELw',
 			date: '2025-02-26'
 		},{
@@ -1488,11 +1519,15 @@ var streams =	[{
 			link: 'vVQJtxJFcEc',
 			date: '2025-01-15'
 		},{
+			date: '2025-01-17'
+		},{
 			link: 'nm6re9q9Pmk',
 			date: '2025-02-14'
 		},{
 			link: '3D2-bjTI24s',
 			date: '2025-02-19'
+		},{
+			date: '2025-07-12'
 		},
 	]
 },{
@@ -1753,6 +1788,8 @@ var streams =	[{
 	boxart: 'games/mirrorsedge.jpg',
 	vids:
 		[{
+			date: '2024-09-26'
+		},{
 			link: 'YXe2XvD-s0k',
 			date: '2024-10-04'
 		},
@@ -1857,6 +1894,10 @@ var streams =	[{
 		[{
 			link: 'T44lwEpvdPY',
 			date: '2024-06-18'
+		},{
+			date: '2025-03-01'
+		},{
+			date: '2025-04-22'
 		},
 	]
 },{
@@ -1993,6 +2034,8 @@ var streams =	[{
 	boxart: 'games/diddykongracing.jpg',
 	vids:
 		[{
+			date: '2022-06-30'
+		},{
 			link: 'f0CX7LW-Ak8',
 			date: '2022-07-14'
 		},{
@@ -2055,6 +2098,8 @@ var streams =	[{
 		},{
 			link: 'HBTiU0X2PDY',
 			date: '2024-01-29'
+		},{
+			date: '2024-02-05'
 		},
 	]
 },{
@@ -2314,8 +2359,12 @@ var streams =	[{
 			link: 'FZAOKkjbTKw',
 			date: '2022-07-29'
 		},{
+			date: '2022-08-05'
+		},{
 			link: 'AeGPgDlZ6G8',
 			date: '2022-09-23'
+		},{
+			date: '2022-10-14'
 		},{
 			link: 'szB99wGI9cU',
 			date: '2023-06-24'
@@ -2470,6 +2519,10 @@ var streams =	[{
 			link: '-G5PZH0MQIg',
 			date: '2022-10-16'
 		},{
+			date: '2022-12-11'
+		},{
+			date: '2022-12-14'
+		},{
 			link: 'xCuRF-HSJrs',
 			date: '2023-01-01'
 		},{
@@ -2491,6 +2544,8 @@ var streams =	[{
 	boxart: 'games/wewerehereforever.jpg',
 	vids:
 		[{
+			date: '2022-10-22'
+		},{
 			link: 'x3cXhGEocXw',
 			date: '2022-12-15'
 		},
@@ -2638,8 +2693,66 @@ var streams =	[{
 	boxart: 'games/poleposition.jpg',
 	vids:
 		[{
+			date: '2022-06-23'
+		},{
 			link: '_9sD7BRffRw',
 			date: '2022-07-02'
+		},
+	]
+},{
+	game: 'UmamusumePrettyDerby',
+	boxart: 'games/umamusumeprettyderby.jpg',
+	vids:
+		[{
+			date: '2025-06-28'
+		},
+	]
+},{
+	game: 'CrazyTaxi',
+	boxart: 'games/crazytaxi.jpg',
+	vids:
+		[{
+			date: '2025-05-31'
+		},
+	]
+},{
+	game: 'Elite Beat Agents',
+	boxart: 'games/elitebeatagents.jpg',
+	vids:
+		[{
+			date: '2025-04-16'
+		},
+	]
+},{
+	game: 'Are You Smarter than a 5th Grader?',
+	boxart: 'games/areyousmarterthana5thgrader.jpg',
+	vids:
+		[{
+			date: '2022-12-01'
+		},
+	]
+},{
+	game: 'Super Bunny Man',
+	boxart: 'games/superbunnyman.jpg',
+	vids:
+		[{
+			date: '2022-10-12'
+		},
+	]
+},{
+	game: 'Hotline Miami',
+	boxart: 'games/hotlinemiami.jpg',
+	vids:
+		[{
+			date: '2022-09-28'
+		},
+	]
+},{
+	game: 'HamsterzLife',
+	boxart: 'games/hamsterzlife.jpg',
+	vids:
+		[{
+			date: '2022-09-24'
 		},
 	]
 },]
