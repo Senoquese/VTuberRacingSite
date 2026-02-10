@@ -2756,4 +2756,4 @@ var streams =	[{
 		},
 	]
 },]
-module.exports = { streams }
+var module = module || {}; module.exports = { streams }
