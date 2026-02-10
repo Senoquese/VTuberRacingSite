@@ -77,18 +77,6 @@ var streams =	[{
 		[
 	]
 },{
-	game: 'Mother 3',
-	boxart: 'games/mother3.jpg',
-	vids:
-		[{
-			link: 'sy8djxIFEdo',
-			date: '2026-01-30'
-		},{
-			link: 'uqYL2ti_GMg',
-			date: '2026-02-02'
-		},
-	]
-},{
 	game: 'Big Catch Tackle Box',
 	boxart: 'games/bigcatchtacklebox.jpg',
 	vids:
@@ -209,6 +197,18 @@ var streams =	[{
 		},{
 			link: 'vJ0uvIG88Yo',
 			date: '2026-02-03'
+		},
+	]
+},{
+	game: 'Mother 3',
+	boxart: 'games/mother3.jpg',
+	vids:
+		[{
+			link: 'sy8djxIFEdo',
+			date: '2026-01-30'
+		},{
+			link: 'uqYL2ti_GMg',
+			date: '2026-02-02'
 		},
 	]
 },{
