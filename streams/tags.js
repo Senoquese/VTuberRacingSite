@@ -55,7 +55,6 @@ var streamtags = {
 		"SonicRiders",
 		"Nightrunners",
 		"DeepRockGalactic",
-		"Mother3",
 		"BigCatchTackleBox",
 		"Pikmin4",
 		"TetrisEffect",
@@ -92,6 +91,7 @@ var streamtags = {
 		"ResidentEvil1hd",
 		"SSXTricky",
 		"Bloodborne",
-		"Pepsiman"
+		"Pepsiman",
+		"Mother3"
 	]
 }
