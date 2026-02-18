@@ -39,7 +39,9 @@ var streamtags = {
 	],
 	ongoing: [
 		"LittleKingsStory",
-		"Bioshock"
+		"SilentHill",
+		"Mother3",
+		"Bioshock",
 	],
 	redeems: [
 		"Vividlope",

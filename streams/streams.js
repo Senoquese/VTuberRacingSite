@@ -161,6 +161,64 @@ var streams =	[{
 		[
 	]
 },{
+	game: 'Debut',
+	boxart: 'games/debut.jpg',
+	vids:
+		[{
+			link: 'pXS_OEXh9xw',
+			title: '【VTUBER】💜 Ashton Marten the Roller Rodent Race Queen Waves Her Flag 💖 【DEBUT STREAM ARCHIVE】',
+			date: '2022-06-19'
+		},{
+			link: 'nTiW-SEUCj8',
+			title: '【💖 3D DEBUT 💜】 ASHTON ROLLS INTO A NEW DIMENSION! 🐭💨 【 Ashton Marten VOD 】',
+			date: '2023-04-29'
+		},{
+			link: 'nbyAkXaWXw8',
+			title: '🌴 WARM WINTER 🛼 NEW 3D OUTFIT DEBUT ☀ NEW MERCH + COLLAB 🌊 ANNOUNCEMENT!',
+			date: '2023-12-17'
+		},{
+			link: 'KzIJ9XB7Oek',
+			title: '🩰 The Nutcracker 🩰 Presented by Ashton Marten (SEASON FINALE) 【 3D Outfit Debut 】',
+			date: '2024-12-29'
+		},{
+			link: 'IoL3XsRQ73w',
+			title: '【Gummy Debut】 noooo ive been turned into an adorable squishy gummy 🥺 please dont eat meeee 🥺🍭🍬🍫',
+			date: '2026-02-15'
+		},
+	]
+},{
+	game: 'Silent Hill 1',
+	boxart: 'games/silenthill.jpg',
+	vids:
+		[{
+			link: 'ltZIs-UHNx4',
+			date: '2026-02-13'
+		},
+	]
+},{
+	game: 'AmongUs',
+	boxart: 'games/amongus.jpg',
+	vids:
+		[{
+			date: '2025-07-21'
+		},{
+			link: 'z1yv3pPeqVE',
+			date: '2025-07-28'
+		},{
+			link: 'jqlTRG5gLFU',
+			date: '2025-10-13'
+		},{
+			link: 'Jmn7VntTMwA',
+			date: '2025-12-15'
+		},{
+			link: '2G5CkdA9u4Y',
+			date: '2025-12-29'
+		},{
+			link: 'Qg-5VuI1bxM',
+			date: '2026-02-10'
+		},
+	]
+},{
 	game: 'Little Kings Story',
 	boxart: 'games/littlekingsstory.jpg',
 	vids:
@@ -682,26 +740,6 @@ var streams =	[{
 		},{
 			link: '4nIf8-FYzug',
 			date: '2025-12-30'
-		},
-	]
-},{
-	game: 'AmongUs',
-	boxart: 'games/amongus.jpg',
-	vids:
-		[{
-			date: '2025-07-21'
-		},{
-			link: 'z1yv3pPeqVE',
-			date: '2025-07-28'
-		},{
-			link: 'jqlTRG5gLFU',
-			date: '2025-10-13'
-		},{
-			link: 'Jmn7VntTMwA',
-			date: '2025-12-15'
-		},{
-			link: '2G5CkdA9u4Y',
-			date: '2025-12-29'
 		},
 	]
 },{
@@ -1636,28 +1674,6 @@ var streams =	[{
 		},{
 			link: '2W3_NOPZcuw',
 			date: '2025-01-04'
-		},
-	]
-},{
-	game: 'Debut',
-	boxart: 'games/debut.jpg',
-	vids:
-		[{
-			link: 'pXS_OEXh9xw',
-			title: '【VTUBER】💜 Ashton Marten the Roller Rodent Race Queen Waves Her Flag 💖 【DEBUT STREAM ARCHIVE】',
-			date: '2022-06-19'
-		},{
-			link: 'nTiW-SEUCj8',
-			title: '【💖 3D DEBUT 💜】 ASHTON ROLLS INTO A NEW DIMENSION! 🐭💨 【 Ashton Marten VOD 】',
-			date: '2023-04-29'
-		},{
-			link: 'nbyAkXaWXw8',
-			title: '🌴 WARM WINTER 🛼 NEW 3D OUTFIT DEBUT ☀ NEW MERCH + COLLAB 🌊 ANNOUNCEMENT!',
-			date: '2023-12-17'
-		},{
-			link: 'KzIJ9XB7Oek',
-			title: '🩰 The Nutcracker 🩰 Presented by Ashton Marten (SEASON FINALE) 【 3D Outfit Debut 】',
-			date: '2024-12-29'
 		},
 	]
 },{
