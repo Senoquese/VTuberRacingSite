@@ -161,6 +161,21 @@ var streams =	[{
 		[
 	]
 },{
+	game: 'Bioshock',
+	boxart: 'games/bioshock.jpg',
+	vids:
+		[{
+			link: 'J71GAbXyG_M',
+			date: '2025-09-25'
+		},{
+			link: 'XxPdZX4qtLo',
+			date: '2025-10-16'
+		},{
+			link: 'OvYBX2HvFuo',
+			date: '2026-02-18'
+		},
+	]
+},{
 	game: 'Debut',
 	boxart: 'games/debut.jpg',
 	vids:
@@ -1132,18 +1147,6 @@ var streams =	[{
 			link: 'tSXv7Xzr9JM',
 			title: '【Zatsu + Art】 lets catch up! 💖💜',
 			date: '2025-10-22'
-		},
-	]
-},{
-	game: 'Bioshock',
-	boxart: 'games/bioshock.jpg',
-	vids:
-		[{
-			link: 'J71GAbXyG_M',
-			date: '2025-09-25'
-		},{
-			link: 'XxPdZX4qtLo',
-			date: '2025-10-16'
 		},
 	]
 },{

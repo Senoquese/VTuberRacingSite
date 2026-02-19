@@ -39,7 +39,7 @@ var streamtags = {
 	],
 	ongoing: [
 		"LittleKingsStory",
-		"SilentHill",
+		"SilentHill1",
 		"Mother3"
 	],
 	redeems: [
