@@ -161,6 +161,18 @@ var streams =	[{
 		[
 	]
 },{
+	game: 'Silent Hill 1',
+	boxart: 'games/silenthill.jpg',
+	vids:
+		[{
+			link: 'ltZIs-UHNx4',
+			date: '2026-02-13'
+		},{
+			link: '75b4XC0KXk0',
+			date: '2026-02-19'
+		},
+	]
+},{
 	game: 'Bioshock',
 	boxart: 'games/bioshock.jpg',
 	vids:
@@ -199,15 +211,6 @@ var streams =	[{
 			link: 'IoL3XsRQ73w',
 			title: '【Gummy Debut】 noooo ive been turned into an adorable squishy gummy 🥺 please dont eat meeee 🥺🍭🍬🍫',
 			date: '2026-02-15'
-		},
-	]
-},{
-	game: 'Silent Hill 1',
-	boxart: 'games/silenthill.jpg',
-	vids:
-		[{
-			link: 'ltZIs-UHNx4',
-			date: '2026-02-13'
 		},
 	]
 },{
