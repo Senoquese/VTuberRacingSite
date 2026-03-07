@@ -35,7 +35,8 @@ var streamtags = {
 		"Pikmin1",
 		"Returnoftheobradinn",
 		"Riven",
-		"MetalGearSolid3"
+		"MetalGearSolid3",
+		"SilentHill1",
 	],
 	ongoing: [
 		"LittleKingsStory",
