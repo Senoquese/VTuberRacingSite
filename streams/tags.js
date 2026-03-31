@@ -37,10 +37,10 @@ var streamtags = {
 		"Riven",
 		"MetalGearSolid3",
 		"SilentHill1",
+		"LittleKingsStory",
 	],
 	ongoing: [
-		"LittleKingsStory",
-		"SilentHill1",
+		"Deadlock",
 		"Mother3"
 	],
 	redeems: [
