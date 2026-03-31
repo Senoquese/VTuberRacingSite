@@ -161,159 +161,6 @@ var streams =	[{
 		[
 	]
 },{
-	game: 'Silent Hill 1',
-	boxart: 'games/silenthill.jpg',
-	vids:
-		[{
-			link: 'ltZIs-UHNx4',
-			date: '2026-02-13'
-		},{
-			link: '75b4XC0KXk0',
-			date: '2026-02-19'
-		},{
-			link: 'FkutF9Kau6s',
-			date: '2026-03-04'
-		},{
-			link: 'KYhU4Z0KfNQ',
-			date: '2026-03-07'
-		},{
-			link: 'sc0vSfODrrA',
-			date: '2026-03-07'
-		},
-	]
-},{
-	game: 'Mario Kart 8 Deluxe',
-	boxart: 'games/mariokart8.jpg',
-	vids:
-		[{
-			link: 'DGoEhRPWcog',
-			date: '2022-08-27'
-		},{
-			date: '2022-11-24'
-		},{
-			link: '7hLLH4wzy7s',
-			date: '2022-12-10'
-		},{
-			link: '9FPsQrxbVDw',
-			date: '2023-01-15'
-		},{
-			link: 'QvEgrld2Ewc',
-			date: '2023-01-22'
-		},{
-			link: 'HBfBC8qSwr0',
-			date: '2023-02-22'
-		},{
-			link: 'CsRW4W8ke7A',
-			date: '2023-03-05'
-		},{
-			link: 'mURateEmE_s',
-			date: '2023-03-10'
-		},{
-			link: 'CAgvPq8UptE',
-			date: '2023-03-26'
-		},{
-			link: 'pvhBPTUUjw4',
-			date: '2023-04-02'
-		},{
-			link: '99T27G2mnVk',
-			date: '2023-04-16'
-		},{
-			link: '5T_bAvlxKzc',
-			date: '2023-04-30'
-		},{
-			link: 'ztwODdaCusI',
-			date: '2023-05-28'
-		},{
-			link: 'lrtJUWbwb3A',
-			date: '2023-06-11'
-		},{
-			link: '-idfFdf1IUI',
-			date: '2023-06-25'
-		},{
-			link: 'fRzzxiuDaaw',
-			date: '2023-07-16'
-		},{
-			link: 'DkFWh-BXkkk',
-			date: '2023-07-23'
-		},{
-			link: 'aKeBsz5Xl2U',
-			date: '2023-08-06'
-		},{
-			link: 'h_tzu_gAqlQ',
-			date: '2023-08-21'
-		},{
-			link: 'VB2SzBdJbJk',
-			date: '2023-09-02'
-		},{
-			link: 'qa86HPX6wwE',
-			date: '2023-09-02'
-		},{
-			link: '0F9o7cWEZWo',
-			date: '2023-09-10'
-		},{
-			link: 'WjO46x3H5Nw',
-			date: '2023-09-18'
-		},{
-			link: 'W7mk4CE1GVc',
-			date: '2023-09-25'
-		},{
-			date: '2023-10-09'
-		},{
-			link: 'Qg7FHl34qC8',
-			date: '2023-10-15'
-		},{
-			link: '0E2N89CHMUc',
-			date: '2023-10-29'
-		},{
-			link: '0zhnUC0v1nw',
-			date: '2023-11-13'
-		},{
-			link: '3RQXyipagE4',
-			date: '2024-02-12'
-		},{
-			link: 'Tr-34SvmDLs',
-			date: '2024-04-15'
-		},{
-			link: '-NbtQfheA94',
-			date: '2024-06-10'
-		},{
-			link: 'U7DfSypkEYk',
-			date: '2024-06-23'
-		},{
-			link: 'J_qjKsqtxnk',
-			date: '2024-07-22'
-		},{
-			link: 'bXxGrXCC5uU',
-			date: '2024-12-08'
-		},{
-			link: 'YOCGmuWH9xc',
-			date: '2025-02-01'
-		},{
-			link: 'HG-myuiRPR4',
-			date: '2025-02-04'
-		},{
-			link: '0vap0T1b9Yo',
-			date: '2025-03-16'
-		},{
-			link: 'mbWDRd97M-4',
-			date: '2025-05-18'
-		},{
-			date: '2025-06-09'
-		},{
-			link: 'b6DOP36zvdE',
-			date: '2025-07-27'
-		},{
-			link: 'gFkEYL5ZaJY',
-			date: '2025-12-01'
-		},{
-			link: 'rYk1arGRoHA',
-			date: '2025-12-28'
-		},{
-			link: '0TCPI6KLDtQ',
-			date: '2026-03-02'
-		},
-	]
-},{
 	game: 'Yap',
 	boxart: 'games/yap.jpg',
 	vids:
@@ -617,6 +464,232 @@ var streams =	[{
 			link: '0TCPI6KLDtQ',
 			title: '【 yap ➡ Mario Kart 8 DX 】 IM BACK!!!! 💖💜💖 i raced home from my vacation but my engines still revvin',
 			date: '2026-03-02'
+		},{
+			link: 'X6EmVl9pXu4',
+			title: '💖💜💖🏁HAPPY MAR.TEN DAY!!!🏁💜💖💜',
+			date: '2026-03-11'
+		},{
+			link: 'pqcHSS1UJ8Q',
+			title: '🌟 DEATHY SLAM 🌟 CONTENT CREATOR CUP 🏆 practicing for the deadlock tourney!',
+			date: '2026-03-28'
+		},{
+			link: 'GaO9gheR2ds',
+			title: '🌟 DEATHY SLAM 🌟 CONTENT CREATOR CUP 🏆 (Deadlock Tournament Scrims) !tourney',
+			date: '2026-03-29'
+		},{
+			link: 'h_QEDlaOgc4',
+			title: '🌟 DEATHY SLAM 🌟 CONTENT CREATOR CUP 🏆 (Deadlock Tournament Scrims)',
+			date: '2026-03-29'
+		},
+	]
+},{
+	game: 'Super Battle Golf',
+	boxart: 'games/superbattlegolf.jpg',
+	vids:
+		[{
+			link: 'a1qTafPAuIc',
+			date: '2026-03-26'
+		},
+	]
+},{
+	game: 'Little Kings Story',
+	boxart: 'games/littlekingsstory.jpg',
+	vids:
+		[{
+			link: '3sITczDLz8s',
+			date: '2026-02-05'
+		},{
+			link: 'p_FZTEyCgco',
+			date: '2026-02-07'
+		},{
+			link: 'zkgU3fKitOE',
+			date: '2026-03-13'
+		},{
+			link: 'msaLc1KI67A',
+			date: '2026-03-16'
+		},{
+			link: 'FX6iuWDEy7I',
+			date: '2026-03-17'
+		},{
+			link: '8R7Q83NACbI',
+			date: '2026-03-19'
+		},{
+			link: 'u4ue42sGFSA',
+			date: '2026-03-20'
+		},{
+			link: 'YtGg_RlR3xE',
+			date: '2026-03-25'
+		},
+	]
+},{
+	game: 'Mario Kart 8 Deluxe',
+	boxart: 'games/mariokart8.jpg',
+	vids:
+		[{
+			link: 'DGoEhRPWcog',
+			date: '2022-08-27'
+		},{
+			date: '2022-11-24'
+		},{
+			link: '7hLLH4wzy7s',
+			date: '2022-12-10'
+		},{
+			link: '9FPsQrxbVDw',
+			date: '2023-01-15'
+		},{
+			link: 'QvEgrld2Ewc',
+			date: '2023-01-22'
+		},{
+			link: 'HBfBC8qSwr0',
+			date: '2023-02-22'
+		},{
+			link: 'CsRW4W8ke7A',
+			date: '2023-03-05'
+		},{
+			link: 'mURateEmE_s',
+			date: '2023-03-10'
+		},{
+			link: 'CAgvPq8UptE',
+			date: '2023-03-26'
+		},{
+			link: 'pvhBPTUUjw4',
+			date: '2023-04-02'
+		},{
+			link: '99T27G2mnVk',
+			date: '2023-04-16'
+		},{
+			link: '5T_bAvlxKzc',
+			date: '2023-04-30'
+		},{
+			link: 'ztwODdaCusI',
+			date: '2023-05-28'
+		},{
+			link: 'lrtJUWbwb3A',
+			date: '2023-06-11'
+		},{
+			link: '-idfFdf1IUI',
+			date: '2023-06-25'
+		},{
+			link: 'fRzzxiuDaaw',
+			date: '2023-07-16'
+		},{
+			link: 'DkFWh-BXkkk',
+			date: '2023-07-23'
+		},{
+			link: 'aKeBsz5Xl2U',
+			date: '2023-08-06'
+		},{
+			link: 'h_tzu_gAqlQ',
+			date: '2023-08-21'
+		},{
+			link: 'VB2SzBdJbJk',
+			date: '2023-09-02'
+		},{
+			link: 'qa86HPX6wwE',
+			date: '2023-09-02'
+		},{
+			link: '0F9o7cWEZWo',
+			date: '2023-09-10'
+		},{
+			link: 'WjO46x3H5Nw',
+			date: '2023-09-18'
+		},{
+			link: 'W7mk4CE1GVc',
+			date: '2023-09-25'
+		},{
+			date: '2023-10-09'
+		},{
+			link: 'Qg7FHl34qC8',
+			date: '2023-10-15'
+		},{
+			link: '0E2N89CHMUc',
+			date: '2023-10-29'
+		},{
+			link: '0zhnUC0v1nw',
+			date: '2023-11-13'
+		},{
+			link: '3RQXyipagE4',
+			date: '2024-02-12'
+		},{
+			link: 'Tr-34SvmDLs',
+			date: '2024-04-15'
+		},{
+			link: '-NbtQfheA94',
+			date: '2024-06-10'
+		},{
+			link: 'U7DfSypkEYk',
+			date: '2024-06-23'
+		},{
+			link: 'J_qjKsqtxnk',
+			date: '2024-07-22'
+		},{
+			link: 'bXxGrXCC5uU',
+			date: '2024-12-08'
+		},{
+			link: 'YOCGmuWH9xc',
+			date: '2025-02-01'
+		},{
+			link: 'HG-myuiRPR4',
+			date: '2025-02-04'
+		},{
+			link: '0vap0T1b9Yo',
+			date: '2025-03-16'
+		},{
+			link: 'mbWDRd97M-4',
+			date: '2025-05-18'
+		},{
+			date: '2025-06-09'
+		},{
+			link: 'b6DOP36zvdE',
+			date: '2025-07-27'
+		},{
+			link: 'gFkEYL5ZaJY',
+			date: '2025-12-01'
+		},{
+			link: 'rYk1arGRoHA',
+			date: '2025-12-28'
+		},{
+			link: '0TCPI6KLDtQ',
+			date: '2026-03-02'
+		},{
+			link: 'vZBNJs_7l24',
+			date: '2026-03-23'
+		},
+	]
+},{
+	game: 'Mother 3',
+	boxart: 'games/mother3.jpg',
+	vids:
+		[{
+			link: 'sy8djxIFEdo',
+			date: '2026-01-30'
+		},{
+			link: 'uqYL2ti_GMg',
+			date: '2026-02-02'
+		},{
+			link: 'LEoRU2HYImw',
+			date: '2026-03-09'
+		},
+	]
+},{
+	game: 'Silent Hill 1',
+	boxart: 'games/silenthill.jpg',
+	vids:
+		[{
+			link: 'ltZIs-UHNx4',
+			date: '2026-02-13'
+		},{
+			link: '75b4XC0KXk0',
+			date: '2026-02-19'
+		},{
+			link: 'FkutF9Kau6s',
+			date: '2026-03-04'
+		},{
+			link: 'KYhU4Z0KfNQ',
+			date: '2026-03-07'
+		},{
+			link: 'sc0vSfODrrA',
+			date: '2026-03-07'
 		},
 	]
 },{
@@ -684,18 +757,6 @@ var streams =	[{
 		},
 	]
 },{
-	game: 'Little Kings Story',
-	boxart: 'games/littlekingsstory.jpg',
-	vids:
-		[{
-			link: '3sITczDLz8s',
-			date: '2026-02-05'
-		},{
-			link: 'p_FZTEyCgco',
-			date: '2026-02-07'
-		},
-	]
-},{
 	game: 'Mahjong Soul',
 	boxart: 'games/mahjongsoul.jpg',
 	vids:
@@ -720,18 +781,6 @@ var streams =	[{
 		},{
 			link: 'vJ0uvIG88Yo',
 			date: '2026-02-03'
-		},
-	]
-},{
-	game: 'Mother 3',
-	boxart: 'games/mother3.jpg',
-	vids:
-		[{
-			link: 'sy8djxIFEdo',
-			date: '2026-01-30'
-		},{
-			link: 'uqYL2ti_GMg',
-			date: '2026-02-02'
 		},
 	]
 },{
