@@ -301,6 +301,10 @@ $(function(){
 	} else {
 		playVideo(localStorage.getItem("equippedVideo"), false);
 	}
+	
+	if (forceVideo) {
+		playVideo(landingVideos.findIndex((videoTable) => videoTable.name == "Boyshton"))
+	}
 
 	updateTrophiesMenu();
 })
