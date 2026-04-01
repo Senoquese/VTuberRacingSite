@@ -256,7 +256,7 @@ function playVideo(videoIndex, temp) {
 			videoElement.attr("src", landingVideos[videoIndex].videofile);
 		}
 	}
-	if (!temp) {
+	if (!forceVideo && !temp) {
 		localStorage.setItem("equippedVideo", videoIndex)
 	}
 }
@@ -301,7 +301,7 @@ $(function(){
 	} else {
 		playVideo(localStorage.getItem("equippedVideo"), false);
 	}
-	
+
 	if (forceVideo) {
 		playVideo(landingVideos.findIndex((videoTable) => videoTable.name == "Boyshton"))
 	}
