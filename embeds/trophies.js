@@ -78,7 +78,7 @@ var landingVideos = [
 		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/streams/landingpage/boyshton.jpg",
 		position: "bottom left",
 		height: "100%",
-		visible: false
+		visible: true
 	}
 ];
 
