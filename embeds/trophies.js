@@ -1,4 +1,4 @@
-const defaultVideo = "Default"
+const defaultVideo = "Boyshton"
 
 var landingVideos = [
 	{	name: "Default",
@@ -70,6 +70,12 @@ var landingVideos = [
 	},{	name: "Pit Crew Plushie",
 		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/streams/landingpage/chillaplushiespin.mp4",
 		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/streams/landingpage/chillaplushiespin.jpg",
+		position: "bottom left",
+		height: "100%",
+		visible: true
+	},{	name: "Boyshton",
+		videofile: "https://github.com/Senoquese/VTuberRacingSite/raw/refs/heads/main/streams/landingpage/boyshton.mp4",
+		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/streams/landingpage/boyshton.jpg",
 		position: "bottom left",
 		height: "100%",
 		visible: true
