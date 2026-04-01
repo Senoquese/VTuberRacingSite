@@ -78,7 +78,7 @@ var landingVideos = [
 		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/streams/landingpage/boyshton.jpg",
 		position: "bottom left",
 		height: "100%",
-		visible: true
+		visible: false
 	}
 ];
 
@@ -292,7 +292,7 @@ $(function(){
 	}
 
 	if (!localStorage.getItem("equippedVideo")) {
-		localStorage.setItem("equippedVideo", getVideoIndex("Default"))
+		localStorage.setItem("equippedVideo", getVideoIndex(defaultVideo))
 	} else {
 		playVideo(localStorage.getItem("equippedVideo"), false);
 	}
