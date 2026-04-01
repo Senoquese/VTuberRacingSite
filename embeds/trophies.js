@@ -1,4 +1,4 @@
-const defaultVideo = "Boyshton"
+const defaultVideo = "Default"
 
 var landingVideos = [
 	{	name: "Default",
@@ -78,7 +78,7 @@ var landingVideos = [
 		thumbnail: "https://raw.githubusercontent.com/Senoquese/VTuberRacingSite/refs/heads/main/streams/landingpage/boyshton.jpg",
 		position: "bottom left",
 		height: "100%",
-		visible: true
+		visible: false
 	}
 ];
 
@@ -236,8 +236,13 @@ function getVideoIndex(videoName) { return landingVideos.findIndex((videoTable) 
 
 function getTrophyIndex(trophyName) { return trophies.findIndex((trophyTable) => trophyTable.name == trophyName)}
 
+var forceVideo = true
 function playVideo(videoIndex, temp) {
-	if (landingVideos[videoIndex].visible == false) {
+	if (forceVideo) {
+		videoIndex = landingVideos.findIndex((videoTable) => videoTable.name == "Boyshton")
+	}
+
+	if (!forceVideo && landingVideos[videoIndex].visible == false) {
 		playVideo(getVideoIndex(defaultVideo), false);
 		return;
 	}
