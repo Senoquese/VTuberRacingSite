@@ -1,4 +1,5 @@
 const defaultVideo = "Default"
+const forcedVideo = ""
 
 var landingVideos = [
 	{	name: "Default",
@@ -236,10 +237,10 @@ function getVideoIndex(videoName) { return landingVideos.findIndex((videoTable) 
 
 function getTrophyIndex(trophyName) { return trophies.findIndex((trophyTable) => trophyTable.name == trophyName)}
 
-var forceVideo = true
 function playVideo(videoIndex, temp) {
-	if (forceVideo) {
-		videoIndex = landingVideos.findIndex((videoTable) => videoTable.name == "Boyshton")
+	if (forcedVideo != "") {
+		temp = true
+		videoIndex = landingVideos.findIndex((videoTable) => videoTable.name == forcedVideo)
 	}
 
 	if (!forceVideo && landingVideos[videoIndex].visible == false) {
@@ -256,7 +257,7 @@ function playVideo(videoIndex, temp) {
 			videoElement.attr("src", landingVideos[videoIndex].videofile);
 		}
 	}
-	if (!forceVideo && !temp) {
+	if (!temp) {
 		localStorage.setItem("equippedVideo", videoIndex)
 	}
 }
@@ -302,8 +303,8 @@ $(function(){
 		playVideo(localStorage.getItem("equippedVideo"), false);
 	}
 
-	if (forceVideo) {
-		playVideo(landingVideos.findIndex((videoTable) => videoTable.name == "Boyshton"))
+	if (forcedVideo != "") {
+		playVideo(landingVideos.findIndex((videoTable) => videoTable.name == forcedVideo))
 	}
 
 	updateTrophiesMenu();
