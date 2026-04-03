@@ -1,5 +1,5 @@
 const defaultVideo = "Default"
-const forcedVideo = ""
+var forcedVideo = ""
 
 var landingVideos = [
 	{	name: "Default",
@@ -241,9 +241,7 @@ function playVideo(videoIndex, temp) {
 	if (forcedVideo != "") {
 		temp = true
 		videoIndex = landingVideos.findIndex((videoTable) => videoTable.name == forcedVideo)
-	}
-
-	if (!forceVideo && landingVideos[videoIndex].visible == false) {
+	} else if (landingVideos[videoIndex].visible == false) {
 		playVideo(getVideoIndex(defaultVideo), false);
 		return;
 	}
