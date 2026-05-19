@@ -161,352 +161,13 @@ var streams =	[{
 		[
 	]
 },{
-	game: 'Deadlock',
-	boxart: 'games/deadlock.jpg',
-	vids:
-		[{
-			link: '5jayvQQVzMg',
-			date: '2025-09-23'
-		},{
-			link: 'pqcHSS1UJ8Q',
-			date: '2026-03-28'
-		},{
-			link: 'GaO9gheR2ds',
-			date: '2026-03-29'
-		},{
-			link: 'h_QEDlaOgc4',
-			date: '2026-03-29'
-		},
-	]
-},{
-	game: 'Super Battle Golf',
-	boxart: 'games/superbattlegolf.jpg',
-	vids:
-		[{
-			link: 'a1qTafPAuIc',
-			date: '2026-03-26'
-		},
-	]
-},{
-	game: 'Little Kings Story',
-	boxart: 'games/littlekingsstory.jpg',
-	vids:
-		[{
-			link: '3sITczDLz8s',
-			date: '2026-02-05'
-		},{
-			link: 'p_FZTEyCgco',
-			date: '2026-02-07'
-		},{
-			link: 'zkgU3fKitOE',
-			date: '2026-03-13'
-		},{
-			link: 'msaLc1KI67A',
-			date: '2026-03-16'
-		},{
-			link: 'FX6iuWDEy7I',
-			date: '2026-03-17'
-		},{
-			link: '8R7Q83NACbI',
-			date: '2026-03-19'
-		},{
-			link: 'u4ue42sGFSA',
-			date: '2026-03-20'
-		},{
-			link: 'YtGg_RlR3xE',
-			date: '2026-03-25'
-		},
-	]
-},{
-	game: 'Mario Kart 8 Deluxe',
-	boxart: 'games/mariokart8.jpg',
-	vids:
-		[{
-			link: 'DGoEhRPWcog',
-			date: '2022-08-27'
-		},{
-			date: '2022-11-24'
-		},{
-			link: '7hLLH4wzy7s',
-			date: '2022-12-10'
-		},{
-			link: '9FPsQrxbVDw',
-			date: '2023-01-15'
-		},{
-			link: 'QvEgrld2Ewc',
-			date: '2023-01-22'
-		},{
-			link: 'HBfBC8qSwr0',
-			date: '2023-02-22'
-		},{
-			link: 'CAgvPq8UptE',
-			date: '2023-03-26'
-		},{
-			link: 'pvhBPTUUjw4',
-			date: '2023-04-02'
-		},{
-			link: '99T27G2mnVk',
-			date: '2023-04-16'
-		},{
-			link: '5T_bAvlxKzc',
-			date: '2023-04-30'
-		},{
-			link: 'ztwODdaCusI',
-			date: '2023-05-28'
-		},{
-			link: 'lrtJUWbwb3A',
-			date: '2023-06-11'
-		},{
-			link: '-idfFdf1IUI',
-			date: '2023-06-25'
-		},{
-			link: 'DkFWh-BXkkk',
-			date: '2023-07-23'
-		},{
-			link: 'aKeBsz5Xl2U',
-			date: '2023-08-06'
-		},{
-			link: 'h_tzu_gAqlQ',
-			date: '2023-08-21'
-		},{
-			link: 'VB2SzBdJbJk',
-			date: '2023-09-02'
-		},{
-			link: 'qa86HPX6wwE',
-			date: '2023-09-02'
-		},{
-			link: '0F9o7cWEZWo',
-			date: '2023-09-10'
-		},{
-			link: 'WjO46x3H5Nw',
-			date: '2023-09-18'
-		},{
-			link: 'W7mk4CE1GVc',
-			date: '2023-09-25'
-		},{
-			date: '2023-10-09'
-		},{
-			link: 'Qg7FHl34qC8',
-			date: '2023-10-15'
-		},{
-			link: '0E2N89CHMUc',
-			date: '2023-10-29'
-		},{
-			link: '0zhnUC0v1nw',
-			date: '2023-11-13'
-		},{
-			link: '3RQXyipagE4',
-			date: '2024-02-12'
-		},{
-			link: 'Tr-34SvmDLs',
-			date: '2024-04-15'
-		},{
-			link: '-NbtQfheA94',
-			date: '2024-06-10'
-		},{
-			link: 'U7DfSypkEYk',
-			date: '2024-06-23'
-		},{
-			link: 'J_qjKsqtxnk',
-			date: '2024-07-22'
-		},{
-			link: 'bXxGrXCC5uU',
-			date: '2024-12-08'
-		},{
-			link: 'YOCGmuWH9xc',
-			date: '2025-02-01'
-		},{
-			link: 'HG-myuiRPR4',
-			date: '2025-02-04'
-		},{
-			link: '0vap0T1b9Yo',
-			date: '2025-03-16'
-		},{
-			link: 'mbWDRd97M-4',
-			date: '2025-05-18'
-		},{
-			date: '2025-06-09'
-		},{
-			link: 'b6DOP36zvdE',
-			date: '2025-07-27'
-		},{
-			link: 'gFkEYL5ZaJY',
-			date: '2025-12-01'
-		},{
-			link: 'rYk1arGRoHA',
-			date: '2025-12-28'
-		},{
-			link: '0TCPI6KLDtQ',
-			date: '2026-03-02'
-		},{
-			link: 'vZBNJs_7l24',
-			date: '2026-03-23'
-		},
-	]
-},{
 	game: 'Yap',
 	boxart: 'games/yap.jpg',
 	vids:
 		[{
-			link: 'vfFW0GxMa-4',
-			title: '💖 ASHTONS YEAR IN REVIEW 💜 a very chinchilly anniversary celebration',
-			date: '2023-06-22'
-		},{
-			link: 'AYLuniCXFcY',
-			title: '💖IM BACK, PIT CREW!!!💜 AX and california trip recap (i missed you...)',
-			date: '2023-07-11'
-		},{
-			link: '5hmT5VfFqj0',
-			title: 'lets relax together~ 🛀 【tub time】',
-			date: '2023-10-01'
-		},{
-			link: 'W9cyzUdhpzg',
-			title: '🥳📦 HOUSEWARMING PARTY 📦🎉 i moved! lets drink! 18+',
-			date: '2023-10-15'
-		},{
-			link: '66HbrksUqbA',
-			title: '💖 BACK FROM TWITCHCON 💜 stories and doodles!',
-			date: '2023-10-26'
-		},{
-			link: 'oeqnsw2WCYY',
-			title: '⭐ FALL 2023 SEASONAL ANIME DISCUSSION ⭐ lets NOT talk about aot part 2',
-			date: '2023-11-08'
-		},{
-			link: 'VDrM2ZQ4ukQ',
-			title: '【 V4Mirai Gen 2 Debut Watchalong! 】 a new nin nin ninja vtuber! 🎴',
-			date: '2023-11-12'
-		},{
-			link: 'FWoN9WmNyzA',
-			title: 'baby sensory video groupwatch 【Media Share】',
-			date: '2023-11-15'
-		},{
-			link: 'NvfAQAG5bdU',
-			title: '💖 1.5 YEAR ANNIVERSARY 💜 NEW OUTFIT 🛼 JACKBOX AND GARTIC PHONE WITH CHAT',
-			date: '2023-12-18'
-		},{
-			link: 'hMJ1xQ04GJI',
-			title: '✋ SHOW N TELL HANDCAM 🤚 the girly equivalent of a guy showing his camera roll',
-			date: '2023-12-30'
-		},{
-			link: '0N5dXyIgGGc',
-			title: '💜 2024 PEEP AHEAD 💖 + 🏁 THE ASHTON MARTEN AWARDS 2023 🏁 i havent seen you all since last year~',
-			date: '2024-01-03'
-		},{
-			link: 'ogxwRkEkh4E',
-			title: '💜 PARTNER CELEBRATION 💜 the hard work has paid off... so lets party, pit crew!!! 🍻',
-			date: '2024-01-09'
-		},{
-			link: 'V6JnEvePPpk',
-			title: '✨ HUGE ANNOUNCEMENT ✨ improving the pit crews quality of life (doing vtuber stuff) !？',
-			date: '2024-01-18'
-		},{
-			link: 'p5B_jz58h6A',
-			title: 'chinchillin 😎',
-			date: '2024-02-08'
-		},{
-			link: 'X0e4qjN0zi8',
-			title: '💜 Happy Valentines Day, Pit Crew! 💖 Love, Your Race Queen 🐭💨',
-			date: '2024-02-15'
-		},{
-			link: 'PE7T19j2zA0',
-			title: '📦 UNBOXING 📦 not the game handcam and pit crew goodies! 💜💖',
-			date: '2024-02-17'
-		},{
-			link: '377qZwhQ-m0',
-			title: 'chinchillin on a monday evenin ⭐☁',
-			date: '2024-02-27'
-		},{
-			link: 'qYERK38Dw6g',
-			title: 'happy white day! 🥧 (t/n: white day is a day commonly celebrated in japan and other asian countries w',
-			date: '2024-03-15'
-		},{
-			link: 'ZBczE3CF2xw',
-			title: 'tehepero',
-			date: '2024-03-28'
-		},{
-			link: '22bqBEGYMBo',
-			title: '🌹 Tuesday Dinner Date 🐭🍴 im back from my short break!',
-			date: '2024-04-03'
-		},{
-			link: 'b3BwFZsoDOI',
-			title: '✨ HUGE ANNOUNCEMENT ✨ chatting then reveal...!',
-			date: '2024-04-12'
-		},{
-			link: 'JmHvN3LMk48',
-			title: 'lunch chat',
-			date: '2024-05-17'
-		},{
-			link: 'f8uJaUBP39Y',
-			title: '✈ OFFKAI TRIP RECAP ✨ honeyyyy im baaaack!!!',
-			date: '2024-06-07'
-		},{
-			link: 'yzRwQem4cgo',
-			title: 'Space 🪐 Cadet After Party! 🥂',
-			date: '2024-06-09'
-		},{
-			link: 'qc1VW8hIctQ',
-			title: 'alone on a friday night？ no, im with the pit crew! RAAAAAAAGHHH 🗣',
-			date: '2024-06-15'
-		},{
-			link: 'vO0yu_PQS6U',
-			title: '💜💖💜 ASHTONS 2 YEAR ANNIVERSARY 2 DAY CELEBRATION 💖💜💖 Day 1',
-			date: '2024-06-23'
-		},{
-			link: 'qCqDvd_RWRU',
-			title: 'HOOOONEEEEEY, IM HOOOOME!!! 💖💜💖 back from LA and AX with many stories to tell (YAP SESH)',
-			date: '2024-07-11'
-		},{
-			link: '19RNZr0uAMY',
-			title: 'just chilla out with me! 💖💜',
-			date: '2024-07-11'
-		},{
-			link: '9ZSesjyGOmw',
-			title: 'please tell me what to stream',
-			date: '2024-07-25'
-		},{
-			link: 'Svn0Op6mwh4',
-			title: 'yuuup, youre getting added to my rob list 【Anime Figure Collection Review】',
-			date: '2024-07-28'
-		},{
-			link: 'cqmIeh1Rtds',
-			title: 'super secret late night chatty stream before my BIRTHDAY WEEKEND!!',
-			date: '2024-08-17'
-		},{
-			link: 'nW1m4LehLfU',
-			title: 'ok tonight youre allowed to be funnier than me... BUT DONT PUSH IT!!! (Community Games)',
-			date: '2024-08-22'
-		},{
-			link: 'aaNgCi3m23M',
-			title: 'im back!!! ✈🍎🗽 【New York Trip Yap】',
-			date: '2024-08-28'
-		},{
-			link: 'YvMMD4rP6X8',
-			title: 'how do you spell shofur 【Crosswords and Word Puzzles】',
-			date: '2024-09-04'
-		},{
-			link: 'L3OLmglnGgg',
-			title: 'PIT CREW TIERLIST!!! you are #1 💖💜 【Tierlists】',
-			date: '2024-09-07'
-		},{
-			link: 'GpX2SgjGJr4',
-			title: '【💔💉 APPENDIX-CHAN GRADUATION STREAM 💉💔】',
-			date: '2024-09-14'
-		},{
-			link: 'NdAGSTMWbYY',
-			title: 'satellites did seven eleven 【？】',
-			date: '2024-09-19'
-		},{
-			link: 'uXpHj6tOOa4',
-			title: '✨BACK FROM TWITCHCON 2✨ ashies first san diego trip',
-			date: '2024-09-24'
-		},{
 			link: 'JueUQ3ub1dU',
 			title: 'SUNDAY EVENING ASHTON NEWS 📰 【Yap ＞ Gaming】',
 			date: '2024-09-30'
-		},{
-			link: 'MNIIBTFUhAQ',
-			title: 'IM BACK FROM JAPAN!!!!!!!!! 💜💖💜 【Japan Trip Yap】',
-			date: '2024-11-14'
 		},{
 			link: 'GOYLFcAwRPI',
 			title: 'JAPAN RECAP ✈ with visuals! 【Japan Trip Yap pt 2】',
@@ -516,17 +177,9 @@ var streams =	[{
 			title: 'JAPAN TRIP (the finale) ✈🗾 im working lateeee cuz im a race queeennnn 【Japan Trip Yap pt 3】',
 			date: '2024-11-22'
 		},{
-			link: 'hU_QB1mlzMc',
-			title: '⚙️🍧🌸 VIRTUX DEBUT WATCHALONG ⚙️🍧🌸 congrats on your debuts!!!',
-			date: '2024-11-22'
-		},{
 			link: 'lpw8XVetfgY',
 			title: 'time to appraise my spoils of war 🏆✨ 【HANDCAM】',
 			date: '2024-11-25'
-		},{
-			link: 'XMxDR0-Osy4',
-			title: '【The Wish Cup】 LETS GO, TEAM C!!! ✨ fighting for my spot as best chuuba',
-			date: '2024-11-27'
 		},{
 			link: '7SJvD2XfBw4',
 			title: 'this stream will make you lose whamageddon 【Yap then Gaming】',
@@ -611,6 +264,97 @@ var streams =	[{
 			link: 'X6EmVl9pXu4',
 			title: '💖💜💖🏁HAPPY MAR.TEN DAY!!!🏁💜💖💜',
 			date: '2026-03-11'
+		},{
+			link: 'Yf_lxC4t5c4',
+			title: 'im just live!',
+			date: '2026-04-06'
+		},{
+			link: '1d2DmuW3JCo',
+			title: 'shhhh dont tell anyone im live',
+			date: '2026-04-10'
+		},{
+			link: 'ApW1uv4km7A',
+			title: 'this was supposed to be an arknights stream but theres maintenance :(',
+			date: '2026-04-17'
+		},{
+			link: '1DU-IjZKQU4',
+			title: '【Drinking Zatsudan】 cheers to the weekend 🍻 bueghhhhhhhh malort.... 🤢',
+			date: '2026-04-26'
+		},{
+			link: 'S90CM6kH2kY',
+			title: 'lets go live and see what happens (pikmin? -dles? who knows... yapping? guaranteed)',
+			date: '2026-05-01'
+		},{
+			link: '2cF91DZqiLg',
+			title: '【Handcam ➡ Pikmin 2】 playing with my ouioui and my peepy!',
+			date: '2026-05-03'
+		},{
+			link: 'UTSenoeiU-4',
+			title: 'YAP YAP TIME‼ (game pending... -dles? media share? 🤔)',
+			date: '2026-05-19'
+		},
+	]
+},{
+	game: 'Pikmin 2',
+	boxart: 'games/pikmin2.jpg',
+	vids:
+		[{
+			link: 'rpdUY6eWk_8',
+			date: '2026-04-07'
+		},{
+			link: 'jM8vd3N30vQ',
+			date: '2026-04-25'
+		},{
+			link: 'Y2Ym4pjMvek',
+			date: '2026-04-30'
+		},{
+			link: '2cF91DZqiLg',
+			date: '2026-05-03'
+		},{
+			link: 'TdsDsuLBVqY',
+			date: '2026-05-13'
+		},{
+			link: 'MkGncF2Lhg0',
+			date: '2026-05-15'
+		},
+	]
+},{
+	game: 'Deadlock',
+	boxart: 'games/deadlock.jpg',
+	vids:
+		[{
+			link: '5jayvQQVzMg',
+			date: '2025-09-23'
+		},{
+			link: 'pqcHSS1UJ8Q',
+			date: '2026-03-28'
+		},{
+			link: 'GaO9gheR2ds',
+			date: '2026-03-29'
+		},{
+			link: 'h_QEDlaOgc4',
+			date: '2026-03-29'
+		},{
+			link: 'DraxBXUC2yo',
+			date: '2026-04-03'
+		},{
+			link: 'GH83DCTYljU',
+			date: '2026-04-05'
+		},{
+			link: 'cBi_WaXIIoQ',
+			date: '2026-05-15'
+		},
+	]
+},{
+	game: 'Metal Gear Solid 4',
+	boxart: 'games/mgs4.jpg',
+	vids:
+		[{
+			link: '1jXFJXXkUnw',
+			date: '2026-04-21'
+		},{
+			link: 'cBi_WaXIIoQ',
+			date: '2026-05-15'
 		},
 	]
 },{
@@ -626,6 +370,218 @@ var streams =	[{
 		},{
 			link: 'LEoRU2HYImw',
 			date: '2026-03-09'
+		},{
+			link: 'LaCYTDsWqqY',
+			date: '2026-05-11'
+		},
+	]
+},{
+	game: 'Star Wars Episode I Racer',
+	boxart: 'games/starwarsepisode1racer.jpg',
+	vids:
+		[{
+			link: 'LvTf9aguCD0',
+			date: '2026-05-06'
+		},
+	]
+},{
+	game: 'Fortnite',
+	boxart: 'games/fortnite.jpg',
+	vids:
+		[{
+			link: 'uZwh4ZaxYXo',
+			date: '2023-04-01'
+		},{
+			link: 'vG_urzi0dh8',
+			date: '2024-04-02'
+		},{
+			date: '2025-04-02'
+		},{
+			link: '2G5CkdA9u4Y',
+			date: '2025-12-29'
+		},{
+			link: 'p8z2SgFC6FA',
+			date: '2026-05-03'
+		},
+	]
+},{
+	game: 'Mario Kart 8 Deluxe',
+	boxart: 'games/mariokart8.jpg',
+	vids:
+		[{
+			link: 'DGoEhRPWcog',
+			date: '2022-08-27'
+		},{
+			date: '2022-11-24'
+		},{
+			link: '7hLLH4wzy7s',
+			date: '2022-12-10'
+		},{
+			link: '9FPsQrxbVDw',
+			date: '2023-01-15'
+		},{
+			link: 'QvEgrld2Ewc',
+			date: '2023-01-22'
+		},{
+			link: 'HBfBC8qSwr0',
+			date: '2023-02-22'
+		},{
+			link: 'CAgvPq8UptE',
+			date: '2023-03-26'
+		},{
+			link: 'pvhBPTUUjw4',
+			date: '2023-04-02'
+		},{
+			link: '99T27G2mnVk',
+			date: '2023-04-16'
+		},{
+			link: '5T_bAvlxKzc',
+			date: '2023-04-30'
+		},{
+			link: 'ztwODdaCusI',
+			date: '2023-05-28'
+		},{
+			link: 'lrtJUWbwb3A',
+			date: '2023-06-11'
+		},{
+			link: '-idfFdf1IUI',
+			date: '2023-06-25'
+		},{
+			link: 'DkFWh-BXkkk',
+			date: '2023-07-23'
+		},{
+			link: 'aKeBsz5Xl2U',
+			date: '2023-08-06'
+		},{
+			link: 'h_tzu_gAqlQ',
+			date: '2023-08-21'
+		},{
+			link: 'qa86HPX6wwE',
+			date: '2023-09-02'
+		},{
+			link: '0F9o7cWEZWo',
+			date: '2023-09-10'
+		},{
+			link: 'WjO46x3H5Nw',
+			date: '2023-09-18'
+		},{
+			link: 'W7mk4CE1GVc',
+			date: '2023-09-25'
+		},{
+			date: '2023-10-09'
+		},{
+			link: 'Qg7FHl34qC8',
+			date: '2023-10-15'
+		},{
+			link: '0E2N89CHMUc',
+			date: '2023-10-29'
+		},{
+			link: '0zhnUC0v1nw',
+			date: '2023-11-13'
+		},{
+			link: '3RQXyipagE4',
+			date: '2024-02-12'
+		},{
+			link: 'Tr-34SvmDLs',
+			date: '2024-04-15'
+		},{
+			link: '-NbtQfheA94',
+			date: '2024-06-10'
+		},{
+			link: 'J_qjKsqtxnk',
+			date: '2024-07-22'
+		},{
+			link: 'bXxGrXCC5uU',
+			date: '2024-12-08'
+		},{
+			link: 'YOCGmuWH9xc',
+			date: '2025-02-01'
+		},{
+			link: 'HG-myuiRPR4',
+			date: '2025-02-04'
+		},{
+			link: '0vap0T1b9Yo',
+			date: '2025-03-16'
+		},{
+			link: 'mbWDRd97M-4',
+			date: '2025-05-18'
+		},{
+			date: '2025-06-09'
+		},{
+			link: 'b6DOP36zvdE',
+			date: '2025-07-27'
+		},{
+			link: 'gFkEYL5ZaJY',
+			date: '2025-12-01'
+		},{
+			link: 'rYk1arGRoHA',
+			date: '2025-12-28'
+		},{
+			link: '0TCPI6KLDtQ',
+			date: '2026-03-02'
+		},{
+			link: 'vZBNJs_7l24',
+			date: '2026-03-23'
+		},{
+			link: 'AQfo6KWhOlg',
+			date: '2026-04-27'
+		},
+	]
+},{
+	game: 'Arknights Endfield',
+	boxart: 'games/arknightsendfield.jpg',
+	vids:
+		[{
+			link: 'G367kBSDs2w',
+			date: '2026-04-19'
+		},
+	]
+},{
+	game: 'Kerbal Space Program',
+	boxart: 'games/kerbalspaceprogram.jpg',
+	vids:
+		[{
+			link: 'xfWUeMTmUtk',
+			date: '2026-04-16'
+		},
+	]
+},{
+	game: 'Super Battle Golf',
+	boxart: 'games/superbattlegolf.jpg',
+	vids:
+		[{
+			link: 'a1qTafPAuIc',
+			date: '2026-03-26'
+		},
+	]
+},{
+	game: 'Little Kings Story',
+	boxart: 'games/littlekingsstory.jpg',
+	vids:
+		[{
+			link: '3sITczDLz8s',
+			date: '2026-02-05'
+		},{
+			link: 'p_FZTEyCgco',
+			date: '2026-02-07'
+		},{
+			link: 'zkgU3fKitOE',
+			date: '2026-03-13'
+		},{
+			link: 'msaLc1KI67A',
+			date: '2026-03-16'
+		},{
+			link: 'FX6iuWDEy7I',
+			date: '2026-03-17'
+		},{
+			link: '8R7Q83NACbI',
+			date: '2026-03-19'
+		},{
+			link: 'u4ue42sGFSA',
+			date: '2026-03-20'
+		},{
+			link: 'YtGg_RlR3xE',
+			date: '2026-03-25'
 		},
 	]
 },{
@@ -669,17 +625,9 @@ var streams =	[{
 	boxart: 'games/debut.jpg',
 	vids:
 		[{
-			link: 'pXS_OEXh9xw',
-			title: '【VTUBER】💜 Ashton Marten the Roller Rodent Race Queen Waves Her Flag 💖 【DEBUT STREAM ARCHIVE】',
-			date: '2022-06-19'
-		},{
 			link: 'nTiW-SEUCj8',
-			title: '【💖 3D DEBUT 💜】 ASHTON ROLLS INTO A NEW DIMENSION! 🐭💨 【 Ashton Marten VOD 】',
+			title: '【💖 3D DEBUT 💜】 ASHTON ROLLS INTO A NEW DIMENSION! 🐭💨',
 			date: '2023-04-29'
-		},{
-			link: 'nbyAkXaWXw8',
-			title: '🌴 WARM WINTER 🛼 NEW 3D OUTFIT DEBUT ☀ NEW MERCH + COLLAB 🌊 ANNOUNCEMENT!',
-			date: '2023-12-17'
 		},{
 			link: 'KzIJ9XB7Oek',
 			title: '🩰 The Nutcracker 🩰 Presented by Ashton Marten (SEASON FINALE) 【 3D Outfit Debut 】',
@@ -916,23 +864,6 @@ var streams =	[{
 		},
 	]
 },{
-	game: 'Fortnite',
-	boxart: 'games/fortnite.jpg',
-	vids:
-		[{
-			link: 'uZwh4ZaxYXo',
-			date: '2023-04-01'
-		},{
-			link: 'vG_urzi0dh8',
-			date: '2024-04-02'
-		},{
-			date: '2025-04-02'
-		},{
-			link: '2G5CkdA9u4Y',
-			date: '2025-12-29'
-		},
-	]
-},{
 	game: 'Mario Kart World',
 	boxart: 'games/mariokartworld.jpg',
 	vids:
@@ -1016,34 +947,6 @@ var streams =	[{
 			title: '【ASMR Reading】 🌌 night on the galactic railroad 🌠 by miyazawa kenji',
 			date: '2023-02-08'
 		},{
-			link: 'MYSPDRMeYgQ',
-			title: '💖🎉ASHTONS BIRTHDAY CHILLABRATION (abc)🎉💜 day 2： game day!',
-			date: '2023-08-19'
-		},{
-			link: 'u9Y6Au8_Naw',
-			title: '💖🎉ASHTONS BIRTHDAY CHILLABRATION (abc)🎉💜 celebration, games, fun, probably tears, and more!',
-			date: '2023-08-19'
-		},{
-			link: 'dqbDwHY1CsM',
-			title: '💜✨ ASHTON MARTENS MOVE A THON ✨💖 【Day 1】subathon time!',
-			date: '2023-09-27'
-		},{
-			link: 'P3hxZl6E_2w',
-			title: '~ Takoyaki Night Market ~ 💜✨ ASHTON MARTENS MOVE-A-THON ✨💖 【Day 2】subathon!',
-			date: '2023-09-28'
-		},{
-			link: 'VlXw1T5IEGM',
-			title: '#watertok recipe workshop 💦🥤 feat. 🌟BIG ANNOUNCEMENT + GIVEAWAYS🌟',
-			date: '2024-02-24'
-		},{
-			link: '408sh11V_3Y',
-			title: 'TODAY IS MY BIRTHDAY!!! 💖💜 ahhh 21 again! 【BIRTHDAY WEEKEND DAY 2】',
-			date: '2024-08-18'
-		},{
-			link: 'viDM_RAqGiU',
-			title: '【Pit Crew Desk Review】 i hope you did your spring cleaning, because this place better be SPOTLES',
-			date: '2025-03-29'
-		},{
 			link: 'fzhWr7sD9pk',
 			title: 'its a piece of cake to bake a pit crew cake!🍰🐭 【Baking a Pit Crew Cake】',
 			date: '2025-04-12'
@@ -1051,14 +954,6 @@ var streams =	[{
 			link: 'tfZ4ZxAYdpQ',
 			title: '🌟🏁 PIT CREW RACES 🏁🌟 rev up those chillas! 🐭💨',
 			date: '2025-05-16'
-		},{
-			link: 'AUpxzkLYAGA',
-			title: '【Plushie Handcam】 lets play touys 🧸',
-			date: '2025-09-13'
-		},{
-			link: 'V2PUmDTivRk',
-			title: '【Handcam】 OPERATION: PC 🕵️‍♀️🔫🍸🎲💃📀🖥 building my new computer',
-			date: '2025-09-27'
 		},{
 			link: 'VUcWv4OY69Q',
 			title: '【Handcam】 race QUEEN carves a pumpKING 🎃🏁',
@@ -1085,30 +980,6 @@ var streams =	[{
 	boxart: 'games/art.jpg',
 	vids:
 		[{
-			link: 'KHcc0n59h4E',
-			title: '⭐ Donothon Art Redeem Stream (Technical Difficulties at the start)',
-			date: '2023-01-03'
-		},{
-			link: 'rWYacU082lI',
-			title: 'late night chill and doodle stream! draw along with me 💖💜',
-			date: '2023-11-30'
-		},{
-			link: '7VEErfciCtQ',
-			title: '💜 chill thursday drawing 💖 come and chat with me~ (NO NUDITY)',
-			date: '2023-12-15'
-		},{
-			link: '2DShYugYDxo',
-			title: '☀️ doodling on vacation! 🌴',
-			date: '2023-12-20'
-		},{
-			link: '4zKRA-q3aac',
-			title: 'designing outfits for vtubers ✏ ＊scritchy scratchy＊',
-			date: '2024-04-17'
-		},{
-			link: 'rT992wxB0fE',
-			title: '⭐GOLDEN WEEK BIKINI TIME⭐',
-			date: '2024-05-03'
-		},{
 			link: 'mW8HTuDertw',
 			title: 'this is a drawing stream whose original title was overwritten and is now forgotten to time',
 			date: '2025-01-23'
@@ -1116,63 +987,6 @@ var streams =	[{
 			link: 'tSXv7Xzr9JM',
 			title: '【Zatsu + Art】 lets catch up! 💖💜',
 			date: '2025-10-22'
-		},
-	]
-},{
-	game: 'NoImNotAHuman',
-	boxart: 'games/noimnotahuman.jpg',
-	vids:
-		[{
-			link: 'wzLFxuWI5tg',
-			date: '2025-10-10'
-		},
-	]
-},{
-	game: 'StarFox64',
-	boxart: 'games/starfox64.jpg',
-	vids:
-		[{
-			link: 'kkcj8249KO8',
-			date: '2025-07-24'
-		},{
-			link: 'LsOINw4v-Sg',
-			date: '2025-10-09'
-		},
-	]
-},{
-	game: 'Sonic Racing Crossworlds',
-	boxart: 'games/sonicracingcrossworlds.jpg',
-	vids:
-		[{
-			link: 'xVNlVuEmqtY',
-			date: '2025-08-30'
-		},{
-			link: '1c0qeIF6m5c',
-			date: '2025-10-04'
-		},
-	]
-},{
-	game: 'RollerCoasterTycoon',
-	boxart: 'games/rollercoastertycoon.jpg',
-	vids:
-		[{
-			link: 'Y4ltFH0C_tc',
-			date: '2025-10-01'
-		},
-	]
-},{
-	game: 'Flash Games',
-	boxart: 'games/flashgames.jpg',
-	vids:
-		[{
-			link: 'zTC-3zJIf-Q',
-			date: '2024-03-16'
-		},{
-			link: 'jcyGh1nXTBQ',
-			date: '2024-10-26'
-		},{
-			link: 'jS9CmRcnlS8',
-			date: '2025-09-07'
 		},
 	]
 },{
@@ -1201,74 +1015,6 @@ var streams =	[{
 	boxart: 'games/karaoke.jpg',
 	vids:
 		[{
-			link: 'ud4_26oasgg',
-			title: '🏝️ VACATION KARAOKE ☀️',
-			date: '2023-07-06'
-		},{
-			link: 'G-DyvblEg1Y',
-			title: 'its karaoke night at this funny bar 🎤🎶 come sing a song with me~',
-			date: '2023-07-26'
-		},{
-			link: '0S_I8m5w_10',
-			title: '✈ MACROSS V 🎶 tuber',
-			date: '2023-08-31'
-		},{
-			link: 'f0BNuy3LYTU',
-			title: '🔴LIVE from Twitchcon： Race Queen Sings 🎤🎶',
-			date: '2023-10-22'
-		},{
-			link: 'PlxKyuyVBTM',
-			title: '🎃 halloweekend karaoke! 🦇',
-			date: '2023-10-29'
-		},{
-			link: 'KAMIZoT7s8c',
-			title: '❄ baby its cold outside ⛄ lets sing winter tunes!',
-			date: '2023-12-06'
-		},{
-			link: 'XRyCteTvk8w',
-			title: 'la la la late night singin~ 🎶',
-			date: '2024-01-24'
-		},{
-			link: 'CubVeF9xCLk',
-			title: 'i miss those summer nights (campfire singing with ashton)',
-			date: '2024-03-08'
-		},{
-			link: 'h1Ck0LZA3MQ',
-			title: '🎶 FRIDAY NIGHT CHIKA IDOL CONCERT LIVE BROADCAST 🎶 admission: free! 🎟',
-			date: '2024-04-06'
-		},{
-			link: 'NcEluczc-ZE',
-			title: '🎤 offkai concert singing practice 🎶',
-			date: '2024-05-06'
-		},{
-			link: 'rya5cAwu7rY',
-			title: 'monday music practice for idol activities 🎶',
-			date: '2024-05-14'
-		},{
-			link: 'dHi4c5UUKME',
-			title: 'The Final Practice (my 2nd live concert is this week and it feels like my butt is going to fall off)',
-			date: '2024-05-28'
-		},{
-			link: 'dG_urwfIF3I',
-			title: 'late night jamming 🎶 its almost the weekend!!!',
-			date: '2024-06-28'
-		},{
-			link: 'PtWW0Mt_mw4',
-			title: '🔴 LIVE FROM ANIME EXPO! 🔴 IRL GUERILLA KARAOKE 🎤🦍',
-			date: '2024-07-08'
-		},{
-			link: 'b29JIspfOMI',
-			title: 'just a lil late night tunes 🎙🎶',
-			date: '2024-08-31'
-		},{
-			link: 'pYixk2U5Tyc',
-			title: '✨ IRL KARAOKE 🎤 w／ @aishiiai and @yanchagogo 💜💖',
-			date: '2024-09-22'
-		},{
-			link: 'SHa6YFaDqIM',
-			title: 'ashton martens sing-a-long songs! 🎵 【Karaoke Night】',
-			date: '2024-10-05'
-		},{
 			link: 'GLaAEEjADFg',
 			title: '🍂 falling leaves are turning into snow ❄ 【Karaoke】',
 			date: '2024-11-30'
@@ -1307,6 +1053,18 @@ var streams =	[{
 		},{
 			link: 'J_xeCinGkvk',
 			date: '2025-07-25'
+		},
+	]
+},{
+	game: 'Starfox64',
+	boxart: 'games/starfox64.jpg',
+	vids:
+		[{
+			link: 'kkcj8249KO8',
+			date: '2025-07-24'
+		},{
+			link: 'LsOINw4v-Sg',
+			date: '2025-10-09'
 		},
 	]
 },{
@@ -1421,15 +1179,6 @@ var streams =	[{
 		[{
 			link: 'VLBCrxft6aE',
 			date: '2025-04-06'
-		},
-	]
-},{
-	game: 'Baba is You',
-	boxart: 'games/babaisyou.jpg',
-	vids:
-		[{
-			link: '0CQDlcbxSYg',
-			date: '2025-03-28'
 		},
 	]
 },{
@@ -1552,9 +1301,6 @@ var streams =	[{
 			link: 'PDxaJyP6Pvw',
 			date: '2024-01-26'
 		},{
-			link: 'r9u1FhUBg8Q',
-			date: '2024-03-05'
-		},{
 			link: 'UkiDqUWSQdU',
 			date: '2025-02-01'
 		},
@@ -1589,9 +1335,6 @@ var streams =	[{
 	vids:
 		[{
 			link: 'wzuLEmo2aCY',
-			date: '2024-12-18'
-		},{
-			link: 'wBGxTu-GUWk',
 			date: '2024-12-18'
 		},{
 			link: 'T5goCfanujA',
@@ -1636,9 +1379,6 @@ var streams =	[{
 	boxart: 'games/banjokazooie.jpg',
 	vids:
 		[{
-			link: 'UrIjDpLbFNQ',
-			date: '2024-02-21'
-		},{
 			link: 'tVx9zX9LD7s',
 			date: '2024-03-01'
 		},{
@@ -1657,41 +1397,8 @@ var streams =	[{
 			link: 'a9WCTuzup8g',
 			date: '2024-04-12'
 		},{
-			link: '2iAWsbTjU44',
-			date: '2024-04-19'
-		},{
 			link: 'i4A1llVVlgM',
 			date: '2024-12-12'
-		},
-	]
-},{
-	game: 'VRChat',
-	boxart: 'games/vrchat.jpg',
-	vids:
-		[{
-			link: 'BjQsqQS8peM',
-			date: '2023-08-16'
-		},{
-			link: 'vjVrAYVwWlU',
-			date: '2023-12-29'
-		},{
-			link: 'IkBgG612rOA',
-			date: '2024-06-29'
-		},{
-			link: 'Z-88JGpKeXE',
-			date: '2024-08-18'
-		},{
-			link: '8yCciyYr5eo',
-			date: '2024-10-25'
-		},
-	]
-},{
-	game: 'Shashingo',
-	boxart: 'games/shashingo.jpg',
-	vids:
-		[{
-			link: 'argu87nyPII',
-			date: '2024-10-23'
 		},
 	]
 },{
@@ -1704,6 +1411,103 @@ var streams =	[{
 		},{
 			link: 'xuaSXOf_THM',
 			date: '2024-10-22'
+		},
+	]
+},{
+	game: 'NoImNotAHuman',
+	boxart: 'games/noimnotahuman.jpg',
+	vids:
+		[{
+			link: 'wzLFxuWI5tg',
+			date: '2025-10-10'
+		},
+	]
+},{
+	game: 'Sonic Racing Crossworlds',
+	boxart: 'games/sonicracingcrossworlds.jpg',
+	vids:
+		[{
+			link: 'xVNlVuEmqtY',
+			date: '2025-08-30'
+		},{
+			link: '1c0qeIF6m5c',
+			date: '2025-10-04'
+		},
+	]
+},{
+	game: 'RollerCoasterTycoon',
+	boxart: 'games/rollercoastertycoon.jpg',
+	vids:
+		[{
+			link: 'Y4ltFH0C_tc',
+			date: '2025-10-01'
+		},
+	]
+},{
+	game: 'Flash Games',
+	boxart: 'games/flashgames.jpg',
+	vids:
+		[{
+			link: 'jcyGh1nXTBQ',
+			date: '2024-10-26'
+		},{
+			link: 'jS9CmRcnlS8',
+			date: '2025-09-07'
+		},
+	]
+},{
+	game: 'UmamusumePrettyDerby',
+	boxart: 'games/umamusumeprettyderby.jpg',
+	vids:
+		[{
+			date: '2025-06-28'
+		},
+	]
+},{
+	game: 'CrazyTaxi',
+	boxart: 'games/crazytaxi.jpg',
+	vids:
+		[{
+			date: '2025-05-31'
+		},
+	]
+},{
+	game: 'Blue Prince',
+	boxart: 'games/blueprince.jpg',
+	vids:
+		[{
+			link: 'T44lwEpvdPY',
+			date: '2024-06-18'
+		},{
+			date: '2025-03-01'
+		},{
+			date: '2025-04-22'
+		},
+	]
+},{
+	game: 'Elite Beat Agents',
+	boxart: 'games/elitebeatagents.jpg',
+	vids:
+		[{
+			date: '2025-04-16'
+		},
+	]
+},{
+	game: 'Baba is You',
+	boxart: 'games/babaisyou.jpg',
+	vids:
+		[{
+			link: '0CQDlcbxSYg',
+			date: '2025-03-28'
+		},
+	]
+},{
+	game: 'Shashingo',
+	boxart: 'games/shashingo.jpg',
+	vids:
+		[{
+			link: 'argu87nyPII',
+			date: '2024-10-23'
 		},
 	]
 },{
@@ -1787,9 +1591,6 @@ var streams =	[{
 		},{
 			link: '4MQu7pnT_CY',
 			date: '2024-08-09'
-		},{
-			link: 'JTJfxGYkuoQ',
-			date: '2024-08-13'
 		},
 	]
 },{
@@ -1826,15 +1627,6 @@ var streams =	[{
 		},
 	]
 },{
-	game: 'Portal',
-	boxart: 'games/portal.jpg',
-	vids:
-		[{
-			link: 'rrxg9evbfuQ',
-			date: '2024-07-02'
-		},
-	]
-},{
 	game: 'Racing Lagoon',
 	boxart: 'games/racinglagoon.jpg',
 	vids:
@@ -1844,19 +1636,6 @@ var streams =	[{
 		},{
 			link: 'OVJ5Pcbh2cc',
 			date: '2024-06-21'
-		},
-	]
-},{
-	game: 'Blue Prince',
-	boxart: 'games/blueprince.jpg',
-	vids:
-		[{
-			link: 'T44lwEpvdPY',
-			date: '2024-06-18'
-		},{
-			date: '2025-03-01'
-		},{
-			date: '2025-04-22'
 		},
 	]
 },{
@@ -2101,6 +1880,15 @@ var streams =	[{
 		},
 	]
 },{
+	game: 'Barbie Rapunzel',
+	boxart: 'games/barbierapunzel.jpg',
+	vids:
+		[{
+			link: 'XhJTnSEPtnw',
+			date: '2023-12-09'
+		},
+	]
+},{
 	game: 'Half-Life',
 	boxart: 'games/halflife.jpg',
 	vids:
@@ -2112,15 +1900,6 @@ var streams =	[{
 			date: '2023-12-01'
 		},{
 			link: 'Yta96IvEvz0',
-			date: '2023-12-09'
-		},
-	]
-},{
-	game: 'Barbie Rapunzel',
-	boxart: 'games/barbierapunzel.jpg',
-	vids:
-		[{
-			link: 'XhJTnSEPtnw',
 			date: '2023-12-09'
 		},
 	]
@@ -2170,24 +1949,6 @@ var streams =	[{
 		[{
 			link: 'teMe5zeK2NI',
 			date: '2023-11-11'
-		},
-	]
-},{
-	game: 'F-Zero 99',
-	boxart: 'games/fzero99.jpg',
-	vids:
-		[{
-			link: 'Mortu3zR7PA',
-			date: '2023-11-05'
-		},
-	]
-},{
-	game: 'Alien Isolation',
-	boxart: 'games/alienisolation.jpg',
-	vids:
-		[{
-			link: 'RJGX-CtSbwI',
-			date: '2023-11-01'
 		},
 	]
 },{
@@ -2266,12 +2027,30 @@ var streams =	[{
 		},
 	]
 },{
+	game: 'Brave Fencer Musashi',
+	boxart: 'games/bravefencermusashi.jpg',
+	vids:
+		[{
+			link: 'I_vGkR_56nI',
+			date: '2023-07-29'
+		},
+	]
+},{
 	game: 'Lost in Vivo',
 	boxart: 'games/lostinvivo.jpg',
 	vids:
 		[{
 			link: 'N0Z5Q0TodZw',
 			date: '2023-07-21'
+		},
+	]
+},{
+	game: 'Neon White',
+	boxart: 'games/neonwhite.jpg',
+	vids:
+		[{
+			link: 'n9l1sHgu6GU',
+			date: '2023-07-20'
 		},
 	]
 },{
@@ -2306,57 +2085,6 @@ var streams =	[{
 		},{
 			link: 'fHz5C0M8pzc',
 			date: '2023-07-15'
-		},
-	]
-},{
-	game: 'Groaning Steel',
-	boxart: 'games/groaningsteel.jpg',
-	vids:
-		[{
-			link: 'AtUqNG4HdSs',
-			date: '2022-10-26'
-		},
-	]
-},{
-	game: 'UmamusumePrettyDerby',
-	boxart: 'games/umamusumeprettyderby.jpg',
-	vids:
-		[{
-			date: '2025-06-28'
-		},
-	]
-},{
-	game: 'CrazyTaxi',
-	boxart: 'games/crazytaxi.jpg',
-	vids:
-		[{
-			date: '2025-05-31'
-		},
-	]
-},{
-	game: 'Elite Beat Agents',
-	boxart: 'games/elitebeatagents.jpg',
-	vids:
-		[{
-			date: '2025-04-16'
-		},
-	]
-},{
-	game: 'Brave Fencer Musashi',
-	boxart: 'games/bravefencermusashi.jpg',
-	vids:
-		[{
-			link: 'I_vGkR_56nI',
-			date: '2023-07-29'
-		},
-	]
-},{
-	game: 'Neon White',
-	boxart: 'games/neonwhite.jpg',
-	vids:
-		[{
-			link: 'n9l1sHgu6GU',
-			date: '2023-07-20'
 		},
 	]
 },{
@@ -2545,6 +2273,15 @@ var streams =	[{
 		[{
 			link: 'Toh6neQ2NHM',
 			date: '2022-11-08'
+		},
+	]
+},{
+	game: 'Groaning Steel',
+	boxart: 'games/groaningsteel.jpg',
+	vids:
+		[{
+			link: 'AtUqNG4HdSs',
+			date: '2022-10-26'
 		},
 	]
 },{

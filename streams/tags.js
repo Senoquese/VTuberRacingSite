@@ -29,6 +29,7 @@ var streamtags = {
 		"ResidentEvil3",
 		"MetalGearSolid",
 		"MetalGearSolid2",
+		"MetalGearSolid3",
 		"JetSetRadioFuture",
 		"KatamariDamacy",
 		"SuperMarioSunshine",
@@ -40,7 +41,8 @@ var streamtags = {
 		"LittleKingsStory",
 	],
 	ongoing: [
-		"Deadlock",
+		"Pikmin2",
+		"MetalGearSolid4",
 		"Mother3"
 	],
 	redeems: [
