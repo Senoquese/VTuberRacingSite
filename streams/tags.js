@@ -42,7 +42,7 @@ var streamtags = {
 		"Pikmin2",
 	],
 	ongoing: [
-		"TheSecretOfMonkeyIsland",
+		"TheSecretofMonkeyIsland",
 		"MetalGearSolid4",
 		"Mother3"
 	],
