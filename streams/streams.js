@@ -161,6 +161,12 @@ var streams =	[{
 		[
 	]
 },{
+	game: 'FearAndHunger',
+	boxart: 'games/fearandhunger.jpg',
+	vids:
+		[
+	]
+},{
 	game: 'Mario Kart 8 Deluxe',
 	boxart: 'games/mariokart8.jpg',
 	vids:
