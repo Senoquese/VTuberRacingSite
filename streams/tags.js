@@ -39,9 +39,10 @@ var streamtags = {
 		"MetalGearSolid3",
 		"SilentHill1",
 		"LittleKingsStory",
+		"Pikmin2",
 	],
 	ongoing: [
-		"Pikmin2",
+		"TheSecretOfMonkeyIsland",
 		"MetalGearSolid4",
 		"Mother3"
 	],
@@ -72,7 +73,8 @@ var streamtags = {
 		"PokemonEmerald",
 		"TinyToonAdventuresBustersHiddenTreasure",
 		"HaloCombatEvolved",
-		"SlimeRancher"
+		"SlimeRancher",
+		"FearAndHunger"
 	],
 	redeemsdone: [
 		"StarFox64",
