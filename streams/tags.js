@@ -40,11 +40,12 @@ var streamtags = {
 		"SilentHill1",
 		"LittleKingsStory",
 		"Pikmin2",
+		"SilentHill",
+		"KirbysDreamland",
+		"LuigisMansion",
 	],
 	ongoing: [
-		"TheSecretofMonkeyIsland",
-		"MetalGearSolid4",
-		"Mother3"
+		"SilentHill2"
 	],
 	redeems: [
 		"Vividlope",
@@ -74,7 +75,8 @@ var streamtags = {
 		"TinyToonAdventuresBustersHiddenTreasure",
 		"HaloCombatEvolved",
 		"SlimeRancher",
-		"FearAndHunger"
+		"FearAndHunger",
+		"EccoTheDolphin"
 	],
 	redeemsdone: [
 		"StarFox64",

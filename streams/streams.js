@@ -38,7 +38,10 @@ var streams =	[{
 	game: 'Super Mario World',
 	boxart: 'games/supermarioworld.jpg',
 	vids:
-		[
+		[{
+			link: 'L7FwHzNFJD0',
+			date: '2026-08-12'
+		},
 	]
 },{
 	game: 'Panzer Dragoon',
@@ -167,6 +170,328 @@ var streams =	[{
 		[
 	]
 },{
+	game: 'EccoTheDolphin',
+	boxart: 'games/eccothedolphin.jpg',
+	vids:
+		[
+	]
+},{
+	game: 'Yap',
+	boxart: 'games/yap.jpg',
+	vids:
+		[{
+			link: 'JueUQ3ub1dU',
+			title: 'SUNDAY EVENING ASHTON NEWS 📰 【Yap ＞ Gaming】',
+			date: '2024-09-30'
+		},{
+			link: 'GOYLFcAwRPI',
+			title: 'JAPAN RECAP ✈ with visuals! 【Japan Trip Yap pt 2】',
+			date: '2024-11-19'
+		},{
+			link: 'vBysxJ6JYKY',
+			title: 'JAPAN TRIP (the finale) ✈🗾 im working lateeee cuz im a race queeennnn 【Japan Trip Yap pt 3】',
+			date: '2024-11-22'
+		},{
+			link: 'lpw8XVetfgY',
+			title: 'time to appraise my spoils of war 🏆✨ 【HANDCAM】',
+			date: '2024-11-25'
+		},{
+			link: '7SJvD2XfBw4',
+			title: 'this stream will make you lose whamageddon 【Yap then Gaming】',
+			date: '2024-12-03'
+		},{
+			link: 'ws8OXtqXFSY',
+			title: 'lets start the new year off on the right paw! 🐾🎊 to send a resolution 【Happy New Year 2025!】',
+			date: '2025-01-06'
+		},{
+			link: 'BVHHPfjjJFs',
+			title: '🌧🌱🔖🧡 Vivaria Debut Watchalongs! 💖💫🍀🍯',
+			date: '2025-01-21'
+		},{
+			link: 'LLXmMI6dwos',
+			title: 'Racing into your Heart 💕💨 【Heartbreak Relay】',
+			date: '2025-02-14'
+		},{
+			link: 'NUKSjNOr75M',
+			title: 'daily allotted ashton marten appreciation hour',
+			date: '2025-04-23'
+		},{
+			link: 'y1Rre2uTse4',
+			title: 'its over pit crew i bet the track on the horse race testing. i have nothing to my name pit crew 【P',
+			date: '2025-04-29'
+		},{
+			link: '_VCQSV4_-r8',
+			title: 'IM IN A VTUBER CONCERT WITH DOOBY, NIMI, & HYUNI!!!! ✨Virtual Vacation 2025✨',
+			date: '2025-05-02'
+		},{
+			link: 'uUgm589OQHY',
+			title: 'coming to you live from a new location: ashton marten! 🐭💜💖 【Zatsu + ?】',
+			date: '2025-05-07'
+		},{
+			link: 'TnMjOUPK1Cg',
+			title: 'myaaaaaaa 【being lazy】',
+			date: '2025-05-27'
+		},{
+			link: 'mfL3H0oL6WE',
+			title: '【Japan Trip Recap】tip 1: dont go in august. tip 2: 🍛🍙🍘🍜🍣🍥🍵',
+			date: '2025-08-12'
+		},{
+			link: 'i9ve1-OKAg0',
+			title: 'its my party and ill cry if i want to 🥳🎉',
+			date: '2025-08-19'
+		},{
+			link: 'fNmlYmhQqKQ',
+			title: '【??】 going live a lil early because im indecisive',
+			date: '2025-09-19'
+		},{
+			link: 'Yf_lxC4t5c4',
+			title: 'im just live!',
+			date: '2026-04-06'
+		},{
+			link: '1d2DmuW3JCo',
+			title: 'shhhh dont tell anyone im live',
+			date: '2026-04-10'
+		},{
+			link: '1DU-IjZKQU4',
+			title: '【Drinking Zatsudan】 cheers to the weekend 🍻 bueghhhhhhhh malort.... 🤢',
+			date: '2026-04-26'
+		},{
+			link: 'S90CM6kH2kY',
+			title: 'lets go live and see what happens (pikmin? -dles? who knows... yapping? guaranteed)',
+			date: '2026-05-01'
+		},{
+			link: '2cF91DZqiLg',
+			title: '【Handcam ➡ Pikmin 2】 playing with my ouioui and my peepy!',
+			date: '2026-05-03'
+		},{
+			link: 'UTSenoeiU-4',
+			title: 'YAP YAP TIME‼ (game pending... -dles? media share? 🤔)',
+			date: '2026-05-19'
+		},{
+			link: '0_z9chC5zHk',
+			title: 'lazy sunday ft stuffy nose 🤧',
+			date: '2026-06-01'
+		},{
+			link: 'w4Gfsu6btxE',
+			title: 'saturday streamin! 🐭',
+			date: '2026-06-07'
+		},{
+			link: 'lauaSZeDQN8',
+			title: 'indecisive ashton streams again (gaming guaranteed!)',
+			date: '2026-06-10'
+		},{
+			link: 'DdP9P0mYuNM',
+			title: 'i debuted 4 years ago! ✨💐',
+			date: '2026-06-19'
+		},{
+			link: 'sx8W3rD4e-w',
+			title: 'HEART RACER OUT NOW!!! 💖🐭🎶💜 celebrating the release of my newest song!',
+			date: '2026-06-27'
+		},{
+			link: 'snItQpDWhys',
+			title: '【Post-AX Zatsudan】 we got disneyland at home 🏰🐭',
+			date: '2026-07-14'
+		},{
+			link: 'OK4KRfLNYko',
+			title: 'sunday scaries stream 😱',
+			date: '2026-07-14'
+		},{
+			link: 'ORxJeEhyfYI',
+			title: '【Zatsu + Handcam】 ashtons back ALRIGHT 💃💃💃',
+			date: '2026-07-29'
+		},{
+			link: 'ACUEZuzSvVE',
+			title: 'The Announcement! 💜💖',
+			date: '2026-07-29'
+		},{
+			link: 'j-yP-Pp_eOs',
+			title: 'sunday streamy 🎥',
+			date: '2026-08-09'
+		},{
+			link: '-hGw0o68qs4',
+			title: '【My Birthday 2026】 its my party and ill cry if i want to! 🎈(˃̣̣̥ヘ˂̣̣̥)🎂',
+			date: '2026-08-18'
+		},{
+			link: 'UChCyg5RYCk',
+			title: 'chilla n bug munching on a big apple 🐭🍎🐞 (away-from-home zatsu w @beribug )',
+			date: '2026-08-23'
+		},{
+			link: 'Zojhyp1vcX4',
+			title: 'back from my weekend in NYC! 🍎😋',
+			date: '2026-08-25'
+		},{
+			link: 'Nro6y7mXa50',
+			title: '【Yaps】 post-wildcard club audition edition',
+			date: '2026-08-28'
+		},{
+			link: 'jqLrk2NhW1A',
+			title: '【Yaps】 TWOOOO NINTENDO DIRECTS EDITION?!?! 🤩',
+			date: '2026-09-09'
+		},{
+			link: 'J0tt4oHfJq0',
+			title: 'sayonara stream! ✈🗾🎌 see ya in japan 👋',
+			date: '2026-10-04'
+		},
+	]
+},{
+	game: 'Dressmaker',
+	boxart: 'games/dressmaker.jpg',
+	vids:
+		[{
+			link: 'U1u4MlK43vk',
+			date: '2026-10-01'
+		},
+	]
+},{
+	game: 'Deadlock',
+	boxart: 'games/deadlock.jpg',
+	vids:
+		[{
+			link: '5jayvQQVzMg',
+			date: '2025-09-23'
+		},{
+			link: 'pqcHSS1UJ8Q',
+			date: '2026-03-28'
+		},{
+			link: 'GaO9gheR2ds',
+			date: '2026-03-29'
+		},{
+			link: 'h_QEDlaOgc4',
+			date: '2026-03-29'
+		},{
+			link: 'DraxBXUC2yo',
+			date: '2026-04-03'
+		},{
+			link: 'GH83DCTYljU',
+			date: '2026-04-05'
+		},{
+			link: 'ApW1uv4km7A',
+			date: '2026-04-17'
+		},{
+			link: 'cBi_WaXIIoQ',
+			date: '2026-05-15'
+		},{
+			link: 'HYv-wj-xars',
+			date: '2026-06-19'
+		},{
+			link: 'J8dCKK4_GUY',
+			date: '2026-08-01'
+		},{
+			link: 'Tlo9Vksyuxg',
+			date: '2026-09-17'
+		},{
+			link: 's5UaQ-Rm8io',
+			date: '2026-09-29'
+		},
+	]
+},{
+	game: 'Silent Hill 2',
+	boxart: 'games/silenthill2.jpg',
+	vids:
+		[{
+			link: 'lmaXVmj7d7A',
+			date: '2026-09-13'
+		},{
+			link: 'QRcj3K2tYlw',
+			date: '2026-09-16'
+		},{
+			link: 'OPuDRu2--qA',
+			date: '2026-09-23'
+		},{
+			link: '87lFuTahu7g',
+			date: '2026-09-27'
+		},
+	]
+},{
+	game: 'Nintendo Switch Online',
+	boxart: 'games/nsonight.jpg',
+	vids:
+		[{
+			link: 'oDjIuiaMQ0o',
+			date: '2026-08-13'
+		},{
+			link: '7RaDnd1VPto',
+			date: '2026-08-17'
+		},{
+			link: 'Rg8ipF8vtOA',
+			date: '2026-09-10'
+		},{
+			link: 'NXxSLcnI0jc',
+			date: '2026-09-22'
+		},
+	]
+},{
+	game: 'SCP Containment Breach',
+	boxart: 'games/scpcontainmentbreach.jpg',
+	vids:
+		[{
+			link: 'rv-Rswgn7DQ',
+			date: '2026-09-20'
+		},
+	]
+},{
+	game: 'Karaoke',
+	boxart: 'games/karaoke.jpg',
+	vids:
+		[{
+			link: 'GLaAEEjADFg',
+			title: '🍂 falling leaves are turning into snow ❄ 【Karaoke】',
+			date: '2024-11-30'
+		},{
+			link: 'CaiBgyWDwFM',
+			title: '【Happy Valentines Day】',
+			date: '2025-02-15'
+		},{
+			link: 'y7ToXmA9a88',
+			title: '📡⋆｡°· beaming in live from space 【Karaoke Night】',
+			date: '2025-03-22'
+		},{
+			link: '1CVPhuyx6HU',
+			title: 'THE FINAL KARAOKE (in my current rat nest) 【Karaoke】',
+			date: '2025-05-01'
+		},{
+			link: 'UdV29qCBN80',
+			title: 'concert practice! 🎙🐭 【Karaoke Night】',
+			date: '2025-05-29'
+		},{
+			link: '7linkxF_q3Y',
+			title: 'long time, no sing!!! 🎤🎶 bringing the japanese back from japan! 【Karaoke】',
+			date: '2025-08-08'
+		},{
+			link: '5Qbiaehnc0E',
+			title: '【Unarchived Karaoke】 singin songs on the road together 🚗💨',
+			date: '2026-08-01'
+		},{
+			link: '8Pu-CU8_Qq0',
+			title: '【Unarchived Karaoke】 late night summer songs 🎤',
+			date: '2026-09-11'
+		},
+	]
+},{
+	game: 'The Choicer Voicer',
+	boxart: 'games/thechoicervoicer.jpg',
+	vids:
+		[{
+			link: 'lvDJksSzENA',
+			date: '2026-09-06'
+		},
+	]
+},{
+	game: 'Luigis Mansion',
+	boxart: 'games/luigismansion.jpg',
+	vids:
+		[{
+			link: 'WIUZQBmZ8bY',
+			date: '2026-09-01'
+		},{
+			link: '_SYeLAenHJw',
+			date: '2026-09-02'
+		},{
+			link: 'AWbwnsPI5uQ',
+			date: '2026-09-03'
+		},
+	]
+},{
 	game: 'Mario Kart 8 Deluxe',
 	boxart: 'games/mariokart8.jpg',
 	vids:
@@ -275,87 +600,47 @@ var streams =	[{
 		},{
 			date: '2025-12-01'
 		},{
-			link: '0TCPI6KLDtQ',
-			date: '2026-03-02'
-		},{
-			link: 'vZBNJs_7l24',
-			date: '2026-03-23'
-		},{
 			link: 'AQfo6KWhOlg',
 			date: '2026-04-27'
 		},{
 			link: 'J3Vu3IXCGkQ',
 			date: '2026-08-03'
+		},{
+			link: 'gbMdmmCx5dY',
+			date: '2026-08-30'
 		},
 	]
 },{
-	game: 'Deadlock',
-	boxart: 'games/deadlock.jpg',
+	game: 'Kirbys Dreamland',
+	boxart: 'games/kirbysdreamland.jpg',
 	vids:
 		[{
-			link: '5jayvQQVzMg',
-			date: '2025-09-23'
-		},{
-			link: 'pqcHSS1UJ8Q',
-			date: '2026-03-28'
-		},{
-			link: 'GaO9gheR2ds',
-			date: '2026-03-29'
-		},{
-			link: 'h_QEDlaOgc4',
-			date: '2026-03-29'
-		},{
-			link: 'DraxBXUC2yo',
-			date: '2026-04-03'
-		},{
-			link: 'GH83DCTYljU',
-			date: '2026-04-05'
-		},{
-			link: 'ApW1uv4km7A',
-			date: '2026-04-17'
-		},{
-			link: 'cBi_WaXIIoQ',
-			date: '2026-05-15'
-		},{
-			link: 'HYv-wj-xars',
-			date: '2026-06-19'
-		},{
-			link: 'J8dCKK4_GUY',
-			date: '2026-08-01'
+			link: 'uT7yIYcI4pk',
+			date: '2026-08-08'
 		},
 	]
 },{
-	game: 'Karaoke',
-	boxart: 'games/karaoke.jpg',
+	game: 'Rhythm Heaven Groove',
+	boxart: 'games/rhythmheavengroove.jpg',
 	vids:
 		[{
-			link: 'GLaAEEjADFg',
-			title: '🍂 falling leaves are turning into snow ❄ 【Karaoke】',
-			date: '2024-11-30'
+			link: 'FWpvXkvNTfw',
+			date: '2026-07-10'
 		},{
-			link: 'CaiBgyWDwFM',
-			title: '【Happy Valentines Day】',
-			date: '2025-02-15'
+			link: 'bjUaFJyXzvM',
+			date: '2026-07-19'
 		},{
-			link: 'y7ToXmA9a88',
-			title: '📡⋆｡°· beaming in live from space 【Karaoke Night】',
-			date: '2025-03-22'
-		},{
-			link: '1CVPhuyx6HU',
-			title: 'THE FINAL KARAOKE (in my current rat nest) 【Karaoke】',
-			date: '2025-05-01'
-		},{
-			link: 'UdV29qCBN80',
-			title: 'concert practice! 🎙🐭 【Karaoke Night】',
-			date: '2025-05-29'
-		},{
-			link: '7linkxF_q3Y',
-			title: 'long time, no sing!!! 🎤🎶 bringing the japanese back from japan! 【Karaoke】',
-			date: '2025-08-08'
-		},{
-			link: '5Qbiaehnc0E',
-			title: '【Unarchived Karaoke】 singin songs on the road together 🚗💨',
-			date: '2026-08-01'
+			link: '42hSgxMfAn4',
+			date: '2026-08-05'
+		},
+	]
+},{
+	game: 'Big Walk',
+	boxart: 'games/bigwalk.jpg',
+	vids:
+		[{
+			link: 'ArA4dR6IzjM',
+			date: '2026-08-04'
 		},
 	]
 },{
@@ -368,152 +653,6 @@ var streams =	[{
 		},{
 			link: 'rCmxFd4uQ4I',
 			date: '2026-07-31'
-		},
-	]
-},{
-	game: 'Yap',
-	boxart: 'games/yap.jpg',
-	vids:
-		[{
-			link: 'JueUQ3ub1dU',
-			title: 'SUNDAY EVENING ASHTON NEWS 📰 【Yap ＞ Gaming】',
-			date: '2024-09-30'
-		},{
-			link: 'GOYLFcAwRPI',
-			title: 'JAPAN RECAP ✈ with visuals! 【Japan Trip Yap pt 2】',
-			date: '2024-11-19'
-		},{
-			link: 'vBysxJ6JYKY',
-			title: 'JAPAN TRIP (the finale) ✈🗾 im working lateeee cuz im a race queeennnn 【Japan Trip Yap pt 3】',
-			date: '2024-11-22'
-		},{
-			link: 'lpw8XVetfgY',
-			title: 'time to appraise my spoils of war 🏆✨ 【HANDCAM】',
-			date: '2024-11-25'
-		},{
-			link: '7SJvD2XfBw4',
-			title: 'this stream will make you lose whamageddon 【Yap then Gaming】',
-			date: '2024-12-03'
-		},{
-			link: 'ws8OXtqXFSY',
-			title: 'lets start the new year off on the right paw! 🐾🎊 to send a resolution 【Happy New Year 2025!】',
-			date: '2025-01-06'
-		},{
-			link: 'BVHHPfjjJFs',
-			title: '🌧🌱🔖🧡 Vivaria Debut Watchalongs! 💖💫🍀🍯',
-			date: '2025-01-21'
-		},{
-			link: 'LLXmMI6dwos',
-			title: 'Racing into your Heart 💕💨 【Heartbreak Relay】',
-			date: '2025-02-14'
-		},{
-			link: 'NUKSjNOr75M',
-			title: 'daily allotted ashton marten appreciation hour',
-			date: '2025-04-23'
-		},{
-			link: 'y1Rre2uTse4',
-			title: 'its over pit crew i bet the track on the horse race testing. i have nothing to my name pit crew 【P',
-			date: '2025-04-29'
-		},{
-			link: '_VCQSV4_-r8',
-			title: 'IM IN A VTUBER CONCERT WITH DOOBY, NIMI, & HYUNI!!!! ✨Virtual Vacation 2025✨',
-			date: '2025-05-02'
-		},{
-			link: 'uUgm589OQHY',
-			title: 'coming to you live from a new location: ashton marten! 🐭💜💖 【Zatsu + ?】',
-			date: '2025-05-07'
-		},{
-			link: 'TnMjOUPK1Cg',
-			title: 'myaaaaaaa 【being lazy】',
-			date: '2025-05-27'
-		},{
-			link: 'mfL3H0oL6WE',
-			title: '【Japan Trip Recap】tip 1: dont go in august. tip 2: 🍛🍙🍘🍜🍣🍥🍵',
-			date: '2025-08-12'
-		},{
-			link: 'i9ve1-OKAg0',
-			title: 'its my party and ill cry if i want to 🥳🎉',
-			date: '2025-08-19'
-		},{
-			link: 'fNmlYmhQqKQ',
-			title: '【??】 going live a lil early because im indecisive',
-			date: '2025-09-19'
-		},{
-			link: 'cN8gS4tOsEQ',
-			title: 'its twitch 3rd partner-versary! 🎉🥳',
-			date: '2026-01-09'
-		},{
-			link: 'VYSUyJmeB90',
-			title: 'this was supposed to be a gaming stream but i yapped the whole time sorry...',
-			date: '2026-03-01'
-		},{
-			link: '0TCPI6KLDtQ',
-			title: '【 yap ➡ Mario Kart 8 DX 】 IM BACK!!!! 💖💜💖 i raced home from my vacation but my engines still revvin',
-			date: '2026-03-02'
-		},{
-			link: 'X6EmVl9pXu4',
-			title: '💖💜💖🏁HAPPY MAR.TEN DAY!!!🏁💜💖💜',
-			date: '2026-03-11'
-		},{
-			link: 'Yf_lxC4t5c4',
-			title: 'im just live!',
-			date: '2026-04-06'
-		},{
-			link: '1d2DmuW3JCo',
-			title: 'shhhh dont tell anyone im live',
-			date: '2026-04-10'
-		},{
-			link: '1DU-IjZKQU4',
-			title: '【Drinking Zatsudan】 cheers to the weekend 🍻 bueghhhhhhhh malort.... 🤢',
-			date: '2026-04-26'
-		},{
-			link: 'S90CM6kH2kY',
-			title: 'lets go live and see what happens (pikmin? -dles? who knows... yapping? guaranteed)',
-			date: '2026-05-01'
-		},{
-			link: '2cF91DZqiLg',
-			title: '【Handcam ➡ Pikmin 2】 playing with my ouioui and my peepy!',
-			date: '2026-05-03'
-		},{
-			link: 'UTSenoeiU-4',
-			title: 'YAP YAP TIME‼ (game pending... -dles? media share? 🤔)',
-			date: '2026-05-19'
-		},{
-			link: '0_z9chC5zHk',
-			title: 'lazy sunday ft stuffy nose 🤧',
-			date: '2026-06-01'
-		},{
-			link: 'w4Gfsu6btxE',
-			title: 'saturday streamin! 🐭',
-			date: '2026-06-07'
-		},{
-			link: 'lauaSZeDQN8',
-			title: 'indecisive ashton streams again (gaming guaranteed!)',
-			date: '2026-06-10'
-		},{
-			link: 'DdP9P0mYuNM',
-			title: 'i debuted 4 years ago! ✨💐',
-			date: '2026-06-19'
-		},{
-			link: 'sx8W3rD4e-w',
-			title: 'HEART RACER OUT NOW!!! 💖🐭🎶💜 celebrating the release of my newest song!',
-			date: '2026-06-27'
-		},{
-			link: 'snItQpDWhys',
-			title: '【Post-AX Zatsudan】 we got disneyland at home 🏰🐭',
-			date: '2026-07-14'
-		},{
-			link: 'OK4KRfLNYko',
-			title: 'sunday scaries stream 😱',
-			date: '2026-07-14'
-		},{
-			link: 'ORxJeEhyfYI',
-			title: '【Zatsu + Handcam】 ashtons back ALRIGHT 💃💃💃',
-			date: '2026-07-29'
-		},{
-			link: 'ACUEZuzSvVE',
-			title: 'The Announcement! 💜💖',
-			date: '2026-07-29'
 		},
 	]
 },{
@@ -544,18 +683,6 @@ var streams =	[{
 		},{
 			link: 'W0035sWr-R4',
 			date: '2026-07-21'
-		},
-	]
-},{
-	game: 'Rhythm Heaven Groove',
-	boxart: 'games/rhythmheavengroove.jpg',
-	vids:
-		[{
-			link: 'FWpvXkvNTfw',
-			date: '2026-07-10'
-		},{
-			link: 'bjUaFJyXzvM',
-			date: '2026-07-19'
 		},
 	]
 },{
@@ -657,9 +784,6 @@ var streams =	[{
 			link: 'gM0214rmyno',
 			date: '2025-09-09'
 		},{
-			link: 'vJ0uvIG88Yo',
-			date: '2026-02-03'
-		},{
 			link: 'A_3JL1oDlKQ',
 			date: '2026-06-23'
 		},
@@ -669,15 +793,6 @@ var streams =	[{
 	boxart: 'games/mother3.jpg',
 	vids:
 		[{
-			link: 'sy8djxIFEdo',
-			date: '2026-01-30'
-		},{
-			link: 'uqYL2ti_GMg',
-			date: '2026-02-02'
-		},{
-			link: 'LEoRU2HYImw',
-			date: '2026-03-09'
-		},{
 			link: 'LaCYTDsWqqY',
 			date: '2026-05-11'
 		},{
@@ -818,231 +933,6 @@ var streams =	[{
 		},
 	]
 },{
-	game: 'Little Kings Story',
-	boxart: 'games/littlekingsstory.jpg',
-	vids:
-		[{
-			link: '3sITczDLz8s',
-			date: '2026-02-05'
-		},{
-			link: 'p_FZTEyCgco',
-			date: '2026-02-07'
-		},{
-			link: 'zkgU3fKitOE',
-			date: '2026-03-13'
-		},{
-			link: 'msaLc1KI67A',
-			date: '2026-03-16'
-		},{
-			link: 'FX6iuWDEy7I',
-			date: '2026-03-17'
-		},{
-			link: '8R7Q83NACbI',
-			date: '2026-03-19'
-		},{
-			link: 'u4ue42sGFSA',
-			date: '2026-03-20'
-		},{
-			link: 'YtGg_RlR3xE',
-			date: '2026-03-25'
-		},
-	]
-},{
-	game: 'Silent Hill 1',
-	boxart: 'games/silenthill.jpg',
-	vids:
-		[{
-			link: 'ltZIs-UHNx4',
-			date: '2026-02-13'
-		},{
-			link: '75b4XC0KXk0',
-			date: '2026-02-19'
-		},{
-			link: 'FkutF9Kau6s',
-			date: '2026-03-04'
-		},{
-			link: 'KYhU4Z0KfNQ',
-			date: '2026-03-07'
-		},{
-			link: 'sc0vSfODrrA',
-			date: '2026-03-07'
-		},
-	]
-},{
-	game: 'Bioshock',
-	boxart: 'games/bioshock.jpg',
-	vids:
-		[{
-			link: 'J71GAbXyG_M',
-			date: '2025-09-25'
-		},{
-			link: 'XxPdZX4qtLo',
-			date: '2025-10-16'
-		},{
-			link: 'OvYBX2HvFuo',
-			date: '2026-02-18'
-		},
-	]
-},{
-	game: 'Debut',
-	boxart: 'games/debut.jpg',
-	vids:
-		[{
-			link: 'nTiW-SEUCj8',
-			title: '【💖 3D DEBUT 💜】 ASHTON ROLLS INTO A NEW DIMENSION! 🐭💨',
-			date: '2023-04-29'
-		},{
-			link: 'KzIJ9XB7Oek',
-			title: '🩰 The Nutcracker 🩰 Presented by Ashton Marten (SEASON FINALE) 【 3D Outfit Debut 】',
-			date: '2024-12-29'
-		},{
-			link: 'IoL3XsRQ73w',
-			title: '【Gummy Debut】 noooo ive been turned into an adorable squishy gummy 🥺 please dont eat meeee 🥺🍭🍬🍫',
-			date: '2026-02-15'
-		},
-	]
-},{
-	game: 'AmongUs',
-	boxart: 'games/amongus.jpg',
-	vids:
-		[{
-			date: '2025-07-21'
-		},{
-			link: 'z1yv3pPeqVE',
-			date: '2025-07-28'
-		},{
-			link: 'jqlTRG5gLFU',
-			date: '2025-10-13'
-		},{
-			date: '2025-12-15'
-		},{
-			link: 'Qg-5VuI1bxM',
-			date: '2026-02-10'
-		},
-	]
-},{
-	game: 'Pikmin 1',
-	boxart: 'games/pikmin1.jpg',
-	vids:
-		[{
-			link: 'P8j4Wj6zSno',
-			date: '2026-01-28'
-		},{
-			link: '_h3m2c88Yg8',
-			date: '2026-01-31'
-		},
-	]
-},{
-	game: 'Castlevania',
-	boxart: 'games/castlevania1.jpg',
-	vids:
-		[{
-			link: 'gFJs2X19F8U',
-			date: '2026-01-30'
-		},
-	]
-},{
-	game: 'Riven',
-	boxart: 'games/riven.jpg',
-	vids:
-		[{
-			date: '2025-12-09'
-		},{
-			date: '2025-12-11'
-		},{
-			link: 'poJRCetZgWc',
-			date: '2026-01-15'
-		},{
-			link: 'sZSjj24UMms',
-			date: '2026-01-23'
-		},
-	]
-},{
-	game: 'Return of the Obra Dinn',
-	boxart: 'games/returnoftheobradinn.jpg',
-	vids:
-		[{
-			link: 'PHL_BOXibNk',
-			date: '2026-01-19'
-		},
-	]
-},{
-	game: 'Metal Gear Solid 3',
-	boxart: 'games/mgs3.jpg',
-	vids:
-		[{
-			link: '5GVRG62oQSI',
-			date: '2025-08-29'
-		},{
-			link: 'kEkTyxNDeu4',
-			date: '2025-09-04'
-		},{
-			link: 'l_WIy4fn6Mw',
-			date: '2025-09-12'
-		},{
-			link: '2oqPGU2YqPE',
-			date: '2025-10-03'
-		},{
-			date: '2025-11-18'
-		},{
-			link: 'qGTPLa95Uog',
-			date: '2026-01-17'
-		},
-	]
-},{
-	game: 'Super Mario Sunshine',
-	boxart: 'games/supermariosunshine.jpg',
-	vids:
-		[{
-			date: '2025-11-22'
-		},{
-			date: '2025-11-29'
-		},{
-			date: '2025-12-04'
-		},{
-			date: '2025-12-17'
-		},{
-			link: 'NGc60cZC0l4',
-			date: '2026-01-10'
-		},
-	]
-},{
-	game: 'WinterBreakDonothon',
-	boxart: 'games/winterbreakdonothon.jpg',
-	vids:
-		[{
-			title: '【Winter Break Donothon Day 1】 LET IT SNOW ❄❄',
-			date: '2025-12-26'
-		},{
-			title: '【Winter Break Donothon Day 2】 long day of shoveling snow ahead ❄ get cozy, pit crew!',
-			date: '2025-12-27'
-		},{
-			title: '【Winter Break Donothon Day 3】 long day of shoveling snow ahead ❄ get cozy, pit crew!',
-			date: '2025-12-28'
-		},{
-			title: '【Winter Break Donothon Day 5】 simply having a wonderful chilla time 🐭❄',
-			date: '2025-12-30'
-		},{
-			title: '【Winter Break Donothon Day 6】 happy new year! 🎆🐭',
-			date: '2025-12-31'
-		},{
-			title: '【Winter Break Donothon Day 7】 2026! i havent seen you guys since last year 🐭',
-			date: '2026-01-01'
-		},{
-			link: 'M61-aKPlcG8',
-			title: '【Winter Break Donothon Day 8】 give it up for 1 week, yall!!! 1 week of donothon!!!',
-			date: '2026-01-02'
-		},{
-			link: 'tpvejFrae24',
-			title: '【Winter Break Donothon Day 9】 ITS DONOTHON END EVE!! 🍻',
-			date: '2026-01-03'
-		},{
-			link: 'wTaW8rNVm6U',
-			title: '【Winter Break Donothon Day 10】 The Finale!',
-			date: '2026-01-04'
-		},
-	]
-},{
 	game: 'Bloodborne',
 	boxart: 'games/bloodborne.jpg',
 	vids:
@@ -1068,6 +958,26 @@ var streams =	[{
 		},
 	]
 },{
+	game: 'Metal Gear Solid 3',
+	boxart: 'games/mgs3.jpg',
+	vids:
+		[{
+			link: '5GVRG62oQSI',
+			date: '2025-08-29'
+		},{
+			link: 'kEkTyxNDeu4',
+			date: '2025-09-04'
+		},{
+			link: 'l_WIy4fn6Mw',
+			date: '2025-09-12'
+		},{
+			link: '2oqPGU2YqPE',
+			date: '2025-10-03'
+		},{
+			date: '2025-11-18'
+		},
+	]
+},{
 	game: 'Katamari Damacy',
 	boxart: 'games/katamaridamacy.jpg',
 	vids:
@@ -1083,6 +993,22 @@ var streams =	[{
 		},{
 			link: '6REE7fR5Kj0',
 			date: '2025-08-26'
+		},
+	]
+},{
+	game: 'AmongUs',
+	boxart: 'games/amongus.jpg',
+	vids:
+		[{
+			date: '2025-07-21'
+		},{
+			link: 'z1yv3pPeqVE',
+			date: '2025-07-28'
+		},{
+			link: 'jqlTRG5gLFU',
+			date: '2025-10-13'
+		},{
+			date: '2025-12-15'
 		},
 	]
 },{
@@ -1436,6 +1362,20 @@ var streams =	[{
 		},
 	]
 },{
+	game: 'Debut',
+	boxart: 'games/debut.jpg',
+	vids:
+		[{
+			link: 'nTiW-SEUCj8',
+			title: '【💖 3D DEBUT 💜】 ASHTON ROLLS INTO A NEW DIMENSION! 🐭💨',
+			date: '2023-04-29'
+		},{
+			link: 'KzIJ9XB7Oek',
+			title: '🩰 The Nutcracker 🩰 Presented by Ashton Marten (SEASON FINALE) 【 3D Outfit Debut 】',
+			date: '2024-12-29'
+		},
+	]
+},{
 	game: 'Need for Speed: Most Wanted',
 	boxart: 'games/needforspeedmostwanted.jpg',
 	vids:
@@ -1487,6 +1427,65 @@ var streams =	[{
 		},
 	]
 },{
+	game: 'Super Mario Sunshine',
+	boxart: 'games/supermariosunshine.jpg',
+	vids:
+		[{
+			date: '2025-11-22'
+		},{
+			date: '2025-11-29'
+		},{
+			date: '2025-12-04'
+		},{
+			date: '2025-12-17'
+		},{
+			date: '2026-01-10'
+		},
+	]
+},{
+	game: 'WinterBreakDonothon',
+	boxart: 'games/winterbreakdonothon.jpg',
+	vids:
+		[{
+			title: '【Winter Break Donothon Day 1】 LET IT SNOW ❄❄',
+			date: '2025-12-26'
+		},{
+			title: '【Winter Break Donothon Day 2】 long day of shoveling snow ahead ❄ get cozy, pit crew!',
+			date: '2025-12-27'
+		},{
+			title: '【Winter Break Donothon Day 3】 long day of shoveling snow ahead ❄ get cozy, pit crew!',
+			date: '2025-12-28'
+		},{
+			title: '【Winter Break Donothon Day 5】 simply having a wonderful chilla time 🐭❄',
+			date: '2025-12-30'
+		},{
+			title: '【Winter Break Donothon Day 6】 happy new year! 🎆🐭',
+			date: '2025-12-31'
+		},{
+			title: '【Winter Break Donothon Day 7】 2026! i havent seen you guys since last year 🐭',
+			date: '2026-01-01'
+		},{
+			title: '【Winter Break Donothon Day 8】 give it up for 1 week, yall!!! 1 week of donothon!!!',
+			date: '2026-01-02'
+		},{
+			title: '【Winter Break Donothon Day 9】 ITS DONOTHON END EVE!! 🍻',
+			date: '2026-01-03'
+		},{
+			title: '【Winter Break Donothon Day 10】 The Finale!',
+			date: '2026-01-04'
+		},
+	]
+},{
+	game: 'Riven',
+	boxart: 'games/riven.jpg',
+	vids:
+		[{
+			date: '2025-12-09'
+		},{
+			date: '2025-12-11'
+		},
+	]
+},{
 	game: 'Resident Evil 4',
 	boxart: 'games/residentevil4.jpg',
 	vids:
@@ -1525,6 +1524,18 @@ var streams =	[{
 		},{
 			link: 'YvR1GbWIruM',
 			date: '2025-10-24'
+		},
+	]
+},{
+	game: 'Bioshock',
+	boxart: 'games/bioshock.jpg',
+	vids:
+		[{
+			link: 'J71GAbXyG_M',
+			date: '2025-09-25'
+		},{
+			link: 'XxPdZX4qtLo',
+			date: '2025-10-16'
 		},
 	]
 },{
