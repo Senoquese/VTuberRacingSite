@@ -1563,6 +1563,10 @@ var streams =	[{
 			title: '🩰 The Nutcracker 🩰 Presented by Ashton Marten (SEASON FINALE) 【 3D Outfit Debut 】',
 			date: '2024-12-29'
 		},{
+			link: 'TtIUUJusB0s',
+			title: '【VTUBER】💜 Ashton Marten the Roller Rodent Race Queen Waves Her Flag 💖 【DEBUT STREAM ARCHIVE】',
+			date: '2025-02-12'
+		},{
 			link: 'IoL3XsRQ73w',
 			title: '【Gummy Debut】 noooo ive been turned into an adorable squishy gummy 🥺 please dont eat meeee 🥺🍭🍬🍫',
 			date: '2026-02-15'
