@@ -412,9 +412,6 @@ var streams =	[{
 			title: '✈ OFFKAI TRIP RECAP ✨ honeyyyy im baaaack!!!',
 			date: '2024-06-07'
 		},{
-			title: 'SPACE CADET PINBALL ✨🚀 and other retro gaming!',
-			date: '2024-06-08'
-		},{
 			link: 'yzRwQem4cgo',
 			title: 'Space 🪐 Cadet After Party! 🥂',
 			date: '2024-06-09'
@@ -598,9 +595,6 @@ var streams =	[{
 			link: 'i9ve1-OKAg0',
 			title: 'its my party and ill cry if i want to 🥳🎉',
 			date: '2025-08-19'
-		},{
-			title: '【VRChat】 world hopping and wigglin~',
-			date: '2025-08-22'
 		},{
 			title: 'FRIDAY NIGHT BIRTHDAY PARTY🎉🥳🥂',
 			date: '2025-08-23'
@@ -2171,6 +2165,8 @@ var streams =	[{
 			link: '8yCciyYr5eo',
 			date: '2024-10-25'
 		},{
+			date: '2025-08-22'
+		},{
 			link: 'n3fE1bC3ktE',
 			date: '2025-08-22'
 		},
@@ -3453,8 +3449,6 @@ var streams =	[{
 	boxart: 'games/poleposition.jpg',
 	vids:
 		[{
-			date: '2022-06-23'
-		},{
 			link: '_9sD7BRffRw',
 			date: '2022-07-02'
 		},
@@ -3481,6 +3475,14 @@ var streams =	[{
 	vids:
 		[{
 			date: '2025-04-16'
+		},
+	]
+},{
+	game: '3D Pinball Space Cadet',
+	boxart: 'games/3dpinball.jpg',
+	vids:
+		[{
+			date: '2024-06-08'
 		},
 	]
 },{
