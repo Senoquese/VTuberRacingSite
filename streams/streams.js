@@ -1033,6 +1033,8 @@ var streams =	[{
 			link: 'DGoEhRPWcog',
 			date: '2022-08-27'
 		},{
+			date: '2022-11-24'
+		},{
 			link: '7hLLH4wzy7s',
 			date: '2022-12-10'
 		},{
@@ -1096,6 +1098,8 @@ var streams =	[{
 			link: 'W7mk4CE1GVc',
 			date: '2023-09-25'
 		},{
+			date: '2023-10-09'
+		},{
 			link: 'Qg7FHl34qC8',
 			date: '2023-10-15'
 		},{
@@ -1137,6 +1141,8 @@ var streams =	[{
 		},{
 			link: 'mbWDRd97M-4',
 			date: '2025-05-18'
+		},{
+			date: '2025-06-09'
 		},{
 			link: 'b6DOP36zvdE',
 			date: '2025-07-27'
@@ -1407,8 +1413,12 @@ var streams =	[{
 			link: 'FZAOKkjbTKw',
 			date: '2022-07-29'
 		},{
+			date: '2022-08-05'
+		},{
 			link: 'AeGPgDlZ6G8',
 			date: '2022-09-23'
+		},{
+			date: '2022-10-14'
 		},{
 			link: 'szB99wGI9cU',
 			date: '2023-06-24'
@@ -2240,6 +2250,8 @@ var streams =	[{
 		},{
 			link: 'y5803W5r1CQ',
 			date: '2025-04-10'
+		},{
+			date: '2025-04-19'
 		},
 	]
 },{
@@ -3456,31 +3468,11 @@ var streams =	[{
 		},
 	]
 },{
-	game: 'MarioKart8Deluxe',
-	boxart: 'games/mariokart8deluxe.jpg',
-	vids:
-		[{
-			date: '2022-11-24'
-		},{
-			date: '2023-10-09'
-		},{
-			date: '2025-06-09'
-		},
-	]
-},{
 	game: 'Crazy Taxi',
 	boxart: 'games/crazytaxi.jpg',
 	vids:
 		[{
 			date: '2025-05-31'
-		},
-	]
-},{
-	game: 'MetalGearSolid2',
-	boxart: 'games/metalgearsolid2.jpg',
-	vids:
-		[{
-			date: '2025-04-19'
 		},
 	]
 },{
@@ -3492,21 +3484,11 @@ var streams =	[{
 		},
 	]
 },{
-	game: 'AreYouSmarterthana5thGrader?',
-	boxart: 'games/areyousmarterthana5thgrader?.jpg',
+	game: 'Are You Smarter than a 5th Grader',
+	boxart: 'games/areyousmarterthana5thgrader.jpg',
 	vids:
 		[{
 			date: '2022-12-01'
-		},
-	]
-},{
-	game: 'ForzaHorizon5',
-	boxart: 'games/forzahorizon5.jpg',
-	vids:
-		[{
-			date: '2022-08-05'
-		},{
-			date: '2022-10-14'
 		},
 	]
 },{
