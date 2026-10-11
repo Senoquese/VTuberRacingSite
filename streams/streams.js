@@ -371,10 +371,6 @@ var streams =	[{
 			title: 'chinchillin on a monday evenin ⭐☁',
 			date: '2024-02-27'
 		},{
-			link: '377qZwhQ-m0',
-			title: 'chinchillin on a monday evenin ⭐☁',
-			date: '2024-02-27'
-		},{
 			link: 'qYERK38Dw6g',
 			title: 'happy white day! 🥧 (t/n: white day is a day commonly celebrated in japan and other asian countries where gifts are given reciprocally to th',
 			date: '2024-03-15'
@@ -404,17 +400,9 @@ var streams =	[{
 			title: 'lunch chat',
 			date: '2024-05-17'
 		},{
-			link: 'JmHvN3LMk48',
-			title: 'lunch chat',
-			date: '2024-05-17'
-		},{
 			link: 'f8uJaUBP39Y',
 			title: '✈ OFFKAI TRIP RECAP ✨ honeyyyy im baaaack!!!',
 			date: '2024-06-07'
-		},{
-			link: 'yzRwQem4cgo',
-			title: 'Space 🪐 Cadet After Party! 🥂',
-			date: '2024-06-09'
 		},{
 			link: 'yzRwQem4cgo',
 			title: 'Space 🪐 Cadet After Party! 🥂',
@@ -435,14 +423,6 @@ var streams =	[{
 			link: '19RNZr0uAMY',
 			title: 'just chilla out with me! 💖💜',
 			date: '2024-07-11'
-		},{
-			link: '19RNZr0uAMY',
-			title: 'just chilla out with me! 💖💜',
-			date: '2024-07-11'
-		},{
-			link: '9ZSesjyGOmw',
-			title: 'please tell me what to stream',
-			date: '2024-07-25'
 		},{
 			link: '9ZSesjyGOmw',
 			title: 'please tell me what to stream',
@@ -559,10 +539,6 @@ var streams =	[{
 		},{
 			title: 'recall ashton marten... 【?】',
 			date: '2025-05-21'
-		},{
-			link: 'TnMjOUPK1Cg',
-			title: 'myaaaaaaa 【being lazy】',
-			date: '2025-05-27'
 		},{
 			link: 'TnMjOUPK1Cg',
 			title: 'myaaaaaaa 【being lazy】',
@@ -911,10 +887,6 @@ var streams =	[{
 			title: '🎤 offkai concert singing practice 🎶',
 			date: '2024-05-06'
 		},{
-			link: 'NcEluczc-ZE',
-			title: '🎤 offkai concert singing practice 🎶',
-			date: '2024-05-06'
-		},{
 			link: 'rya5cAwu7rY',
 			title: 'monday music practice for idol activities 🎶',
 			date: '2024-05-14'
@@ -961,10 +933,6 @@ var streams =	[{
 			link: '1CVPhuyx6HU',
 			title: 'THE FINAL KARAOKE (in my current rat nest) 【Karaoke】',
 			date: '2025-05-01'
-		},{
-			link: 'UdV29qCBN80',
-			title: 'concert practice! 🎙🐭 【Karaoke Night】',
-			date: '2025-05-29'
 		},{
 			link: 'UdV29qCBN80',
 			title: 'concert practice! 🎙🐭 【Karaoke Night】',
@@ -1913,10 +1881,6 @@ var streams =	[{
 			title: '🌟🏁 PIT CREW RACES 🏁🌟 rev up those chillas! 🐭💨',
 			date: '2025-05-16'
 		},{
-			link: 'tfZ4ZxAYdpQ',
-			title: '🌟🏁 PIT CREW RACES 🏁🌟 rev up those chillas! 🐭💨',
-			date: '2025-05-16'
-		},{
 			link: 'AUpxzkLYAGA',
 			title: '【Plushie Handcam】 lets play touys 🧸',
 			date: '2025-09-13'
@@ -2025,10 +1989,6 @@ var streams =	[{
 			link: '4zKRA-q3aac',
 			title: 'designing outfits for vtubers ✏ *scritchy scratchy* [2hr stream]',
 			date: '2024-04-17'
-		},{
-			link: 'rT992wxB0fE',
-			title: '⭐GOLDEN WEEK BIKINI TIME⭐',
-			date: '2024-05-03'
 		},{
 			link: 'rT992wxB0fE',
 			title: '⭐GOLDEN WEEK BIKINI TIME⭐',
